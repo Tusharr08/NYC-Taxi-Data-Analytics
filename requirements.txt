@@ -3,3 +3,4 @@ pylint
 awscli
 python-dotenv
 dbt-snowflake
+nyc-taxi-venv
