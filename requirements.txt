@@ -1,0 +1,5 @@
+boto3
+pylint
+awscli
+python-dotenv
+dbt-snowflake
