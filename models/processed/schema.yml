@@ -1,0 +1,48 @@
+version: 2
+
+models:
+  - name: prc_taxi_trips
+    description: "Processed version of NYC Taxi Trips with cleaned data."
+    columns:
+      - name: pickup_datetime
+        description: "Timestamp when the trip started"
+        tests:
+          - not_null
+      - name: dropoff_datetime
+        description: "Timestamp when the trip ended"
+        tests:
+          - not_null
+      - name: trip_distance
+        description: "Distance of the trip in miles"
+        tests:
+          - not_null
+      - name: total_amount
+        description: "Total fare paid by the passenger"
+        tests:
+          - not_null
+      - name: PULocationID
+        description: "Total fare paid by the passenger"
+        tests:
+          - not_null
+      - name: DOLocationID
+        description: "Total fare paid by the passenger"
+        tests:
+          - not_null
+      - name: RatecodeID
+        description: "Rate Code ID (1-6)"
+        tests:
+          - not_null
+          - accepted_values:
+              values: [1, 2, 3, 4, 5, 6]
+      - name: payment_type
+        description: "Payment type (0-5)"
+        tests:
+          - not_null
+          - accepted_values:
+              values: [0, 1, 2, 3, 4, 5]
+      - name: store_and_fwd_flag
+        description: "Whether the trip data was stored before forwarding (Y/N)"
+        tests:
+          - not_null
+          - accepted_values:
+              values: ["Y", "N"]

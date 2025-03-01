@@ -1,0 +1,30 @@
+name: nyc_taxi_data_analytics  # Ensure this matches your project name
+version: 1.0.0
+config-version: 2
+profile: nyc_taxi_data_profile
+
+model-paths: ["models"]
+seed-paths: ["seeds"]
+test-paths: ["tests"]
+analysis-paths: ["analyses"]
+macro-paths: ["macros"]
+snapshot-paths: ["snapshots"]
+
+target-path: "target"
+clean-targets: ["target", "dbt_packages", "logs"]
+
+models:
+  nyc_taxi_data_analytics:  # Ensure this matches the project name
+    raw:
+      +schema: raw   # Ensures models in the 'raw' folder are created in the 'raw' schema
+    processed:
+      +schema: processed
+    conformed:
+      +schema: conformed
+    analytics:
+      +schema: analytics
+      +materialized : view
+      
+seeds:
+  nyc_taxi_data_analytics:
+    +schema: seeds

@@ -1,0 +1,73 @@
+version: 2
+
+models:
+  - name: dim_location
+    description: "Dimension Table that stores zones across NYC."
+    columns:
+      - name: location_id
+        tests:
+          - assert_positive_value
+          - unique
+          - not_null
+      - name: borough
+        tests:
+          - not_null
+      - name: zone
+        tests:
+          - not_null
+
+  - name: dim_time
+    description: "Dimension Table that stores pickup time."
+    columns:
+      - name: time_id
+        tests:
+          - unique
+          - not_null
+
+  - name: dim_taxi_trips
+    description: "Dimension Table containing trip records."
+    columns:
+      - name: fare_amount
+        tests:
+          - assert_positive_value
+      - name: trip_distance
+        tests:
+          - assert_positive_value
+      - name: total_amount
+        tests:
+          - assert_positive_value
+      - name: passenger_count
+        tests:
+          - assert_positive_value
+
+      
+  - name: fact_taxi_trips
+    description: "Fact table containing all NYC taxi trip details."
+    columns:
+      - name: trip_id
+        description: "Unique trip identifier"
+        tests:
+          - unique
+          - not_null
+      - name: pickup_datetime
+        tests:
+          - not_null
+      - name: dropoff_datetime
+        tests:
+          - not_null
+      - name: pickup_location_id
+        tests:
+          - relationships:
+              to: ref('dim_location')
+              field: location_id
+      - name: dropoff_location_id
+        tests:
+          - relationships:
+              to: ref('dim_location')
+              field: location_id
+
+      - name: fare_amount
+        tests:
+          - assert_positive_value
+
+  

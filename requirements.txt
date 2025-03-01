@@ -3,4 +3,10 @@ pylint
 awscli
 python-dotenv
 dbt-snowflake
-nyc-taxi-venv
+apache-airflow
+apache-airflow-providers-snowflake
+apache-airflow-providers-amazon
+streamlit
+networkx
+matplotlib
+pyvis

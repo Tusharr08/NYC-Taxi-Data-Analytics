@@ -1,0 +1,7 @@
+version: 2
+
+sources:
+  - name: nyc_raw_source
+    schema: raw
+    tables:
+      - name: nyc_taxi_trips
