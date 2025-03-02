@@ -1,12 +1,8 @@
 
 from airflow import DAG
 from airflow.operators.python import PythonOperator
-from airflow.sensors.python import PythonSensor
-from airflow.sensors.base import BaseSensorOperator
 from airflow.providers.snowflake.operators.snowflake import SQLExecuteQueryOperator
-from airflow.providers.snowflake.hooks.snowflake import SnowflakeHook
 from airflow.operators.bash import BashOperator
-from airflow.sensors.time_delta import TimeDeltaSensor
 from airflow.utils.decorators import apply_defaults
 from datetime import datetime, timedelta
 from utils.data_ingestion_to_S3 import upload_files_to_s3

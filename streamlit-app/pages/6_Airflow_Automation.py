@@ -1,0 +1,36 @@
+import streamlit as st
+import networkx as nx
+import matplotlib.pyplot as  plt
+import streamlit.components.v1 as components
+
+page_bg_img = """
+<style>
+
+[data-testid="stSidebar"] {
+background-image : url("https://images.unsplash.com/photo-1541336032412-2048a678540d?q=80&w=3087&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+background-size : cover;
+}
+</style>
+"""
+
+st.markdown(page_bg_img, unsafe_allow_html=True)
+
+st.title(" :airplane: Airflow Automation")
+    
+# DBT DAG Visualization
+st.subheader("Airflow DAG")
+st.write("""
+The DBT DAG shows the dependencies between models in the data transformation process. Explore the models, seeds and tests developed for rendering real-time data analytics.
+""")
+
+with st.expander('Click to know more about Airflow DAGs used:'):
+    st.write('This project uses 2 Airflow DAGs:')
+    st.code('1: nyc_snfk_one_time_export_s3')
+    st.write('Above DAG exports the seeds to s3://nyc-taxi-data-analytics/seeds. It is a one time export so this dag is developed separately.')
+    st.code('2: nyc_taxi_etl')
+    st.write('This DAG manages complete ETL pipeline from uploading to s3 to exporting views to s3 analytics layer.')
+
+st.caption('Go through the DAGs present in below Airflow Webserver.')
+st.caption('Explore the graph and other details for each DAG.')
+
+st.components.v1.iframe("", height=800, width = 900)

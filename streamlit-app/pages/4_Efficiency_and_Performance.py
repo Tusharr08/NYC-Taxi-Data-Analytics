@@ -5,6 +5,7 @@ import pandas as pd
 import streamlit as st
 import networkx as nx
 from pyvis.network import Network
+from utils.load_view_data import load_data
 
 page_bg_img = """
 <style>
@@ -20,41 +21,6 @@ st.markdown(page_bg_img, unsafe_allow_html=True)
 
 st.title(" :gear: Efficiency & Performance")
 
-BUCKET_NAME = os.getenv('S3_BUCKET_NAME')
-
-s3_client = boto3.client('s3')
-
-
-VIEWS = {
-    "Average Waiting Time Between Trips": "analytics/average_waiting_time_bw_trips/",
-    "Most Efficient Routes": "analytics/most_efficient_route/"
-}
-
-def fetch_and_merge_csvs(view_name):
-    """Fetches the latest CSV file for a given view."""
-    print(f"Fetching {view_name}...")
-    prefix = VIEWS[view_name]
-    response = s3_client.list_objects_v2(Bucket=BUCKET_NAME, Prefix=prefix)
-    
-    if "Contents" not in response:
-        return None  # No files found
-    
-    df_list =[]
-
-    for file in response['Contents']:
-        file_key = file['Key']
-        if file_key.endswith('.csv'):
-            print('file: ', file_key)
-            obj = s3_client.get_object(Bucket=BUCKET_NAME, Key=file_key)
-            df = pd.read_csv(io.BytesIO(obj['Body'].read()))
-            df_list.append(df)
-
-    if not df_list:
-        print('Empty view!')
-        return None
-    
-    merged_df = pd.concat(df_list, ignore_index=True)
-    return merged_df
 
 
 ### 1: Average Waiting Time Between Trips ###
@@ -64,7 +30,7 @@ value_chart_tab, value_dataframe_tab, value_query_tab = st.tabs([
         "Raw Data",
         "SQL Query"
     ])
-df_waiting_time = fetch_and_merge_csvs("Average Waiting Time Between Trips")
+df_waiting_time = load_data("Average Waiting Time Between Trips")
 if df_waiting_time is not None:
     
     sql1= """
@@ -113,12 +79,13 @@ else:
 st.subheader(" What is the most efficient route between common pickup and drop-off points?")
 st.markdown("Below is a network of locations, hover over each path and node to see it's details.")
 st.write('Thicker the Path, More is the efficient and common route.')
+st.caption('Play with the Network! Hold a node and drag it :)')
 value_chart_tab, value_dataframe_tab, value_query_tab = st.tabs([
         "Chart",
         "Raw Data",
         "SQL Query"
     ])
-df_efficient_route = fetch_and_merge_csvs("Most Efficient Routes")
+df_efficient_route = load_data("Most Efficient Routes")
 print(df_efficient_route)
 if df_efficient_route is not None:
     

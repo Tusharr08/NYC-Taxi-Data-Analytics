@@ -3,6 +3,7 @@ import io
 import boto3
 import pandas as pd
 import streamlit as st
+from utils.load_view_data import load_data
 
 page_bg_img = """
 <style>
@@ -18,51 +19,13 @@ st.markdown(page_bg_img, unsafe_allow_html=True)
 
 st.title(" :money_with_wings: Revenue & Fare Insights")
 
-BUCKET_NAME = os.getenv('S3_BUCKET_NAME')
-
-s3_client = boto3.client('s3')
-
-
-VIEWS = {
-    "Average Fare Amount" : "analytics/average_fare_amount/",
-    "Fare Amount by Borough": "analytics/fare_amount_by_borough/",
-    "Peak vs. Non-Peak Hour Revenue Trends": "analytics/peak_vs_nonpeak_hour/",
-    "Total Monthly Earnings Analysis": "analytics/total_earnings_per_month/"
-}
-
-def fetch_and_merge_csvs(view_name):
-    """Fetches the latest CSV file for a given view."""
-    print(f"Fetching {view_name}...")
-    prefix = VIEWS[view_name]
-    response = s3_client.list_objects_v2(Bucket=BUCKET_NAME, Prefix=prefix)
-    
-    if "Contents" not in response:
-        return None  # No files found
-    
-    df_list =[]
-
-    for file in response['Contents']:
-        file_key = file['Key']
-        if file_key.endswith('.csv'):
-            print('file: ', file_key)
-            obj = s3_client.get_object(Bucket=BUCKET_NAME, Key=file_key)
-            df = pd.read_csv(io.BytesIO(obj['Body'].read()))
-            df_list.append(df)
-
-    if not df_list:
-        print('Empty view!')
-        return None
-    
-    merged_df = pd.concat(df_list, ignore_index=True)
-    return merged_df
-
 
 ### 1: Fare Amount by Borough ###
 
 col1, col2 = st.columns([1,1])
 st.subheader(" How does fare amount vary by borough or distance traveled?")
 
-df_average_fare_amount = fetch_and_merge_csvs("Average Fare Amount")
+df_average_fare_amount = load_data("Average Fare Amount")
 col1.metric(label="Average Fare Amount", value=f"$ {df_average_fare_amount['AVG_FARE_PER_TRIP'][0]}", delta="$ 2.5")
 col2.metric(label="Total Trips" , value=df_average_fare_amount['TOTAL_TRIPS'], delta='1M +')
 
@@ -71,7 +34,7 @@ value_chart_tab, value_dataframe_tab, value_query_tab = st.tabs([
         "Raw Data",
         "SQL Query"
     ])
-df_fare_amount = fetch_and_merge_csvs("Fare Amount by Borough")
+df_fare_amount = load_data("Fare Amount by Borough")
 
 
 if df_fare_amount is not None:
@@ -108,7 +71,7 @@ value_chart_tab, value_dataframe_tab, value_query_tab = st.tabs([
         "Raw Data",
         "SQL Query"
     ])
-df_peak_vs_nonpeak = fetch_and_merge_csvs("Peak vs. Non-Peak Hour Revenue Trends")
+df_peak_vs_nonpeak = load_data("Peak vs. Non-Peak Hour Revenue Trends")
 print(df_peak_vs_nonpeak)
 if df_peak_vs_nonpeak is not None:
     
@@ -154,7 +117,7 @@ value_chart_tab, value_dataframe_tab, value_query_tab = st.tabs([
         "Raw Data",
         "SQL Query"
     ])
-df_total_earnings = fetch_and_merge_csvs("Total Monthly Earnings Analysis")
+df_total_earnings = load_data("Total Monthly Earnings Analysis")
 if df_total_earnings is not None:
     
     sql3= """

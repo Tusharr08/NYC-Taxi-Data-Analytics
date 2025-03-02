@@ -1,5 +1,6 @@
 import os
 import streamlit as st
+from streamlit_extras.let_it_rain import rain 
 
 # Set page config
 st.set_page_config(page_title="NYC Taxi Data Dashboard", layout="wide")
@@ -15,10 +16,32 @@ page_bg_img = """
 """
 st.markdown(page_bg_img, unsafe_allow_html=True)
 
+
 # Main content for the Overview page
 st.title(":rocket: NYC Yellow Taxi Data Analytics")
 
-col1, col2 = st.columns([3,2])
+col1, col2 = st.columns([3,1])
+# Initialize heart counter in session state
+if "heart_count" not in st.session_state:
+    st.session_state.heart_count = 0
+
+# Display heart button
+col1.markdown(f"#### :snowflake: **Total Snowflakes Dropped:** {st.session_state.heart_count}")
+if col2.button(":snowflake: Drop a Snowflake"):
+    st.session_state.heart_count += 1
+
+    # Trigger heart rain animation
+    rain(
+        emoji="❄️",
+        font_size=54,
+        falling_speed=5,
+        animation_length=20,
+    )
+
+# Display total hearts
+
+
+
 
 # Project Banner
 st.image(os.path.join(os.getcwd(), "streamlit-app/assets/vidar-nordli-mathisen-ZYDhBqxJnJ8-unsplash.jpg"), use_container_width=True)

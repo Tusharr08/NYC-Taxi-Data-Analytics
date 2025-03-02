@@ -3,6 +3,7 @@ import io
 import boto3
 import pandas as pd
 import streamlit as st
+from utils.load_view_data import load_data
 
 page_bg_img = """
 <style>
@@ -18,44 +19,6 @@ st.markdown(page_bg_img, unsafe_allow_html=True)
 
 st.title(" :person_in_tuxedo: Customer Insights")
 
-BUCKET_NAME = os.getenv('S3_BUCKET_NAME')
-
-s3_client = boto3.client('s3')
-
-
-VIEWS = {
-    "Cash vs Card Transactions": "analytics/cash_vs_card_trans/",
-    "Most Common Payment Types": "analytics/most_common_payment/",
-    "Short vs Long Trips": "analytics/short_vs_long_trips/",
-    "Peak Customer Demand by Time & Location": "analytics/peak_customer_demand/",
-    "Tipping Behavior" : "analytics/tipping_behaviour/"
-}
-
-def fetch_and_merge_csvs(view_name):
-    """Fetches the latest CSV file for a given view."""
-    print(f"Fetching {view_name}...")
-    prefix = VIEWS[view_name]
-    response = s3_client.list_objects_v2(Bucket=BUCKET_NAME, Prefix=prefix)
-    
-    if "Contents" not in response:
-        return None  # No files found
-    
-    df_list =[]
-
-    for file in response['Contents']:
-        file_key = file['Key']
-        if file_key.endswith('.csv'):
-            print('file: ', file_key)
-            obj = s3_client.get_object(Bucket=BUCKET_NAME, Key=file_key)
-            df = pd.read_csv(io.BytesIO(obj['Body'].read()))
-            df_list.append(df)
-
-    if not df_list:
-        print('Empty view!')
-        return None
-    
-    merged_df = pd.concat(df_list, ignore_index=True)
-    return merged_df
 
 ### 1: Peak Customer Demand by Time & Location ###
 st.subheader(" What is the peak Customer Demand by Time & Location?")
@@ -66,7 +29,7 @@ value_chart_tab, value_dataframe_tab, value_query_tab = st.tabs([
         "SQL Query"
     ])
 
-df_peak_cust_demand = fetch_and_merge_csvs("Peak Customer Demand by Time & Location")
+df_peak_cust_demand = load_data("Peak Customer Demand by Time & Location")
 if df_peak_cust_demand is not None:
     
     sql1= """
@@ -109,7 +72,7 @@ value_chart_tab, value_dataframe_tab, value_query_tab = st.tabs([
         "SQL Query"
     ])
 
-df_tipping_behavior = fetch_and_merge_csvs("Tipping Behavior")
+df_tipping_behavior = load_data("Tipping Behavior")
 if df_tipping_behavior is not None:
     
     sql1= """
@@ -156,7 +119,7 @@ value_chart_tab, value_dataframe_tab, value_query_tab = st.tabs([
         "SQL Query"
     ])
 
-df_cash_vs_card = fetch_and_merge_csvs("Cash vs Card Transactions")
+df_cash_vs_card = load_data("Cash vs Card Transactions")
 print(df_cash_vs_card)
 if df_cash_vs_card is not None:
     
@@ -190,7 +153,7 @@ value_chart_tab, value_dataframe_tab, value_query_tab = st.tabs([
         "Raw Data",
         "SQL Query"
     ])
-df_payment_methods = fetch_and_merge_csvs("Most Common Payment Types")
+df_payment_methods = load_data("Most Common Payment Types")
 print(df_payment_methods)
 if df_payment_methods is not None:
     
@@ -242,7 +205,7 @@ value_chart_tab, value_dataframe_tab, value_query_tab = st.tabs([
         "Raw Data",
         "SQL Query"
     ])
-df_short_vs_long = fetch_and_merge_csvs("Short vs Long Trips")
+df_short_vs_long = load_data("Short vs Long Trips")
 if df_short_vs_long is not None:
     
     sql3= """

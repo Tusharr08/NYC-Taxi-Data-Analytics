@@ -3,6 +3,7 @@ import io
 import boto3
 import pandas as pd
 import streamlit as st
+from utils.load_view_data import load_data
 
 page_bg_img = """
 <style>
@@ -18,43 +19,6 @@ st.markdown(page_bg_img, unsafe_allow_html=True)
 
 st.title(" :taxi: Trip Patterns")
 
-BUCKET_NAME = os.getenv('S3_BUCKET_NAME')
-
-s3_client = boto3.client('s3')
-
-
-VIEWS = {
-    "Average Trip Duration": "analytics/average_trip_duration/",
-    "Common Pickup Locations": "analytics/common_pickup_locations/",
-    "Trips by Time and Day": "analytics/trips_by_time_and_day/"
-}
-
-def fetch_and_merge_csvs(view_name):
-    """Fetches the latest CSV file for a given view."""
-    print(f"Fetching {view_name}...")
-    prefix = VIEWS[view_name]
-    response = s3_client.list_objects_v2(Bucket=BUCKET_NAME, Prefix=prefix)
-    
-    if "Contents" not in response:
-        return None  # No files found
-    
-    df_list =[]
-
-    for file in response['Contents']:
-        file_key = file['Key']
-        if file_key.endswith('.csv'):
-            print('file: ', file_key)
-            obj = s3_client.get_object(Bucket=BUCKET_NAME, Key=file_key)
-            df = pd.read_csv(io.BytesIO(obj['Body'].read()))
-            df_list.append(df)
-
-    if not df_list:
-        print('Empty view!')
-        return None
-    
-    merged_df = pd.concat(df_list, ignore_index=True)
-    return merged_df
-
 
 ### 1: Trips by Time and Day###
 st.subheader(" How does the number of trips vary by time of day and day of the week?")
@@ -63,7 +27,7 @@ value_chart_tab, value_dataframe_tab, value_query_tab = st.tabs([
         "Raw Data",
         "SQL Query"
     ])
-df_trips_vary = fetch_and_merge_csvs("Trips by Time and Day")
+df_trips_vary = load_data("Trips by Time and Day")
 if df_trips_vary is not None:
     
     sql3= """
@@ -97,7 +61,7 @@ value_chart_tab, value_dataframe_tab, value_query_tab = st.tabs([
         "Raw Data",
         "SQL Query"
     ])
-df_common_pickups = fetch_and_merge_csvs("Common Pickup Locations")
+df_common_pickups = load_data("Common Pickup Locations")
 print(df_common_pickups)
 if df_common_pickups is not None:
     
@@ -156,7 +120,7 @@ value_chart_tab, value_dataframe_tab, value_query_tab = st.tabs([
         "Raw Data",
         "SQL Query"
     ])
-df_avg_trip_duration = fetch_and_merge_csvs("Average Trip Duration")
+df_avg_trip_duration = load_data("Average Trip Duration")
 if df_avg_trip_duration is not None:
     
     sql1= """
