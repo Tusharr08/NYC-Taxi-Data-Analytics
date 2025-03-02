@@ -40,3 +40,9 @@ st.caption('You can click the blue icon on the bottom-right corner of the page t
 
 st.markdown('[View Data Lineage](http://nyc-taxi-data-analytics.s3-website-us-west-2.amazonaws.com/#!/overview)', unsafe_allow_html=True)
 
+st.components.v1.iframe("http://nyc-taxi-data-analytics.s3-website-us-west-2.amazonaws.com/#!/overview", height=800, width = 900)
+
+components.html(
+    '<iframe src="http://nyc-taxi-data-analytics.s3-website-us-west-2.amazonaws.com/#!/overview" width="900" height="800"></iframe>',
+    height=800
+)
