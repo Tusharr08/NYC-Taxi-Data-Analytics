@@ -9,3 +9,4 @@ streamlit
 networkx
 matplotlib
 pyvis
+streamlit_extras
