@@ -20,7 +20,8 @@ st.title(" :airplane: Airflow Automation")
 # DBT DAG Visualization
 st.subheader("Airflow DAG")
 st.write("""
-The DBT DAG shows the dependencies between models in the data transformation process. Explore the models, seeds and tests developed for rendering real-time data analytics.
+The Apache Airflow automates data pipelines using DAGs (Directed Acyclic Graphs).
+Instead of manually running scripts, Airflow schedules and executes tasks.
 """)
 
 with st.expander('Click to know more about Airflow DAGs used:'):
@@ -30,7 +31,7 @@ with st.expander('Click to know more about Airflow DAGs used:'):
     st.code('2: nyc_taxi_etl')
     st.write('This DAG manages complete ETL pipeline from uploading to s3 to exporting views to s3 analytics layer.')
 
-st.caption('Go through the DAGs present in below Airflow Webserver.')
+st.caption('Go through the DAGs present in below Airflow Webserver. Choose the ones starting with nyc.')
 st.caption('Explore the graph and other details for each DAG.')
 
-st.components.v1.iframe("", height=800, width = 900)
+st.components.v1.iframe("http://ec2-35-88-151-178.us-west-2.compute.amazonaws.com:8080/", height=800, width = 900)

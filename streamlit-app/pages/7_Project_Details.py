@@ -52,6 +52,7 @@ def project_details_page():
 │   ├── __pycache__
 │   │   ├── one_time_export.cpython-312.pyc
 │   │   └── pipeline.cpython-312.pyc
+│   ├── ec2-airflow.pem
 │   ├── one_time_export.py
 │   ├── pipeline.py
 │   └── utils
@@ -59,10 +60,14 @@ def project_details_page():
 │       ├── __pycache__
 │       └── data_ingestion_to_S3.py
 ├── data
-│   ├── processed
-│   │   └── prc_taxi_trips
 │   └── raw
 │       ├── yellow_tripdata_2022-01.parquet
+│       ├── yellow_tripdata_2022-02.parquet
+│       ├── yellow_tripdata_2022-03.parquet
+│       ├── yellow_tripdata_2022-04.parquet
+│       ├── yellow_tripdata_2022-05.parquet
+│       ├── yellow_tripdata_2022-06.parquet
+│       ├── yellow_tripdata_2022-07.parquet
 │       ├── yellow_tripdata_2023-01.parquet
 │       ├── yellow_tripdata_2023-02.parquet
 │       └── yellow_tripdata_2023-03.parquet
@@ -137,6 +142,7 @@ def project_details_page():
 │   │   ├── email_validator
 │   │   ├── f2py
 │   │   ├── fabmanager
+│   │   ├── faker
 │   │   ├── flask
 │   │   ├── fonttools
 │   │   ├── get_gprof
@@ -153,6 +159,7 @@ def project_details_page():
 │   │   ├── keyring
 │   │   ├── mako-render
 │   │   ├── markdown-it
+│   │   ├── markdown_py
 │   │   ├── normalizer
 │   │   ├── nvd3
 │   │   ├── pip
@@ -193,6 +200,7 @@ def project_details_page():
 │   │   ├── snowflake-dump-ocsp-response
 │   │   ├── snowflake-dump-ocsp-response-cache
 │   │   ├── sqlformat
+│   │   ├── st-theme
 │   │   ├── streamlit
 │   │   ├── streamlit.cmd
 │   │   ├── symilar
@@ -228,13 +236,18 @@ def project_details_page():
 │   │   ├── timo-wagner-fT6-YkB0nfg-unsplash.jpg
 │   │   └── vidar-nordli-mathisen-ZYDhBqxJnJ8-unsplash.jpg
 │   ├── components
-│   └── pages
-│       ├── 1_Trip_Patterns.py
-│       ├── 2_Revenue_Analysis.py
-│       ├── 3_Customer_Insights.py
-│       ├── 4_Efficiency_and_Performance.py
-│       ├── 5_Data_Lineage.py
-│       └── 6_Project_Details.py
+│   ├── pages
+│   │   ├── 1_Trip_Patterns.py
+│   │   ├── 2_Revenue_Analysis.py
+│   │   ├── 3_Customer_Insights.py
+│   │   ├── 4_Efficiency_and_Performance.py
+│   │   ├── 5_Data_Lineage.py
+│   │   ├── 6_Airflow_Automation.py
+│   │   └── 7_Project_Details.py
+│   └── utils
+│       ├── __init__.py
+│       ├── __pycache__
+│       └── load_view_data.py
 ├── target
 │   ├── catalog.json
 │   ├── compiled
@@ -251,6 +264,8 @@ def project_details_page():
     ├── assert_valid_trip_location.sql
     ├── duplicate_check.sql
     └── fact_vs_dim_count.sql
+
+43 directories, 176 files
             """)
 
 project_details_page()
