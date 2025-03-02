@@ -38,11 +38,11 @@ with st.expander('Click to know more about the dbt structure:'):
 st.caption('Go through the models, seeds and tests listed in left pane.')
 st.caption('You can click the blue icon on the bottom-right corner of the page to view the lineage graph of your models. Click on any node to highlight the lineage.')
 
-st.markdown('[View Data Lineage](http://nyc-taxi-data-analytics.s3-website-us-west-2.amazonaws.com/#!/overview)', unsafe_allow_html=True)
+st.markdown('[View Data Lineage](https://nyc-taxi-data-analytics.s3-website-us-west-2.amazonaws.com/#!/overview)', unsafe_allow_html=True)
 
-st.components.v1.iframe("http://nyc-taxi-data-analytics.s3-website-us-west-2.amazonaws.com/#!/overview", height=800, width = 900)
+st.components.v1.iframe("https://nyc-taxi-data-analytics.s3-website-us-west-2.amazonaws.com/#!/overview", height=800, width = 900)
 
 components.html(
-    '<iframe src="http://nyc-taxi-data-analytics.s3-website-us-west-2.amazonaws.com/#!/overview" width="900" height="800"></iframe>',
+    '<iframe src="https://nyc-taxi-data-analytics.s3-website-us-west-2.amazonaws.com/#!/overview" width="900" height="800"></iframe>',
     height=800
 )
