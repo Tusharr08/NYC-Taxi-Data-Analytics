@@ -6,11 +6,13 @@ from dotenv import load_dotenv
 
 load_dotenv('.env')
 
+AWS_ACCESS_KEY = os.getenv('AWS_PYTHON_USER_ACCESS_KEY')
+AWS_SECRET_KEY = os.getenv('AWS_PYTHON_USER_SECRET_ACCESS_KEY')
 BUCKET_NAME = os.getenv('S3_BUCKET_NAME')
 S3_BASE_FOLDER = os.getenv('S3_BASE_FOLDER')
 LOCAL_FOLDER = 'data/raw'
 
-s3_client = boto3.client('s3')
+s3_client = boto3.client('s3', aws_access_key_id=AWS_ACCESS_KEY, aws_secret_access_key=AWS_SECRET_KEY)
 
 def file_exists_in_s3(bucket, prefix):
     """
