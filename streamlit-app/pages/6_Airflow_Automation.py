@@ -32,8 +32,8 @@ with st.expander('Click to know more about Airflow DAGs used:'):
     st.code('2: nyc_taxi_etl')
     st.write('This DAG manages complete ETL pipeline from uploading to s3 to exporting views to s3 analytics layer.')
 
-st.caption('Go through the DAGs present in below Airflow Webserver. Choose the ones starting with nyc.')
-st.caption('Explore the graph and other details for each DAG.')
+st.caption('Go through the DAGs present in below Airflow Webserver screenshot.')
+st.caption('For now, airflow is not hosted anywhere but you can find the working code in git repo.')
 
 st.image(os.path.join(os.getcwd(), 'streamlit-app/assets/airflow-dag.png') , use_container_width=True)
 st.components.v1.iframe("https://ec2-35-88-151-178.us-west-2.compute.amazonaws.com:8080/", height=800, width = 900)

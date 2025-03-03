@@ -3,7 +3,7 @@ import streamlit as st
 from streamlit_extras.let_it_rain import rain 
 
 # Set page config
-st.set_page_config(page_title="NYC Taxi Data Dashboard", layout="wide")
+st.set_page_config(page_title="NYC Taxi Data Dashboard",page_icon=":streamlit:",    layout="wide")
 
 # Custom background for the sidebar
 page_bg_img = """
@@ -62,7 +62,7 @@ st.write("""
 # Technology Stack
 st.header("🛠️ Technology Stack")
 technologies = [
-    "Python 🐍", "Streamlit 🖥️", "DBT 📊", "Apache Airflow 🌬️", "Snowflake ❄️", "AWS S3 ☁️", "Boto3 📦"
+    "Python ", "Streamlit :streamlit:", "Data Build Tool(dbt) 📊", "Apache Airflow 🌬️", "Snowflake ❄️", "AWS S3 ☁️", "Boto3 📦"
 ]
 cols = st.columns(len(technologies))
 for col, tech in zip(cols, technologies):
