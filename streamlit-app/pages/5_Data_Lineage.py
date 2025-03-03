@@ -38,4 +38,5 @@ with st.expander('Click to know more about the dbt structure:'):
 st.caption('Go through the models, seeds and tests listed in left pane.')
 st.caption('You can click the blue icon on the bottom-right corner of the page to view the lineage graph of your models. Click on any node to highlight the lineage.')
 
-st.components.v1.iframe("https://nyc-taxi-data-analytics.s3.us-west-2.amazonaws.com/index.html#!/overview", height=800, width = 900)
+with st.spinner('Loading dbt core dag...'):
+    st.components.v1.iframe("https://nyc-taxi-data-analytics.s3.us-west-2.amazonaws.com/index.html#!/overview", height=800, width = 900)

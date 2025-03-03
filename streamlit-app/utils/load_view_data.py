@@ -8,11 +8,15 @@ from dotenv import load_dotenv
 
 load_dotenv('.env')
 
-BUCKET_NAME = os.getenv('S3_BUCKET_NAME')
-AWS_ACCESS_KEY = os.getenv('AWS_PYTHON_USER_ACCESS_KEY')
-AWS_SECRET_KEY = os.getenv('AWS_PYTHON_USER_SECRET_ACCESS_KEY')
+BUCKET_NAME = st.secrets['S3_BUCKET_NAME']
+AWS_ACCESS_KEY = st.secrets['AWS_PYTHON_USER_ACCESS_KEY']
+AWS_SECRET_KEY = st.secrets['AWS_PYTHON_USER_SECRET_ACCESS_KEY']
 
 s3_client = boto3.client('s3', aws_access_key_id=AWS_ACCESS_KEY, aws_secret_access_key=AWS_SECRET_KEY)
+
+# Track file modifications
+if 'last_modified_times' not in st.session_state:
+    st.session_state.last_modified_times = {}
 
 
 VIEWS = {
@@ -36,7 +40,7 @@ VIEWS = {
 }
 
 @st.cache_data
-def fetch_and_merge_csvs(view_name, last_modified=None) -> pd.DataFrame:
+def fetch_and_merge_csvs(view_name, last_modified) -> pd.DataFrame:
     """Fetches the latest CSV file for a given view."""
     print(f"Fetching {view_name}...")
     prefix = VIEWS[view_name]
@@ -70,13 +74,11 @@ def fetch_and_merge_csvs(view_name, last_modified=None) -> pd.DataFrame:
 
 @st.cache_data
 def load_data(view_name: str) -> pd.DataFrame:
-    df, last_modified = fetch_and_merge_csvs(view_name, st.session_state.last_modified_times.get(view_name))
+    df, last_modified = fetch_and_merge_csvs(view_name, float(st.session_state.last_modified_times.get(view_name, 0) or 0))
     if last_modified:
         st.session_state.last_modified_times[view_name] = last_modified
     return df
 
-# Track file modifications
-if 'last_modified_times' not in st.session_state:
-    st.session_state.last_modified_times = {}
+
 
 #st.sidebar.dataframe('S3 Update Timestamps:\n', pd.DataFrame( st.session_state.last_modified_times))

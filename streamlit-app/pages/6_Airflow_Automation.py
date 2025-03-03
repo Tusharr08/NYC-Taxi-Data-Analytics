@@ -1,3 +1,4 @@
+import os
 import streamlit as st
 import networkx as nx
 import matplotlib.pyplot as  plt
@@ -34,4 +35,5 @@ with st.expander('Click to know more about Airflow DAGs used:'):
 st.caption('Go through the DAGs present in below Airflow Webserver. Choose the ones starting with nyc.')
 st.caption('Explore the graph and other details for each DAG.')
 
+st.image(os.path.join(os.getcwd(), 'streamlit-app/assets/airflow-dag.png') , use_container_width=True)
 st.components.v1.iframe("https://ec2-35-88-151-178.us-west-2.compute.amazonaws.com:8080/", height=800, width = 900)
