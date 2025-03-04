@@ -36,4 +36,7 @@ st.caption('Go through the DAGs present in below Airflow Webserver screenshot.')
 st.caption('For now, airflow is not hosted anywhere but you can find the working code in git repo.')
 
 st.image(os.path.join(os.getcwd(), 'streamlit-app/assets/airflow-dag.png') , use_container_width=True)
-st.components.v1.iframe("https://ec2-35-88-151-178.us-west-2.compute.amazonaws.com:8080/", height=800, width = 900)
+
+if st.link_button(label='Click to get viewer access on Airflow!', url='http://streamer:streamer@ec2-35-90-57-50.us-west-2.compute.amazonaws.com:8080/home'):
+    st.toast('username: streamer', icon='🤵')
+    st.toast('password: streamer', icon='💼')
