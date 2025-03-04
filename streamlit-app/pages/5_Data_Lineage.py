@@ -15,7 +15,7 @@ background-size : cover;
 
 st.markdown(page_bg_img, unsafe_allow_html=True)
 
-st.title(" :pushpin: Interactive Data Exploration")
+st.title(" :pushpin: Interactive Data Lineage")
     
 # DBT DAG Visualization
 st.subheader("DBT DAG")
