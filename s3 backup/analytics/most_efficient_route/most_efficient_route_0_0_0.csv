@@ -1,0 +1,1942 @@
+PICKUP_ZONE,DROPOFF_ZONE,AVG_TRIP_DURATION_MINS,TRIP_COUNT
+Upper East Side South,Upper East Side North,7.72,169246
+Upper East Side North,Upper East Side South,9.15,143340
+Upper East Side South,Midtown Center,9.54,72912
+Midtown Center,Upper East Side South,9.11,68074
+Lincoln Square East,Upper West Side South,7.07,63966
+Upper West Side South,Lincoln Square East,169.66,63395
+Upper West Side South,Upper West Side North,6.19,62250
+Midtown Center,Upper East Side North,13.41,61627
+Lenox Hill West,Upper East Side North,7.93,60943
+Upper East Side South,Midtown East,8.74,57271
+Upper East Side North,Midtown Center,14.82,56651
+Yorkville West,Lenox Hill West,6.58,53930
+Clinton East,East Chelsea,8.63,53263
+Upper West Side North,Upper West Side South,6.11,53121
+Lincoln Square East,Upper West Side North,9.27,52716
+Upper East Side North,Lenox Hill West,9.92,51709
+Penn Station/Madison Sq West,Midtown Center,11.96,51512
+Upper East Side North,Upper West Side South,9.84,50527
+Upper East Side South,Lenox Hill West,7.23,49599
+Penn Station/Madison Sq West,Times Sq/Theatre District,220.50,49436
+Midtown East,Upper East Side South,8.46,47652
+Upper East Side South,Yorkville West,8.01,47431
+JFK Airport,Times Sq/Theatre District,273.58,47408
+Upper East Side North,Upper West Side North,10.11,47080
+Lenox Hill West,Upper East Side South,7.08,47041
+Yorkville West,Upper East Side North,6.01,46555
+Upper West Side South,Upper East Side North,10.28,46207
+Lincoln Square East,Upper East Side South,10.23,46099
+Upper East Side South,Lincoln Square East,10.42,45882
+Lenox Hill East,Upper East Side North,10.06,45247
+Gramercy,Murray Hill,7.09,45155
+Upper East Side North,Midtown East,13.43,44023
+Midtown Center,Union Sq,11.19,43740
+Lenox Hill West,Yorkville West,6.00,43625
+Midtown East,Upper East Side North,11.97,43467
+Upper West Side North,Lincoln Square East,9.44,42131
+Midtown North,Upper East Side North,12.11,41464
+Lincoln Square East,Upper East Side North,12.90,41331
+Times Sq/Theatre District,Penn Station/Madison Sq West,9.92,41162
+Lincoln Square East,Clinton East,8.03,40759
+Upper East Side North,Lincoln Square East,12.92,40634
+Penn Station/Madison Sq West,Murray Hill,11.33,40092
+Upper East Side South,Lenox Hill East,9.25,39853
+Yorkville East,Upper East Side North,7.67,39616
+Midtown North,Upper East Side South,9.03,39352
+Upper West Side North,Upper East Side North,9.82,39299
+Upper East Side North,East Harlem South,6.86,39118
+Midtown Center,Midtown South,9.40,38805
+Union Sq,Murray Hill,8.79,38757
+Upper East Side North,Yorkville East,8.11,38440
+East Chelsea,Clinton East,10.18,38340
+Upper East Side North,Yorkville West,6.69,38315
+LaGuardia Airport,Times Sq/Theatre District,581.58,37992
+Upper East Side North,Lenox Hill East,12.12,37966
+Upper East Side South,Upper West Side South,12.98,37206
+JFK Airport,Outside of NYC,44.06,36561
+Midtown Center,Penn Station/Madison Sq West,12.97,36471
+Midtown East,Lenox Hill West,8.74,36028
+Lenox Hill East,Upper East Side South,9.39,35600
+Upper East Side South,Sutton Place/Turtle Bay North,10.11,35512
+Upper West Side South,Lincoln Square West,7.32,35410
+Clinton East,Lincoln Square East,7.31,35286
+Lincoln Square East,Midtown Center,11.70,35264
+Midtown East,Murray Hill,303.67,34847
+JFK Airport,Clinton East,56.12,34793
+Murray Hill,Upper East Side South,12.45,34465
+Lenox Hill West,Sutton Place/Turtle Bay North,8.18,34229
+Sutton Place/Turtle Bay North,Upper East Side South,8.82,34055
+Lenox Hill East,Yorkville West,6.57,34044
+Midtown Center,Murray Hill,8.89,34041
+Upper East Side South,Yorkville East,10.72,33786
+Upper East Side South,Midtown North,9.20,33680
+Midtown North,Midtown Center,7.79,33657
+Upper East Side South,Murray Hill,12.39,33014
+Yorkville West,Upper East Side South,9.60,32991
+Lincoln Square East,Midtown North,7.21,32741
+East Village,Gramercy,6.37,32555
+Murray Hill,Union Sq,8.60,32484
+East Village,Murray Hill,10.49,32359
+Midtown Center,Lenox Hill West,12.01,32188
+Upper West Side South,Manhattan Valley,332.92,31764
+Upper West Side South,Upper East Side South,12.94,31756
+Murray Hill,Midtown Center,9.21,31756
+Midtown South,Midtown Center,8.78,31428
+Penn Station/Madison Sq West,Clinton East,11.02,31045
+Penn Station/Madison Sq West,Union Sq,8.11,30944
+Sutton Place/Turtle Bay North,Lenox Hill West,6.32,30939
+Central Park,Midtown Center,13.03,30935
+Clinton East,Upper West Side South,10.42,30628
+Murray Hill,Gramercy,7.28,30624
+Midtown Center,Midtown North,8.54,30396
+Penn Station/Madison Sq West,Gramercy,11.47,30252
+Lenox Hill East,Yorkville East,6.01,30235
+Lincoln Square East,Lincoln Square West,6.66,30215
+Lincoln Square West,Upper West Side South,6.58,30120
+Clinton East,Midtown Center,10.17,29997
+Clinton East,West Chelsea/Hudson Yards,8.93,29896
+Murray Hill,Sutton Place/Turtle Bay North,8.55,29855
+Upper East Side South,Upper West Side North,14.74,29823
+Upper East Side North,Midtown North,13.74,29806
+Midtown East,Penn Station/Madison Sq West,14.54,29654
+Penn Station/Madison Sq West,Midtown East,14.78,29624
+Union Sq,Midtown Center,12.68,29558
+Lincoln Square East,Times Sq/Theatre District,9.64,29131
+Midtown Center,Times Sq/Theatre District,10.55,29119
+Midtown Center,Lincoln Square East,12.21,29116
+Sutton Place/Turtle Bay North,Lenox Hill East,7.62,28869
+Penn Station/Madison Sq West,Midtown North,13.55,28857
+Midtown North,Lincoln Square East,8.22,28788
+Midtown East,Gramercy,9.87,28744
+Times Sq/Theatre District,Lincoln Square East,9.30,28593
+Yorkville East,Lenox Hill East,6.60,28524
+Murray Hill,Penn Station/Madison Sq West,11.37,27831
+Lenox Hill West,Yorkville East,7.11,27828
+Central Park,Upper East Side South,9.80,27648
+Yorkville West,East Harlem South,6.59,27596
+Murray Hill,Midtown East,7.74,27502
+East Chelsea,Times Sq/Theatre District,13.61,27420
+Manhattan Valley,Upper West Side South,8.19,27410
+Central Park,Upper East Side North,9.78,27272
+Lenox Hill West,Lenox Hill East,7.18,27262
+Upper West Side South,Clinton East,11.83,27249
+Times Sq/Theatre District,LaGuardia Airport,35.03,27247
+Garment District,Midtown Center,8.96,27169
+Yorkville West,Lenox Hill East,8.27,27095
+West Chelsea/Hudson Yards,Clinton East,9.94,27022
+Gramercy,East Village,7.64,27014
+Midtown East,Midtown Center,8.49,26949
+Sutton Place/Turtle Bay North,Upper East Side North,12.55,26844
+Midtown North,Times Sq/Theatre District,9.65,26648
+West Village,East Village,13.02,26460
+JFK Airport,Midtown South,48.34,26384
+Midtown Center,Sutton Place/Turtle Bay North,9.66,26333
+Lenox Hill West,Midtown East,10.49,26286
+Yorkville East,Upper East Side South,12.06,26164
+Midtown East,Union Sq,11.75,26081
+Midtown East,Lenox Hill East,11.21,26063
+Midtown North,Upper West Side South,11.25,25994
+Times Sq/Theatre District,East Chelsea,12.83,25882
+Union Sq,East Chelsea,411.80,25707
+Times Sq/Theatre District,Midtown Center,8.89,25506
+Midtown East,Times Sq/Theatre District,12.24,25493
+Lenox Hill East,Lenox Hill West,7.01,25480
+Upper West Side North,Manhattan Valley,5.82,25479
+East Village,Kips Bay,7.67,25332
+Murray Hill,East Village,12.04,25309
+Murray Hill,Upper East Side North,16.89,25307
+Murray Hill,Lenox Hill West,11.60,25107
+Clinton East,Times Sq/Theatre District,7.92,25087
+Upper East Side North,Central Park,9.83,25032
+Manhattan Valley,Upper West Side North,5.94,24919
+Midtown Center,Clinton East,11.97,24910
+Lincoln Square West,Upper West Side North,8.80,24803
+Lenox Hill West,Midtown Center,12.82,24724
+West Village,East Chelsea,8.90,24691
+Union Sq,East Village,11.28,24637
+Upper East Side South,Central Park,9.96,24594
+Clinton East,Midtown North,7.87,24569
+Upper West Side South,Midtown North,12.09,24549
+Midtown Center,Midtown East,7.83,24472
+Penn Station/Madison Sq West,East Village,438.34,24469
+Times Sq/Theatre District,West Chelsea/Hudson Yards,12.72,24425
+Times Sq/Theatre District,Midtown North,7.60,24406
+Garment District,Times Sq/Theatre District,8.85,24401
+Lenox Hill East,Sutton Place/Turtle Bay North,8.59,24283
+Upper West Side North,Lincoln Square West,439.40,24033
+Midtown South,Times Sq/Theatre District,12.44,24012
+Clinton East,Lincoln Square West,7.68,23996
+Lincoln Square East,Lenox Hill West,13.34,23993
+Sutton Place/Turtle Bay North,Murray Hill,8.63,23973
+East Chelsea,West Chelsea/Hudson Yards,7.11,23907
+Midtown North,Penn Station/Madison Sq West,12.85,23824
+Upper East Side North,Sutton Place/Turtle Bay North,16.03,23816
+Midtown Center,East Chelsea,16.74,23789
+JFK Airport,Murray Hill,43.42,23645
+Central Park,Lincoln Square East,9.66,23639
+Times Sq/Theatre District,Clinton East,8.87,23618
+East Village,West Village,11.68,23580
+Times Sq/Theatre District,Upper West Side South,12.59,23335
+Sutton Place/Turtle Bay North,Midtown Center,10.05,23273
+Union Sq,Penn Station/Madison Sq West,8.71,23272
+Midtown South,Murray Hill,6.83,23171
+Lenox Hill East,Midtown East,12.66,23137
+Flatiron,East Chelsea,7.21,23109
+Central Park,Upper West Side South,9.76,23064
+Midtown Center,Garment District,11.57,23032
+Union Sq,West Village,9.23,22943
+West Village,Union Sq,8.08,22942
+Midtown South,Union Sq,6.06,22685
+Upper West Side South,Midtown Center,15.99,22607
+Yorkville West,Sutton Place/Turtle Bay North,11.03,22542
+Times Sq/Theatre District,Upper East Side South,12.25,22518
+Flatiron,West Village,6.68,22476
+Union Sq,Times Sq/Theatre District,15.29,22472
+Gramercy,Midtown East,10.56,22469
+Midtown East,Midtown South,10.58,22398
+Midtown North,Midtown East,9.01,22387
+Midtown East,Sutton Place/Turtle Bay North,7.05,22206
+JFK Airport,Midtown Center,516.85,22188
+West Village,TriBeCa/Civic Center,10.85,22183
+Midtown East,Yorkville West,11.19,22137
+Upper West Side North,Morningside Heights,8.00,22114
+Penn Station/Madison Sq West,Kips Bay,12.19,22076
+Upper West Side North,Upper East Side South,483.36,22048
+Gramercy,Penn Station/Madison Sq West,480.98,22023
+LaGuardia Airport,Midtown Center,504.93,21977
+Times Sq/Theatre District,Upper East Side North,15.94,21955
+Midtown Center,Upper West Side South,16.23,21928
+East Chelsea,Union Sq,11.12,21886
+East Chelsea,West Village,9.54,21787
+Upper East Side South,Times Sq/Theatre District,13.66,21770
+Lincoln Square East,Midtown East,12.85,21769
+Midtown Center,Gramercy,12.59,21755
+Times Sq/Theatre District,Garment District,8.35,21493
+Sutton Place/Turtle Bay North,Yorkville West,8.66,21463
+Midtown North,Murray Hill,11.81,21425
+Upper East Side South,East Harlem South,11.77,21340
+Midtown North,Lenox Hill West,10.97,21286
+Kips Bay,East Village,8.19,21259
+Clinton East,Penn Station/Madison Sq West,10.69,21248
+Penn Station/Madison Sq West,Upper East Side South,19.82,21185
+Murray Hill,Times Sq/Theatre District,13.00,21135
+East Chelsea,Midtown Center,16.21,21082
+Times Sq/Theatre District,Midtown East,10.73,21065
+Midtown North,Clinton East,10.65,21032
+Lincoln Square East,East Chelsea,13.25,20852
+Yorkville West,Yorkville East,5.35,20824
+Upper East Side South,Union Sq,17.37,20751
+Flatiron,Clinton East,12.92,20680
+JFK Airport,Midtown North,55.49,20566
+Gramercy,Kips Bay,5.68,20560
+Midtown East,Midtown North,9.90,20539
+East Village,Lower East Side,9.67,20525
+JFK Airport,East Chelsea,53.35,20516
+Penn Station/Madison Sq West,West Chelsea/Hudson Yards,9.66,20496
+Clinton East,Upper West Side North,12.44,20489
+Times Sq/Theatre District,Midtown South,11.76,20455
+Gramercy,Sutton Place/Turtle Bay North,10.71,20348
+Penn Station/Madison Sq West,West Village,9.00,20297
+East Village,Union Sq,10.63,20270
+Midtown East,Clinton East,13.68,20182
+Times Sq/Theatre District,Murray Hill,11.75,20102
+Murray Hill,East Chelsea,14.44,20094
+Murray Hill,Midtown North,12.25,20087
+Upper West Side South,Times Sq/Theatre District,14.34,20011
+Yorkville East,Lenox Hill West,8.47,19860
+Midtown Center,LaGuardia Airport,32.87,19857
+East Chelsea,Murray Hill,15.13,19767
+West Village,Flatiron,6.86,19738
+Clinton East,Clinton West,7.12,19734
+Upper East Side North,East Harlem North,10.32,19697
+Sutton Place/Turtle Bay North,Midtown East,7.46,19658
+Gramercy,Midtown Center,13.85,19650
+Midtown North,Midtown South,12.00,19554
+Times Sq/Theatre District,JFK Airport,56.97,19514
+Lenox Hill West,UN/Turtle Bay South,9.98,19508
+Garment District,Midtown North,9.91,19503
+Lenox Hill West,Lincoln Square East,12.94,19410
+LaGuardia Airport,Clinton East,39.08,19319
+JFK Airport,Midtown East,585.00,19183
+Sutton Place/Turtle Bay North,UN/Turtle Bay South,5.99,19100
+Gramercy,UN/Turtle Bay South,9.06,19057
+Midtown Center,West Chelsea/Hudson Yards,18.12,19053
+Lincoln Square West,Lincoln Square East,6.32,19027
+Penn Station/Madison Sq West,UN/Turtle Bay South,15.52,18998
+Flatiron,West Chelsea/Hudson Yards,8.78,18983
+Midtown Center,Lenox Hill East,14.01,18922
+Midtown East,Lincoln Square East,14.92,18907
+Upper East Side South,Lincoln Square West,14.03,18813
+Upper East Side North,Murray Hill,18.77,18781
+Penn Station/Madison Sq West,East Chelsea,561.10,18673
+West Village,Murray Hill,15.95,18663
+Union Sq,Midtown South,9.28,18595
+Midtown Center,Yorkville West,15.45,18585
+Lenox Hill West,Murray Hill,12.86,18431
+Union Sq,Greenwich Village North,6.78,18360
+Union Sq,West Chelsea/Hudson Yards,12.44,18323
+West Chelsea/Hudson Yards,Times Sq/Theatre District,14.27,18307
+Midtown North,Lincoln Square West,10.18,18212
+East Chelsea,Midtown North,15.27,18190
+Lincoln Square East,Manhattan Valley,11.12,18182
+Clinton East,Murray Hill,13.87,18172
+Upper East Side South,Midtown South,15.55,18125
+East Chelsea,Clinton West,9.66,18114
+Midtown South,Upper East Side South,14.72,18109
+Midtown North,Garment District,11.81,18063
+Union Sq,Upper East Side South,17.71,18035
+Murray Hill,Clinton East,14.68,17975
+Sutton Place/Turtle Bay North,Kips Bay,8.11,17919
+Midtown North,Sutton Place/Turtle Bay North,9.75,17905
+Upper West Side South,Morningside Heights,10.78,17888
+Midtown Center,Greenwich Village North,15.28,17849
+Lenox Hill East,Midtown Center,14.76,17803
+Midtown East,Kips Bay,8.75,17782
+LaGuardia Airport,Midtown East,1190.80,17781
+Central Park,Times Sq/Theatre District,597.68,17753
+Murray Hill,Midtown South,7.45,17751
+Central Park,Upper West Side North,9.48,17687
+Upper West Side South,Lenox Hill West,13.98,17629
+Midtown North,Union Sq,15.88,17543
+Midtown South,Midtown North,12.75,17476
+Lincoln Square East,Central Park,10.03,17471
+Yorkville West,East Harlem North,8.62,17414
+Clinton East,Midtown East,12.37,17385
+West Village,Gramercy,12.72,17365
+Yorkville East,Yorkville West,6.15,17323
+West Village,Penn Station/Madison Sq West,8.80,17278
+Upper East Side South,Penn Station/Madison Sq West,19.31,17219
+Upper West Side South,Yorkville West,11.91,17206
+Times Sq/Theatre District,Union Sq,14.48,17196
+Midtown North,East Chelsea,16.60,17137
+Gramercy,Upper East Side South,16.18,17095
+West Village,West Chelsea/Hudson Yards,10.74,17086
+Yorkville West,Upper West Side South,11.81,17073
+Clinton East,Upper East Side South,12.43,17058
+Gramercy,Lenox Hill West,13.94,17054
+Gramercy,Union Sq,7.37,17048
+Midtown East,East Chelsea,16.40,17022
+JFK Airport,LaGuardia Airport,29.59,16972
+Lincoln Square East,Lenox Hill East,16.47,16956
+Midtown North,Upper West Side North,14.02,16905
+Garment District,Murray Hill,10.28,16880
+Midtown East,Garment District,13.05,16844
+East Village,East Chelsea,17.18,16781
+East Village,UN/Turtle Bay South,10.55,16766
+Upper East Side North,Times Sq/Theatre District,17.96,16758
+West Chelsea/Hudson Yards,East Chelsea,8.17,16719
+LaGuardia Airport,Midtown South,1269.23,16667
+Lower East Side,East Village,8.59,16575
+Midtown South,Midtown East,11.09,16559
+Upper East Side South,Clinton East,15.26,16515
+East Village,Penn Station/Madison Sq West,15.48,16501
+Penn Station/Madison Sq West,Upper East Side North,23.47,16468
+Murray Hill,Garment District,10.85,16467
+Penn Station/Madison Sq West,TriBeCa/Civic Center,17.75,16426
+Midtown Center,Central Park,13.45,16399
+Union Sq,Clinton East,16.28,16382
+Flatiron,Penn Station/Madison Sq West,5.94,16364
+Central Park,Midtown North,11.64,16341
+JFK Airport,Baisley Park,12.15,16319
+Times Sq/Theatre District,Central Park,13.01,16301
+Penn Station/Madison Sq West,Lenox Hill West,21.70,16249
+LaGuardia Airport,Midtown North,1309.45,16235
+Flatiron,Murray Hill,12.47,16206
+Greenwich Village North,East Village,9.12,16156
+Midtown Center,UN/Turtle Bay South,648.80,16152
+Upper West Side South,Central Park,9.63,16147
+Union Sq,Gramercy,7.44,16090
+Garment District,Clinton East,9.30,16080
+Midtown North,West Chelsea/Hudson Yards,16.04,16017
+East Village,Sutton Place/Turtle Bay North,13.45,15971
+Greenwich Village North,Murray Hill,12.99,15939
+Union Sq,Greenwich Village South,9.68,15930
+West Village,Clinton East,15.70,15922
+Lincoln Square East,Sutton Place/Turtle Bay North,14.42,15913
+Murray Hill,UN/Turtle Bay South,5.99,15902
+Murray Hill,Lenox Hill East,13.47,15863
+Penn Station/Madison Sq West,Flatiron,5.91,15760
+Lincoln Square West,Clinton East,9.17,15756
+Union Sq,TriBeCa/Civic Center,16.14,15740
+Midtown East,East Village,671.65,15736
+LaGuardia Airport,Murray Hill,26.81,15725
+Murray Hill,Greenwich Village North,11.98,15716
+Union Sq,Midtown East,12.62,15680
+Upper East Side South,Gramercy,16.92,15675
+Midtown South,Clinton East,13.44,15670
+Midtown South,East Chelsea,10.94,15655
+Lincoln Square East,Yorkville West,14.87,15593
+East Village,Greenwich Village South,9.03,15583
+East Chelsea,Flatiron,7.70,15571
+Murray Hill,West Village,17.16,15561
+Sutton Place/Turtle Bay North,Yorkville East,9.16,15522
+TriBeCa/Civic Center,West Village,8.52,15485
+Gramercy,Midtown South,10.12,15465
+Times Sq/Theatre District,Upper West Side North,14.49,15456
+Lenox Hill West,Upper West Side South,14.46,15439
+Penn Station/Madison Sq West,Clinton West,12.64,15434
+Murray Hill,Yorkville West,14.82,15420
+Times Sq/Theatre District,Clinton West,9.46,15408
+Gramercy,East Chelsea,13.70,15405
+Penn Station/Madison Sq West,Midtown South,9.75,15385
+JFK Airport,East Village,46.72,15378
+Lincoln Square East,Murray Hill,16.72,15374
+East Chelsea,East Village,17.86,15369
+Times Sq/Theatre District,Sutton Place/Turtle Bay North,12.06,15307
+Kips Bay,Murray Hill,5.94,15289
+Sutton Place/Turtle Bay North,Gramercy,10.63,15279
+East Chelsea,Lincoln Square East,14.53,15219
+Greenwich Village South,East Village,8.97,15164
+JFK Airport,Upper West Side South,52.31,15158
+Upper East Side North,Lincoln Square West,16.29,15157
+Upper West Side North,East Harlem South,694.65,15103
+Clinton East,Midtown South,696.44,15098
+Murray Hill,Kips Bay,7.42,15092
+Clinton East,West Village,15.41,15061
+Greenwich Village North,Union Sq,6.75,15022
+Union Sq,Upper East Side North,21.90,14975
+Times Sq/Theatre District,Lincoln Square West,11.64,14964
+Clinton East,Flatiron,11.66,14948
+Midtown South,Gramercy,8.59,14940
+UN/Turtle Bay South,Sutton Place/Turtle Bay North,5.94,14914
+Midtown South,East Village,13.80,14905
+Midtown East,Yorkville East,13.36,14902
+Midtown Center,Upper West Side North,18.05,14898
+Midtown Center,West Village,18.80,14858
+Times Sq/Theatre District,Lenox Hill West,14.37,14843
+Union Sq,Midtown North,16.59,14843
+Penn Station/Madison Sq West,Sutton Place/Turtle Bay North,17.79,14813
+Flatiron,Times Sq/Theatre District,13.88,14812
+Midtown South,Upper East Side North,18.39,14812
+Midtown East,LaGuardia Airport,730.22,14727
+Yorkville West,Upper West Side North,11.39,14720
+Lenox Hill West,East Harlem South,10.38,14690
+Penn Station/Madison Sq West,Lenox Hill East,24.87,14679
+Gramercy,West Village,12.11,14671
+Penn Station/Madison Sq West,Lincoln Square East,15.11,14671
+East Chelsea,Midtown South,11.83,14648
+Midtown Center,East Village,18.48,14647
+UN/Turtle Bay South,Lenox Hill West,8.25,14643
+Lincoln Square East,Clinton West,8.71,14630
+East Harlem South,East Harlem North,7.15,14604
+Clinton East,Upper East Side North,16.82,14595
+Morningside Heights,Upper West Side North,8.29,14546
+East Village,Flatiron,12.52,14496
+East Chelsea,Penn Station/Madison Sq West,8.06,14465
+Yorkville West,Lincoln Square East,14.56,14440
+East Chelsea,TriBeCa/Civic Center,18.11,14338
+Midtown South,Sutton Place/Turtle Bay North,12.63,14259
+Midtown Center,Yorkville East,17.61,14230
+Manhattan Valley,Lincoln Square East,12.55,14214
+Murray Hill,Lincoln Square East,18.19,14212
+East Harlem South,Upper East Side North,7.62,14203
+East Village,Midtown East,13.85,14158
+Kips Bay,Sutton Place/Turtle Bay North,7.82,14120
+JFK Airport,Garment District,53.07,14065
+Upper East Side North,Manhattan Valley,746.13,14059
+Garment District,Midtown East,12.19,14045
+Penn Station/Madison Sq West,Greenwich Village North,12.31,14037
+East Village,Midtown South,13.68,14036
+East Chelsea,Gramercy,13.14,14014
+Flatiron,Union Sq,6.81,14006
+Upper East Side South,UN/Turtle Bay South,12.06,14002
+Sutton Place/Turtle Bay North,East Village,13.11,13978
+Lenox Hill East,UN/Turtle Bay South,10.60,13921
+East Village,Lenox Hill West,15.65,13912
+Midtown Center,Lincoln Square West,14.89,13893
+Gramercy,Upper East Side North,20.10,13890
+Midtown East,Upper West Side South,17.39,13889
+Murray Hill,Flatiron,12.57,13860
+Union Sq,Garment District,11.06,13826
+Sutton Place/Turtle Bay North,Midtown North,10.14,13777
+Clinton East,Union Sq,14.84,13716
+Upper West Side North,Midtown North,14.02,13710
+East Chelsea,Meatpacking/West Village West,9.34,13703
+Midtown North,Yorkville West,13.84,13647
+Midtown Center,TriBeCa/Civic Center,25.69,13617
+Upper West Side North,Clinton East,14.32,13606
+JFK Airport,Lincoln Square East,54.21,13596
+Upper West Side South,Lenox Hill East,17.08,13560
+Lenox Hill West,Kips Bay,11.68,13533
+Greenwich Village South,Union Sq,8.86,13468
+Midtown Center,JFK Airport,54.08,13435
+UN/Turtle Bay South,Midtown Center,9.85,13430
+JFK Airport,Upper West Side North,818.29,13418
+Lincoln Square West,Midtown North,8.89,13399
+Kips Bay,Midtown East,8.06,13399
+Yorkville West,Midtown Center,15.98,13376
+Manhattan Valley,Morningside Heights,7.42,13324
+Times Sq/Theatre District,Flatiron,11.32,13317
+UN/Turtle Bay South,Lenox Hill East,9.10,13289
+Flatiron,East Village,13.25,13288
+Upper West Side North,Yorkville West,12.66,13200
+Yorkville West,Midtown East,14.16,13190
+West Chelsea/Hudson Yards,Clinton West,7.23,13182
+West Village,Midtown Center,16.61,13175
+Lenox Hill West,Midtown North,12.39,13155
+JFK Airport,Penn Station/Madison Sq West,52.16,13109
+JFK Airport,Gramercy,43.78,13080
+Midtown North,Lenox Hill East,13.73,13063
+East Village,TriBeCa/Civic Center,14.32,13055
+Flatiron,Gramercy,9.55,13046
+Lincoln Square East,West Chelsea/Hudson Yards,13.51,13028
+Lenox Hill East,Upper West Side South,16.40,13005
+Yorkville East,East Harlem South,9.05,12980
+Midtown East,UN/Turtle Bay South,7.62,12970
+Lincoln Square West,Upper East Side North,14.82,12958
+JFK Airport,UN/Turtle Bay South,41.88,12953
+JFK Airport,South Ozone Park,14.06,12894
+Lenox Hill West,Upper West Side North,15.50,12892
+LaGuardia Airport,Upper East Side North,24.17,12890
+LaGuardia Airport,Upper West Side South,33.16,12889
+Upper West Side South,East Chelsea,17.49,12884
+West Chelsea/Hudson Yards,Midtown Center,1626.92,12821
+Upper West Side South,Midtown East,18.26,12792
+UN/Turtle Bay South,East Village,11.33,12751
+East Village,Little Italy/NoLiTa,10.18,12745
+Midtown Center,Flatiron,14.31,12744
+JFK Airport,Park Slope,49.31,12711
+Midtown North,LaGuardia Airport,34.35,12701
+Midtown North,Central Park,12.13,12679
+Lenox Hill East,Lincoln Square East,16.14,12670
+LaGuardia Airport,East Chelsea,36.62,12655
+Union Sq,Kips Bay,9.32,12647
+Yorkville East,Sutton Place/Turtle Bay North,10.49,12641
+Union Sq,Little Italy/NoLiTa,14.36,12624
+Union Sq,Sutton Place/Turtle Bay North,15.63,12601
+East Chelsea,Upper West Side South,16.47,12587
+Garment District,West Chelsea/Hudson Yards,10.97,12583
+Gramercy,Lower East Side,13.71,12573
+East Village,Greenwich Village North,8.14,12557
+Union Sq,SoHo,12.75,12504
+Gramercy,Lenox Hill East,14.54,12503
+Upper East Side North,Union Sq,23.07,12487
+Murray Hill,West Chelsea/Hudson Yards,16.60,12457
+JFK Airport,Upper East Side North,43.61,12453
+Greenwich Village North,Gramercy,8.22,12453
+Times Sq/Theatre District,West Village,15.50,12418
+West Village,Midtown South,12.43,12408
+Sutton Place/Turtle Bay North,Midtown South,13.54,12397
+West Village,Times Sq/Theatre District,16.17,12396
+TriBeCa/Civic Center,East Village,14.63,12392
+Midtown East,West Chelsea/Hudson Yards,18.66,12381
+Midtown South,UN/Turtle Bay South,9.82,12378
+Upper West Side North,Midtown Center,18.21,12342
+Central Park,Lenox Hill West,11.55,12306
+Garment District,Union Sq,10.58,12301
+Manhattan Valley,Upper East Side North,12.29,12298
+UN/Turtle Bay South,Upper East Side South,10.89,12292
+Midtown South,West Chelsea/Hudson Yards,13.46,12279
+Greenwich Village South,Murray Hill,14.21,12262
+East Village,Clinton East,22.35,12253
+JFK Airport,Lenox Hill West,45.69,12235
+Flatiron,Midtown Center,13.97,12204
+Midtown South,Greenwich Village North,9.39,12143
+Clinton East,Central Park,12.36,12141
+Kips Bay,UN/Turtle Bay South,5.96,12104
+Greenwich Village South,Gramercy,9.72,12094
+Gramercy,Greenwich Village South,10.60,12085
+Lincoln Square East,Penn Station/Madison Sq West,16.25,12062
+Lenox Hill East,Upper West Side North,19.10,12046
+Lenox Hill East,East Harlem South,11.00,12035
+Gramercy,Flatiron,9.71,12029
+Greenwich Village South,West Village,7.76,12006
+Clinton East,Garment District,9.79,12001
+Lincoln Square West,Upper East Side South,12.78,11977
+Upper West Side North,Central Park,10.38,11966
+LaGuardia Airport,Lenox Hill West,26.01,11965
+Penn Station/Madison Sq West,Upper West Side South,882.42,11962
+JFK Airport,Flatiron,49.29,11953
+JFK Airport,Williamsburg (North Side),41.54,11946
+West Village,Little Italy/NoLiTa,12.02,11918
+Upper East Side South,East Chelsea,22.18,11907
+UN/Turtle Bay South,Gramercy,8.28,11903
+Upper West Side North,Lenox Hill West,16.93,11899
+Clinton East,Sutton Place/Turtle Bay North,13.62,11861
+Midtown East,West Village,19.48,11847
+Penn Station/Madison Sq West,Garment District,8.79,11845
+Yorkville East,Midtown Center,15.50,11844
+Midtown North,Clinton West,10.03,11843
+JFK Airport,Sutton Place/Turtle Bay North,44.61,11841
+JFK Airport,Crown Heights North,38.86,11823
+West Village,Lower East Side,15.84,11821
+East Village,Yorkville West,17.06,11808
+Lenox Hill West,Gramercy,15.20,11768
+Little Italy/NoLiTa,East Village,9.46,11767
+East Chelsea,Midtown East,18.08,11763
+West Chelsea/Hudson Yards,Midtown North,895.10,11739
+TriBeCa/Civic Center,Union Sq,893.38,11737
+Kips Bay,Gramercy,6.90,11719
+LaGuardia Airport,Yorkville West,21.62,11712
+Flatiron,Midtown South,9.16,11701
+Kips Bay,Penn Station/Madison Sq West,12.33,11694
+Sutton Place/Turtle Bay North,Union Sq,15.49,11677
+Upper East Side South,Garment District,18.52,11666
+Union Sq,Meatpacking/West Village West,11.42,11651
+Garment District,East Chelsea,9.52,11644
+Morningside Heights,Upper West Side South,12.64,11642
+Yorkville East,Midtown East,13.15,11642
+Times Sq/Theatre District,UN/Turtle Bay South,13.55,11636
+Lincoln Square East,Morningside Heights,14.57,11618
+Greenwich Village North,East Chelsea,11.93,11577
+Clinton East,Lenox Hill West,15.24,11565
+Central Park,Clinton East,16.69,11563
+JFK Airport,Lower East Side,49.64,11556
+East Chelsea,Lincoln Square West,13.58,11543
+Murray Hill,Greenwich Village South,14.60,11522
+JFK Airport,TriBeCa/Civic Center,54.73,11482
+JFK Airport,Yorkville West,42.38,11404
+Union Sq,Flatiron,7.33,11393
+UN/Turtle Bay South,Kips Bay,6.76,11389
+Sutton Place/Turtle Bay North,Times Sq/Theatre District,14.50,11342
+Clinton West,Clinton East,7.69,11311
+Midtown South,Lenox Hill West,16.34,11298
+Gramercy,Yorkville West,16.96,11273
+Upper East Side North,Clinton East,19.40,11258
+Murray Hill,JFK Airport,48.07,11249
+Yorkville West,UN/Turtle Bay South,12.60,11236
+West Chelsea/Hudson Yards,Penn Station/Madison Sq West,928.07,11232
+UN/Turtle Bay South,Murray Hill,6.79,11215
+West Village,Greenwich Village North,7.24,11176
+Midtown Center,Clinton West,14.50,11169
+Upper West Side South,Yorkville East,14.59,11144
+Upper East Side North,Midtown South,947.40,11143
+West Chelsea/Hudson Yards,Union Sq,12.49,11123
+Union Sq,UN/Turtle Bay South,11.98,11120
+East Harlem North,East Harlem South,8.08,11106
+Midtown East,TriBeCa/Civic Center,24.67,11088
+TriBeCa/Civic Center,East Chelsea,14.16,11074
+LaGuardia Airport,Sutton Place/Turtle Bay North,959.83,11054
+West Chelsea/Hudson Yards,Lincoln Square East,12.80,11045
+Lincoln Square East,Yorkville East,16.88,11034
+Upper West Side North,Central Harlem,10.44,11026
+East Chelsea,Upper East Side South,21.75,11014
+Union Sq,Lower East Side,16.50,11013
+Times Sq/Theatre District,Battery Park City,27.19,11000
+East Village,Midtown Center,17.48,10977
+Midtown South,West Village,12.06,10970
+Sutton Place/Turtle Bay North,Penn Station/Madison Sq West,17.00,10962
+Midtown South,Penn Station/Madison Sq West,8.61,10954
+Midtown East,Greenwich Village North,15.09,10925
+LaGuardia Airport,JFK Airport,979.49,10912
+LaGuardia Airport,UN/Turtle Bay South,26.35,10904
+Upper West Side North,Bloomingdale,6.66,10899
+Union Sq,Lenox Hill West,18.62,10895
+TriBeCa/Civic Center,West Chelsea/Hudson Yards,14.10,10891
+Garment District,Upper East Side South,14.80,10888
+Clinton West,West Chelsea/Hudson Yards,7.63,10860
+Gramercy,Greenwich Village North,8.65,10846
+UN/Turtle Bay South,Penn Station/Madison Sq West,15.73,10837
+West Village,SoHo,9.70,10832
+Greenwich Village North,West Village,7.58,10827
+Upper East Side South,Greenwich Village North,20.58,10811
+Greenwich Village North,TriBeCa/Civic Center,12.52,10803
+Upper East Side North,Penn Station/Madison Sq West,24.89,10794
+Murray Hill,TriBeCa/Civic Center,1933.52,10794
+West Chelsea/Hudson Yards,West Village,970.54,10782
+Lenox Hill West,East Village,17.31,10776
+TriBeCa/Civic Center,Times Sq/Theatre District,23.57,10769
+Greenwich Village South,East Chelsea,13.18,10767
+LaGuardia Airport,Lincoln Square East,35.58,10740
+Sutton Place/Turtle Bay North,Lincoln Square East,14.98,10729
+East Chelsea,Greenwich Village North,13.50,10723
+Greenwich Village North,Penn Station/Madison Sq West,11.70,10705
+Times Sq/Theatre District,TriBeCa/Civic Center,23.77,10696
+Greenwich Village North,Midtown Center,17.85,10683
+Upper West Side North,Lenox Hill East,20.08,10650
+East Harlem South,Upper West Side North,979.65,10640
+Upper West Side South,Bloomingdale,8.73,10632
+Lower East Side,Gramercy,10.35,10608
+East Harlem South,Yorkville West,6.52,10602
+Lenox Hill East,Murray Hill,15.12,10588
+Greenwich Village South,TriBeCa/Civic Center,10.02,10583
+East Chelsea,Garment District,10.67,10583
+Central Park,Midtown East,13.85,10582
+Lincoln Square East,Union Sq,18.86,10575
+JFK Airport,Financial District North,53.41,10562
+TriBeCa/Civic Center,Meatpacking/West Village West,8.93,10562
+Clinton East,East Village,21.81,10560
+Kips Bay,Lenox Hill West,10.92,10505
+Times Sq/Theatre District,Gramercy,16.55,10470
+Penn Station/Madison Sq West,Yorkville West,23.53,10454
+LaGuardia Airport,Garment District,37.33,10430
+LaGuardia Airport,Upper West Side North,1018.93,10428
+LaGuardia Airport,Outside of NYC,1037.16,10428
+Midtown Center,Kips Bay,12.96,10421
+Gramercy,Times Sq/Theatre District,17.00,10413
+Lincoln Square East,Midtown South,16.92,10404
+LaGuardia Airport,Yorkville East,20.37,10337
+Penn Station/Madison Sq West,Meatpacking/West Village West,11.35,10325
+Greenwich Village South,Flatiron,8.41,10321
+West Chelsea/Hudson Yards,TriBeCa/Civic Center,17.47,10310
+JFK Airport,Upper East Side South,48.06,10269
+TriBeCa/Civic Center,Midtown Center,23.39,10252
+LaGuardia Airport,Upper East Side South,30.31,10204
+Flatiron,Meatpacking/West Village West,8.63,10203
+Lenox Hill West,Central Park,12.65,10180
+Union Sq,Lincoln Square East,21.15,10163
+Midtown East,JFK Airport,49.46,10156
+Midtown North,West Village,18.88,10155
+Flatiron,TriBeCa/Civic Center,13.80,10152
+Garment District,Lincoln Square East,11.96,10136
+UN/Turtle Bay South,Midtown East,6.93,10130
+Yorkville West,Murray Hill,16.64,10126
+Midtown East,Upper West Side North,19.26,10112
+Midtown East,Flatiron,15.18,10077
+Midtown South,Kips Bay,1036.74,10040
+Murray Hill,Upper West Side South,21.85,10040
+Midtown North,UN/Turtle Bay South,12.59,10029
+Central Park,Midtown South,19.30,10022
+Upper West Side South,West Chelsea/Hudson Yards,15.25,10016
+West Village,Greenwich Village South,10.02,10009
+JFK Airport,Yorkville East,40.43,10008
+Flatiron,Garment District,10.41,9983
+Times Sq/Theatre District,East Village,21.22,9982
+Midtown North,Yorkville East,15.17,9982
+Times Sq/Theatre District,Yorkville West,16.80,9967
+Midtown North,Gramercy,16.41,9895
+Midtown Center,Little Italy/NoLiTa,24.27,9893
+West Chelsea/Hudson Yards,Lincoln Square West,11.16,9878
+Central Park,Lincoln Square West,11.17,9854
+East Village,Lenox Hill East,15.13,9828
+Garment District,Flatiron,1057.92,9824
+East Village,Times Sq/Theatre District,21.48,9812
+Murray Hill,LaGuardia Airport,1080.40,9798
+Bloomingdale,Upper West Side North,7.67,9783
+Sutton Place/Turtle Bay North,Clinton East,15.50,9782
+West Chelsea/Hudson Yards,Midtown South,1070.30,9772
+Midtown East,Central Park,14.04,9764
+East Village,SoHo,10.89,9757
+JFK Airport,Union Sq,1105.36,9745
+Morningside Heights,Manhattan Valley,1065.93,9740
+LaGuardia Airport,East Village,1090.52,9732
+Midtown Center,SoHo,21.80,9716
+West Chelsea/Hudson Yards,Murray Hill,17.38,9707
+Clinton East,LaGuardia Airport,38.41,9700
+Upper East Side South,West Chelsea/Hudson Yards,22.63,9666
+Clinton East,Gramercy,17.63,9666
+Clinton East,JFK Airport,60.43,9662
+Midtown Center,Greenwich Village South,19.60,9648
+Murray Hill,Yorkville East,16.14,9638
+East Village,Financial District North,14.82,9610
+Midtown North,JFK Airport,56.74,9600
+Central Park,Yorkville West,11.56,9581
+East Chelsea,Upper East Side North,24.49,9569
+Midtown South,Lincoln Square East,16.50,9561
+Midtown South,Flatiron,8.02,9555
+Lenox Hill West,Penn Station/Madison Sq West,21.83,9554
+Clinton East,Meatpacking/West Village West,13.77,9537
+Gramercy,Clinton East,19.77,9471
+TriBeCa/Civic Center,Penn Station/Madison Sq West,16.63,9467
+Penn Station/Madison Sq West,Lincoln Square West,16.65,9464
+Flatiron,Greenwich Village North,8.86,9455
+Clinton West,East Chelsea,9.66,9451
+Lenox Hill West,Times Sq/Theatre District,18.00,9447
+TriBeCa/Civic Center,SoHo,8.07,9423
+Lincoln Square West,Midtown Center,13.83,9423
+UN/Turtle Bay South,Times Sq/Theatre District,13.74,9413
+West Chelsea/Hudson Yards,Meatpacking/West Village West,9.92,9407
+East Village,Alphabet City,7.38,9401
+Lincoln Square West,West Chelsea/Hudson Yards,10.51,9364
+West Village,Meatpacking/West Village West,7.07,9363
+Penn Station/Madison Sq West,Greenwich Village South,14.29,9325
+JFK Airport,Forest Hills,24.66,9320
+East Village,West Chelsea/Hudson Yards,18.97,9306
+Greenwich Village North,Midtown South,10.49,9267
+Greenwich Village North,Flatiron,7.76,9263
+LaGuardia Airport,Gramercy,27.23,9241
+Upper West Side North,Times Sq/Theatre District,16.77,9223
+Garment District,Penn Station/Madison Sq West,7.20,9218
+TriBeCa/Civic Center,Greenwich Village North,10.81,9210
+Meatpacking/West Village West,TriBeCa/Civic Center,12.42,9201
+Lincoln Square East,Garment District,13.80,9198
+Midtown North,Flatiron,14.82,9192
+Upper West Side South,Clinton West,12.11,9192
+West Chelsea/Hudson Yards,Flatiron,9.16,9187
+East Village,Upper East Side North,21.25,9145
+Penn Station/Madison Sq West,Lower East Side,21.92,9144
+Midtown East,Lincoln Square West,16.69,9138
+East Village,Two Bridges/Seward Park,11.92,9101
+Upper East Side North,Morningside Heights,16.18,9083
+Garment District,Midtown South,9.17,9072
+Clinton West,Lincoln Square East,6.73,9071
+Upper West Side South,Murray Hill,22.64,9037
+Upper East Side South,West Village,25.05,9031
+Penn Station/Madison Sq West,Little Italy/NoLiTa,19.60,9028
+Midtown Center,Meatpacking/West Village West,20.25,9006
+West Chelsea/Hudson Yards,Upper West Side South,14.39,8989
+Greenwich Village North,Times Sq/Theatre District,19.40,8983
+Times Sq/Theatre District,Lenox Hill East,16.48,8921
+West Village,Midtown North,19.34,8909
+Battery Park City,TriBeCa/Civic Center,8.13,8894
+Upper West Side South,Central Harlem,13.49,8888
+Bloomingdale,Upper West Side South,1173.49,8868
+East Village,Upper East Side South,18.46,8858
+Murray Hill,Lower East Side,17.90,8813
+Midtown South,Garment District,10.33,8811
+Manhattan Valley,Central Harlem,9.30,8780
+Upper East Side North,LaGuardia Airport,24.60,8777
+Union Sq,Upper West Side South,1200.13,8773
+Lenox Hill West,Clinton East,17.72,8753
+JFK Airport,Lenox Hill East,44.28,8723
+UN/Turtle Bay South,Yorkville West,11.25,8690
+Midtown South,JFK Airport,50.68,8683
+Kips Bay,Lenox Hill East,11.31,8674
+Upper East Side North,Gramercy,22.06,8662
+Gramercy,Midtown North,16.67,8659
+Lincoln Square West,Times Sq/Theatre District,11.16,8655
+Garment District,Sutton Place/Turtle Bay North,14.27,8633
+Flatiron,Midtown North,16.05,8606
+TriBeCa/Civic Center,Little Italy/NoLiTa,10.50,8604
+Lower East Side,Murray Hill,14.89,8603
+UN/Turtle Bay South,Midtown South,11.01,8596
+JFK Airport,Greenpoint,39.01,8594
+Lenox Hill East,Midtown North,14.97,8590
+East Chelsea,Upper West Side North,19.45,8588
+East Chelsea,Greenwich Village South,17.10,8573
+Greenwich Village South,Penn Station/Madison Sq West,11.12,8570
+East Village,Meatpacking/West Village West,15.02,8568
+Gramercy,West Chelsea/Hudson Yards,15.85,8568
+Gramercy,TriBeCa/Civic Center,16.61,8553
+JFK Airport,Greenwich Village North,49.91,8538
+LaGuardia Airport,Lenox Hill East,23.74,8534
+Upper East Side North,East Chelsea,25.16,8518
+TriBeCa/Civic Center,Murray Hill,20.95,8517
+Clinton East,Lenox Hill East,17.66,8517
+Upper East Side South,Manhattan Valley,17.21,8498
+Clinton East,Yorkville West,18.10,8498
+East Chelsea,Battery Park City,18.81,8493
+UN/Turtle Bay South,Upper East Side North,1230.33,8488
+Upper West Side South,East Harlem South,14.25,8459
+UN/Turtle Bay South,Union Sq,12.85,8452
+Clinton East,UN/Turtle Bay South,14.67,8448
+SoHo,West Village,8.22,8429
+Upper East Side North,Central Harlem,1237.61,8424
+Greenwich Village North,Little Italy/NoLiTa,9.81,8411
+Kips Bay,Union Sq,8.85,8407
+Lincoln Square West,Manhattan Valley,11.40,8403
+Garment District,Clinton West,11.22,8377
+Garment District,Upper East Side North,19.66,8375
+Midtown East,Clinton West,16.45,8350
+Garment District,West Village,11.37,8332
+Garment District,UN/Turtle Bay South,12.62,8321
+Yorkville West,Kips Bay,15.70,8297
+Lenox Hill West,Midtown South,17.25,8297
+Upper West Side South,Sutton Place/Turtle Bay North,20.36,8280
+Lenox Hill West,Union Sq,19.35,8277
+Upper West Side North,East Harlem North,14.96,8242
+Yorkville West,Central Park,11.29,8231
+Penn Station/Madison Sq West,Battery Park City,21.11,8230
+SoHo,East Village,10.84,8225
+Upper East Side South,East Village,22.61,8220
+West Village,Upper East Side South,24.17,8213
+Central Park,Murray Hill,17.31,8206
+West Village,Battery Park City,11.69,8186
+Penn Station/Madison Sq West,Upper West Side North,20.91,8176
+Midtown South,TriBeCa/Civic Center,20.35,8173
+Gramercy,Little Italy/NoLiTa,13.74,8170
+Clinton East,TriBeCa/Civic Center,22.82,8161
+JFK Airport,Long Island City/Hunters Point,39.30,8134
+Lenox Hill East,Penn Station/Madison Sq West,23.38,8119
+West Chelsea/Hudson Yards,Garment District,13.00,8111
+Little Italy/NoLiTa,Murray Hill,16.22,8109
+Meatpacking/West Village West,East Chelsea,8.70,8107
+Lincoln Square West,Clinton West,7.88,8099
+TriBeCa/Civic Center,Battery Park City,7.74,8096
+Clinton West,Upper West Side South,9.06,8076
+West Village,Kips Bay,15.57,8066
+TriBeCa/Civic Center,Lower East Side,14.81,8051
+Upper East Side North,UN/Turtle Bay South,16.95,8040
+Clinton East,Manhattan Valley,14.10,8040
+Flatiron,Clinton West,12.74,8032
+East Chelsea,Little Italy/NoLiTa,20.95,7998
+Meatpacking/West Village West,West Chelsea/Hudson Yards,8.60,7986
+JFK Airport,Lincoln Square West,55.36,7981
+Yorkville East,Upper West Side South,14.21,7967
+Upper East Side South,Flatiron,21.59,7966
+Upper West Side South,Penn Station/Madison Sq West,20.55,7956
+Lenox Hill East,Kips Bay,1310.07,7954
+East Chelsea,SoHo,16.99,7945
+Midtown North,Greenwich Village North,18.65,7943
+Greenwich Village South,Times Sq/Theatre District,19.34,7890
+TriBeCa/Civic Center,Financial District North,9.24,7884
+Midtown South,LaGuardia Airport,30.65,7881
+Midtown South,Greenwich Village South,12.71,7880
+Yorkville East,Lincoln Square East,17.92,7858
+Murray Hill,Little Italy/NoLiTa,17.46,7857
+LaGuardia Airport,Penn Station/Madison Sq West,35.65,7851
+Central Park,Lenox Hill East,14.42,7846
+TriBeCa/Civic Center,Greenwich Village South,9.89,7836
+Greenwich Village South,Lower East Side,11.06,7833
+Upper West Side North,Midtown East,20.62,7833
+JFK Airport,West Village,52.16,7826
+East Chelsea,Lenox Hill West,21.46,7824
+Lincoln Square East,Central Harlem,16.78,7821
+Lincoln Square East,East Harlem South,15.94,7821
+Penn Station/Madison Sq West,SoHo,17.46,7821
+Lenox Hill West,Lincoln Square West,14.88,7802
+Penn Station/Madison Sq West,Yorkville East,26.38,7799
+Central Park,Union Sq,19.51,7780
+West Village,Midtown East,21.19,7755
+Greenwich Village North,SoHo,9.24,7752
+Greenwich Village South,Midtown South,12.37,7746
+Yorkville West,Midtown North,15.77,7730
+Lenox Hill West,East Harlem North,11.50,7724
+Midtown Center,Battery Park City,29.20,7721
+Sutton Place/Turtle Bay North,Garment District,17.21,7705
+Flatiron,Greenwich Village South,11.81,7696
+East Chelsea,Sutton Place/Turtle Bay North,19.89,7676
+Greenwich Village North,Greenwich Village South,6.68,7676
+Gramercy,Garment District,15.15,7668
+Midtown Center,East Harlem South,16.45,7667
+Gramercy,Yorkville East,17.79,7667
+JFK Airport,Boerum Hill,48.69,7638
+Murray Hill,Upper West Side North,22.73,7636
+Yorkville East,Upper West Side North,15.46,7632
+Manhattan Valley,East Harlem South,11.26,7632
+East Harlem South,Upper East Side South,13.01,7630
+TriBeCa/Civic Center,Flatiron,12.33,7628
+Greenwich Village North,Upper East Side South,22.34,7610
+JFK Airport,Astoria,36.10,7606
+Midtown East,Greenwich Village South,18.83,7602
+Penn Station/Madison Sq West,Central Park,21.37,7594
+Little Italy/NoLiTa,West Village,11.98,7594
+Midtown North,TriBeCa/Civic Center,27.55,7591
+LaGuardia Airport,Flatiron,1393.76,7588
+Midtown South,Yorkville West,19.48,7586
+East Chelsea,UN/Turtle Bay South,18.52,7585
+Union Sq,Yorkville West,21.51,7559
+Garment District,Upper West Side South,16.36,7548
+Clinton East,Kips Bay,17.79,7544
+Sutton Place/Turtle Bay North,Upper West Side South,18.99,7543
+Central Park,Penn Station/Madison Sq West,20.98,7542
+Clinton West,Times Sq/Theatre District,9.37,7535
+Little Italy/NoLiTa,Gramercy,10.30,7532
+JFK Airport,Clinton Hill,42.23,7519
+Midtown North,East Village,21.61,7517
+JFK Airport,World Trade Center,57.14,7509
+Flatiron,Lincoln Square East,17.65,7497
+Times Sq/Theatre District,Meatpacking/West Village West,18.85,7497
+Kips Bay,Midtown Center,12.93,7496
+Lincoln Square West,East Chelsea,13.41,7481
+Garment District,Lenox Hill West,16.68,7473
+Times Sq/Theatre District,Greenwich Village North,19.01,7468
+West Village,Financial District North,15.80,7467
+Penn Station/Madison Sq West,Financial District North,24.01,7466
+West Village,Upper East Side North,25.90,7461
+Yorkville East,East Harlem North,9.53,7459
+Manhattan Valley,Lincoln Square West,12.64,7455
+Greenwich Village South,Meatpacking/West Village West,10.12,7453
+Central Park,Sutton Place/Turtle Bay North,15.29,7444
+Greenwich Village North,Lower East Side,11.51,7436
+East Village,Yorkville East,17.49,7431
+Lower East Side,West Village,13.39,7422
+Upper East Side South,LaGuardia Airport,30.44,7384
+Upper West Side North,Yorkville East,15.21,7380
+Lincoln Square East,Gramercy,20.83,7365
+West Village,Upper West Side South,22.37,7360
+West Village,Garment District,12.85,7355
+LaGuardia Airport,Astoria,13.86,7332
+Kips Bay,Yorkville West,14.69,7330
+East Chelsea,Lower East Side,24.13,7325
+Lincoln Square East,UN/Turtle Bay South,15.81,7313
+Upper East Side South,East Harlem North,14.66,7312
+Union Sq,Clinton West,16.02,7295
+TriBeCa/Civic Center,Clinton East,21.62,7282
+Murray Hill,Central Park,17.16,7278
+Kips Bay,Midtown South,9.76,7277
+Little Italy/NoLiTa,TriBeCa/Civic Center,9.16,7254
+Upper East Side South,TriBeCa/Civic Center,29.82,7247
+Clinton West,Lincoln Square West,6.54,7244
+Yorkville East,UN/Turtle Bay South,10.94,7214
+Flatiron,Kips Bay,11.59,7199
+West Village,Lincoln Square East,21.02,7188
+Murray Hill,Meatpacking/West Village West,18.42,7183
+LaGuardia Airport,Financial District North,35.91,7172
+Midtown South,Lenox Hill East,16.67,7169
+Greenwich Village South,West Chelsea/Hudson Yards,16.57,7167
+JFK Airport,Williamsburg (South Side),43.10,7158
+Upper East Side North,West Chelsea/Hudson Yards,26.11,7136
+Midtown South,Upper West Side South,19.97,7134
+Upper West Side South,LaGuardia Airport,33.09,7133
+Hudson Sq,West Village,5.42,7123
+JFK Airport,Jamaica,21.71,7122
+JFK Airport,Little Italy/NoLiTa,51.08,7122
+Flatiron,Upper East Side South,20.66,7108
+Clinton East,Battery Park City,22.57,7101
+Greenwich Village North,West Chelsea/Hudson Yards,1469.66,7094
+Upper East Side North,Garment District,23.17,7078
+LaGuardia Airport,Union Sq,31.00,7077
+Upper West Side North,East Chelsea,19.16,7073
+JFK Airport,Morningside Heights,49.28,7063
+Greenwich Village South,Midtown Center,17.88,7050
+UN/Turtle Bay South,LaGuardia Airport,25.15,7045
+Garment District,Gramercy,13.84,7034
+Lower East Side,Kips Bay,13.55,7033
+East Chelsea,Kips Bay,16.45,7022
+Midtown South,Little Italy/NoLiTa,19.09,7016
+SoHo,TriBeCa/Civic Center,1479.67,7015
+Yorkville West,Gramercy,17.81,7001
+TriBeCa/Civic Center,Gramercy,16.31,6998
+Times Sq/Theatre District,Little Italy/NoLiTa,25.05,6989
+JFK Airport,Bedford,43.21,6984
+SoHo,Union Sq,11.59,6968
+Murray Hill,SoHo,17.95,6963
+Greenwich Village North,Meatpacking/West Village West,9.54,6962
+Union Sq,Lenox Hill East,20.47,6944
+Lenox Hill East,East Harlem North,13.43,6933
+JFK Airport,Springfield Gardens South,12.71,6886
+West Village,Lenox Hill West,23.57,6881
+Little Italy/NoLiTa,Union Sq,12.42,6859
+Lenox Hill East,Gramercy,16.94,6857
+Lenox Hill East,Central Park,13.44,6849
+Midtown East,East Harlem South,14.49,6846
+UN/Turtle Bay South,Garment District,13.48,6846
+West Chelsea/Hudson Yards,Battery Park City,16.15,6842
+Upper West Side South,Union Sq,22.73,6839
+Central Park,East Chelsea,23.25,6837
+UN/Turtle Bay South,Midtown North,13.38,6829
+West Village,Sutton Place/Turtle Bay North,21.79,6813
+Lincoln Square East,Flatiron,17.36,6805
+Yorkville West,East Village,19.82,6800
+World Trade Center,Times Sq/Theatre District,27.81,6798
+Times Sq/Theatre District,Yorkville East,18.92,6794
+Manhattan Valley,Upper East Side South,18.36,6793
+Lincoln Square East,Bloomingdale,1532.94,6785
+West Village,Clinton West,14.40,6774
+JFK Airport,Flatbush/Ditmas Park,44.35,6768
+Clinton East,Central Harlem,19.77,6749
+JFK Airport,Bushwick South,37.91,6743
+Little Italy/NoLiTa,Times Sq/Theatre District,26.23,6742
+Gramercy,Lincoln Square East,22.32,6740
+Greenwich Village South,Greenwich Village North,6.30,6712
+Kips Bay,Upper East Side South,13.87,6706
+Clinton West,Midtown North,9.40,6704
+Upper East Side South,Kips Bay,14.97,6688
+Midtown South,Lower East Side,18.68,6679
+Murray Hill,Lincoln Square West,20.47,6672
+Lincoln Square East,West Village,21.44,6662
+Upper East Side North,Greenwich Village North,26.33,6646
+Garment District,East Village,18.31,6617
+Midtown South,Clinton West,15.92,6603
+Meatpacking/West Village West,East Village,16.91,6599
+UN/Turtle Bay South,Yorkville East,11.56,6595
+Greenwich Village South,Clinton East,19.57,6584
+Flatiron,Upper West Side South,20.82,6577
+TriBeCa/Civic Center,Midtown South,18.19,6575
+Flatiron,Midtown East,16.31,6569
+West Chelsea/Hudson Yards,Upper East Side South,21.54,6566
+Garment District,Kips Bay,13.78,6558
+Central Park,Manhattan Valley,10.99,6543
+UN/Turtle Bay South,JFK Airport,46.35,6542
+JFK Airport,Central Harlem,44.80,6533
+JFK Airport,Manhattan Valley,49.32,6526
+JFK Airport,Clinton West,1638.06,6522
+East Harlem South,Lenox Hill West,11.61,6520
+UN/Turtle Bay South,Clinton East,15.44,6514
+Midtown Center,Lower East Side,24.52,6502
+LaGuardia Airport,TriBeCa/Civic Center,3219.04,6492
+Yorkville West,LaGuardia Airport,20.64,6485
+Murray Hill,Clinton West,17.69,6483
+Financial District North,East Village,15.65,6476
+JFK Airport,Brooklyn Heights,47.93,6466
+Upper West Side South,Midtown South,21.55,6454
+Morningside Heights,Lincoln Square East,16.41,6453
+Gramercy,SoHo,13.33,6445
+Meatpacking/West Village West,Union Sq,10.38,6419
+West Village,Hudson Sq,7.23,6415
+Central Park,Yorkville East,13.52,6405
+Midtown North,Meatpacking/West Village West,21.21,6400
+Lincoln Square East,LaGuardia Airport,36.18,6392
+JFK Airport,Jackson Heights,35.55,6386
+Central Park,Garment District,18.35,6376
+Union Sq,Upper West Side North,24.67,6372
+Meatpacking/West Village West,West Village,7.97,6343
+Garment District,JFK Airport,54.03,6341
+Lower East Side,TriBeCa/Civic Center,13.73,6337
+East Village,Upper West Side South,25.25,6336
+East Village,Midtown North,21.36,6336
+Clinton East,Washington Heights South,20.66,6324
+Greenwich Village North,Kips Bay,11.95,6317
+Upper West Side North,Washington Heights South,15.88,6312
+Midtown South,SoHo,16.97,6307
+JFK Airport,East Harlem South,40.33,6302
+Lincoln Square East,East Village,25.19,6297
+East Village,Lincoln Square East,23.84,6295
+Midtown South,Central Park,18.76,6294
+Greenwich Village North,Upper East Side North,25.94,6281
+Flatiron,SoHo,13.12,6271
+Sutton Place/Turtle Bay North,East Chelsea,19.65,6270
+JFK Airport,Stuyvesant Heights,37.37,6267
+Lincoln Square West,Lenox Hill West,16.48,6262
+Garment District,LaGuardia Airport,33.50,6251
+LaGuardia Airport,Jackson Heights,12.18,6237
+Penn Station/Madison Sq West,Hudson Sq,14.22,6232
+World Trade Center,TriBeCa/Civic Center,8.51,6230
+Kips Bay,Lower East Side,14.06,6226
+JFK Airport,West Chelsea/Hudson Yards,1712.70,6222
+LaGuardia Airport,Park Slope,39.73,6211
+West Chelsea/Hudson Yards,East Village,21.22,6210
+Union Sq,Lincoln Square West,21.38,6196
+SoHo,East Chelsea,15.23,6188
+Times Sq/Theatre District,SoHo,3359.69,6188
+JFK Airport,Battery Park City,56.40,6182
+Clinton West,Midtown Center,12.92,6166
+East Village,Garment District,18.29,6137
+Lenox Hill West,East Chelsea,22.89,6135
+Midtown North,Manhattan Valley,16.16,6106
+Midtown East,Lower East Side,19.71,6082
+Upper East Side South,Greenwich Village South,23.48,6079
+JFK Airport,Prospect-Lefferts Gardens,41.97,6072
+Midtown East,Little Italy/NoLiTa,21.60,6060
+Sutton Place/Turtle Bay North,East Harlem South,13.75,6059
+Upper West Side North,West Chelsea/Hudson Yards,16.98,6058
+Times Sq/Theatre District,Kips Bay,16.05,6057
+Yorkville East,Murray Hill,15.44,6051
+Clinton East,Greenwich Village North,19.98,6035
+East Elmhurst,Times Sq/Theatre District,40.27,6033
+Yorkville East,LaGuardia Airport,20.99,6031
+Greenwich Village North,Midtown North,19.95,6030
+Union Sq,Battery Park City,1732.67,6028
+Greenwich Village North,Midtown East,18.10,6021
+Garment District,Central Park,16.01,6012
+JFK Airport,SoHo,54.18,6008
+Midtown East,Battery Park City,24.19,6007
+Lincoln Square West,Midtown East,15.78,5996
+West Chelsea/Hudson Yards,Upper West Side North,16.78,5995
+JFK Airport,East Williamsburg,40.20,5990
+Little Italy/NoLiTa,Lower East Side,9.71,5987
+Kips Bay,Clinton East,20.26,5981
+Lenox Hill East,Union Sq,20.35,5978
+JFK Airport,Kips Bay,40.02,5974
+Yorkville West,Clinton East,19.19,5973
+JFK Airport,East New York,20.98,5971
+Meatpacking/West Village West,Clinton East,15.97,5961
+Midtown East,Meatpacking/West Village West,23.08,5949
+Flatiron,Little Italy/NoLiTa,15.89,5938
+TriBeCa/Civic Center,Midtown East,23.46,5935
+Times Sq/Theatre District,Greenwich Village South,19.98,5931
+Upper East Side South,Clinton West,15.74,5925
+Clinton East,East Harlem South,18.63,5919
+Little Italy/NoLiTa,East Chelsea,17.41,5910
+JFK Airport,Meatpacking/West Village West,56.16,5907
+Lenox Hill West,Garment District,21.01,5906
+Flatiron,Upper East Side North,25.34,5905
+Garment District,Lenox Hill East,18.80,5902
+Greenwich Village North,Clinton East,26.35,5880
+Meatpacking/West Village West,Flatiron,8.23,5874
+LaGuardia Airport,Williamsburg (North Side),22.17,5872
+Lenox Hill East,Lincoln Square West,19.08,5872
+Upper West Side South,Garment District,18.03,5872
+SoHo,Lower East Side,10.52,5864
+Garment District,TriBeCa/Civic Center,21.19,5863
+Lenox Hill East,East Village,19.64,5849
+West Chelsea/Hudson Yards,Midtown East,1785.16,5848
+West Village,UN/Turtle Bay South,18.58,5846
+Morningside Heights,Upper East Side North,15.90,5799
+Little Italy/NoLiTa,Midtown Center,23.95,5793
+West Chelsea/Hudson Yards,Upper East Side North,24.21,5784
+Lenox Hill West,LaGuardia Airport,26.39,5783
+LaGuardia Airport,Greenwich Village North,33.57,5778
+Yorkville East,Midtown North,16.26,5759
+Penn Station/Madison Sq West,JFK Airport,56.29,5755
+Midtown East,SoHo,20.85,5750
+Times Sq/Theatre District,Newark Airport,42.01,5750
+Yorkville West,Lincoln Square West,16.73,5744
+Kips Bay,Garment District,14.85,5737
+Sutton Place/Turtle Bay North,Central Park,12.96,5720
+Sutton Place/Turtle Bay North,LaGuardia Airport,1834.64,5712
+Midtown South,Lincoln Square West,18.97,5710
+LaGuardia Airport,Lincoln Square West,35.14,5706
+Midtown North,East Harlem South,15.04,5686
+East Chelsea,Yorkville West,25.16,5684
+Kips Bay,Upper East Side North,17.15,5682
+Lower East Side,Financial District North,12.24,5677
+Garment District,Lincoln Square West,13.81,5667
+Central Park,West Chelsea/Hudson Yards,19.60,5654
+Morningside Heights,Central Harlem,1835.98,5650
+Hudson Sq,TriBeCa/Civic Center,7.37,5645
+Midtown South,Meatpacking/West Village West,13.52,5626
+Murray Hill,Stuy Town/Peter Cooper Village,10.39,5613
+Lenox Hill East,Clinton East,20.74,5606
+Times Sq/Theatre District,Lower East Side,26.98,5603
+Yorkville West,Times Sq/Theatre District,18.82,5591
+UN/Turtle Bay South,East Chelsea,18.02,5589
+Meatpacking/West Village West,Murray Hill,19.07,5586
+Murray Hill,Financial District North,17.89,5586
+Union Sq,Yorkville East,22.77,5585
+Lower East Side,Union Sq,14.31,5565
+Union Sq,Financial District North,18.87,5563
+JFK Airport,Prospect Heights,44.55,5553
+Battery Park City,East Chelsea,16.53,5551
+Lincoln Square East,JFK Airport,60.23,5551
+Kips Bay,East Chelsea,1878.51,5543
+Yorkville West,Penn Station/Madison Sq West,25.07,5537
+Union Sq,Hudson Sq,15.01,5533
+Hudson Sq,East Chelsea,12.16,5532
+JFK Airport,Fort Greene,45.34,5530
+Hudson Sq,Union Sq,8.91,5528
+East Village,Stuy Town/Peter Cooper Village,6.80,5527
+West Village,Yorkville West,26.05,5513
+Sutton Place/Turtle Bay North,Upper West Side North,18.84,5511
+Times Sq/Theatre District,Manhattan Valley,16.31,5510
+Flatiron,Sutton Place/Turtle Bay North,18.20,5505
+Midtown North,SoHo,24.47,5504
+Upper East Side South,SoHo,26.18,5503
+Meatpacking/West Village West,Penn Station/Madison Sq West,11.10,5501
+LaGuardia Airport,Long Island City/Hunters Point,21.99,5474
+Central Harlem,East Harlem North,11.54,5469
+Battery Park City,West Chelsea/Hudson Yards,15.77,5462
+Greenwich Village South,Kips Bay,13.26,5461
+LaGuardia Airport,Lower East Side,1921.59,5459
+TriBeCa/Civic Center,Hudson Sq,7.70,5459
+Lower East Side,East Chelsea,19.66,5452
+Upper West Side South,JFK Airport,56.77,5451
+Kips Bay,West Village,16.52,5445
+East Harlem South,Upper West Side South,12.02,5442
+Penn Station/Madison Sq West,East Harlem South,25.93,5438
+Upper West Side North,Central Harlem North,16.76,5432
+LaGuardia Airport,Steinway,12.54,5420
+SoHo,Meatpacking/West Village West,11.53,5416
+Yorkville East,Central Park,12.52,5413
+Lenox Hill East,Times Sq/Theatre District,18.29,5412
+Financial District North,TriBeCa/Civic Center,9.76,5408
+SoHo,Times Sq/Theatre District,21.78,5405
+East Chelsea,Lenox Hill East,24.17,5398
+Midtown North,Kips Bay,16.79,5397
+Lincoln Square East,Greenwich Village North,22.14,5393
+Clinton West,Upper West Side North,11.28,5389
+Lenox Hill East,Midtown South,19.20,5388
+Upper East Side South,Central Harlem,17.05,5388
+Upper West Side North,Murray Hill,24.06,5384
+Times Sq/Theatre District,World Trade Center,27.64,5383
+TriBeCa/Civic Center,Midtown North,26.27,5380
+Upper East Side North,East Village,23.35,5379
+JFK Airport,Downtown Brooklyn/MetroTech,49.93,5364
+Gramercy,Meatpacking/West Village West,14.22,5355
+Yorkville West,Manhattan Valley,13.76,5349
+East Chelsea,Central Park,20.29,5329
+Midtown South,Yorkville East,20.99,5327
+East Chelsea,JFK Airport,59.68,5321
+Gramercy,Stuy Town/Peter Cooper Village,7.73,5320
+LaGuardia Airport,Central Harlem,22.28,5319
+Manhattan Valley,East Harlem North,15.57,5312
+Murray Hill,East Harlem South,17.73,5311
+Manhattan Valley,Bloomingdale,4.91,5309
+Clinton East,Yorkville East,21.46,5301
+SoHo,Murray Hill,17.88,5299
+West Chelsea/Hudson Yards,Gramercy,15.01,5299
+East Chelsea,Hudson Sq,16.32,5295
+Central Park,East Harlem South,12.02,5288
+East Chelsea,Financial District North,22.97,5283
+Upper East Side South,Morningside Heights,20.41,5275
+Kips Bay,Greenwich Village North,10.74,5273
+Little Italy/NoLiTa,Midtown South,18.26,5272
+Lenox Hill East,LaGuardia Airport,25.20,5272
+East Harlem North,Yorkville West,8.60,5261
+East Harlem South,Manhattan Valley,9.80,5260
+East Village,Upper West Side North,27.03,5256
+Gramercy,Two Bridges/Seward Park,14.60,5241
+Battery Park City,Times Sq/Theatre District,27.67,5240
+Midtown North,Greenwich Village South,22.36,5237
+Kips Bay,Greenwich Village South,13.45,5234
+Murray Hill,Battery Park City,22.35,5226
+Clinton West,Penn Station/Madison Sq West,11.08,5219
+Gramercy,Upper West Side South,24.33,5211
+East Harlem South,Central Harlem,9.72,5200
+Midtown Center,Financial District North,25.51,5196
+Manhattan Valley,Central Park,12.44,5191
+Greenwich Village South,Upper East Side South,21.65,5184
+Lower East Side,Greenwich Village South,9.73,5177
+Penn Station/Madison Sq West,World Trade Center,22.94,5157
+Upper West Side South,Washington Heights South,17.16,5150
+JFK Airport,Hudson Sq,56.54,5149
+Lincoln Square West,Lenox Hill East,18.71,5129
+LaGuardia Airport,East Harlem South,20.03,5128
+West Village,Upper West Side North,22.99,5124
+Greenwich Village North,Garment District,14.47,5119
+Lincoln Square West,Central Park,11.09,5119
+Midtown North,Little Italy/NoLiTa,26.46,5112
+Sutton Place/Turtle Bay North,West Village,21.04,5110
+Upper East Side North,JFK Airport,49.43,5110
+Greenwich Village South,Little Italy/NoLiTa,7.69,5103
+Flatiron,Lower East Side,20.10,5102
+Midtown East,Financial District North,20.70,5102
+Meatpacking/West Village West,SoHo,2035.92,5101
+Garment District,Upper West Side North,18.01,5097
+Midtown South,Upper West Side North,22.00,5093
+Penn Station/Madison Sq West,Stuy Town/Peter Cooper Village,14.79,5092
+Gramercy,LaGuardia Airport,28.44,5086
+SoHo,Gramercy,10.49,5082
+Upper West Side North,LaGuardia Airport,31.11,5075
+Upper East Side South,Meatpacking/West Village West,27.17,5064
+Upper West Side South,East Harlem North,18.67,5063
+Midtown North,Battery Park City,27.99,5049
+Upper West Side North,Clinton West,13.56,5024
+JFK Airport,Central Harlem North,2095.85,5023
+SoHo,Midtown Center,22.94,5021
+JFK Airport,Two Bridges/Seward Park,47.89,5013
+Upper East Side North,West Village,30.45,5003
+Central Harlem,Morningside Heights,7.16,4998
+Gramercy,Alphabet City,10.18,4995
+Clinton East,Morningside Heights,17.76,4993
+Greenwich Village South,Midtown North,21.71,4991
+Little Italy/NoLiTa,Greenwich Village North,7.73,4987
+JFK Airport,Briarwood/Jamaica Hills,20.89,4984
+JFK Airport,Sunnyside,37.38,4975
+West Village,Lincoln Square West,18.85,4969
+Yorkville West,Union Sq,21.97,4967
+Upper East Side North,TriBeCa/Civic Center,30.81,4964
+Lincoln Square East,TriBeCa/Civic Center,27.44,4963
+LaGuardia Airport,Greenpoint,19.75,4954
+Kips Bay,Yorkville East,15.16,4943
+TriBeCa/Civic Center,Garment District,20.76,4941
+Union Sq,Central Park,21.56,4938
+Flatiron,Lincoln Square West,19.07,4934
+Flatiron,Lenox Hill West,21.87,4931
+Clinton East,Hamilton Heights,20.45,4929
+TriBeCa/Civic Center,World Trade Center,10.05,4921
+Clinton East,Greenwich Village South,21.92,4919
+Central Harlem,Central Harlem North,9.70,4915
+Manhattan Valley,Midtown North,16.98,4903
+Lincoln Square West,Morningside Heights,13.42,4899
+JFK Airport,Canarsie,23.14,4894
+East Harlem South,Yorkville East,10.77,4891
+Gramercy,JFK Airport,48.69,4890
+East Village,Clinton West,2132.79,4890
+Union Sq,Stuy Town/Peter Cooper Village,9.63,4884
+SoHo,Flatiron,9.61,4881
+UN/Turtle Bay South,Lincoln Square East,17.20,4857
+LaGuardia Airport,Flushing,16.33,4845
+Penn Station/Madison Sq West,LaGuardia Airport,35.72,4836
+Meatpacking/West Village West,Times Sq/Theatre District,18.94,4835
+Meatpacking/West Village West,Battery Park City,2146.33,4835
+Lenox Hill East,Garment District,22.71,4833
+Yorkville West,Midtown South,21.30,4831
+JFK Airport,Springfield Gardens North,12.44,4797
+Kips Bay,Times Sq/Theatre District,15.58,4796
+Times Sq/Theatre District,Central Harlem,20.69,4789
+Times Sq/Theatre District,East Harlem South,17.81,4789
+Upper East Side North,Kips Bay,19.61,4781
+Lower East Side,Clinton East,25.10,4774
+Greenwich Village South,Upper East Side North,24.35,4761
+Manhattan Valley,Clinton East,17.14,4744
+Greenwich Village South,Midtown East,16.78,4729
+Greenwich Village South,Financial District North,15.07,4728
+Little Italy/NoLiTa,Penn Station/Madison Sq West,17.36,4723
+Central Harlem,East Harlem South,9.55,4718
+Lower East Side,UN/Turtle Bay South,13.84,4714
+West Chelsea/Hudson Yards,SoHo,20.87,4709
+Greenwich Village North,Sutton Place/Turtle Bay North,17.92,4709
+Flatiron,Upper West Side North,23.58,4705
+Gramercy,East Harlem South,20.10,4705
+LaGuardia Airport,Kips Bay,23.05,4703
+JFK Airport,Greenwich Village South,52.08,4700
+Flatiron,UN/Turtle Bay South,15.36,4699
+Financial District North,Lower East Side,12.48,4691
+Lower East Side,Flatiron,16.80,4689
+JFK Airport,Washington Heights South,48.41,4687
+Lincoln Square East,Meatpacking/West Village West,20.37,4687
+Yorkville West,Central Harlem,12.92,4666
+LaGuardia Airport,Manhattan Valley,27.60,4660
+LaGuardia Airport,World Trade Center,37.71,4660
+Upper East Side South,Little Italy/NoLiTa,27.30,4654
+Kips Bay,Flatiron,12.58,4653
+SoHo,Penn Station/Madison Sq West,15.15,4652
+Sutton Place/Turtle Bay North,Greenwich Village North,18.51,4652
+LaGuardia Airport,West Village,36.56,4647
+East Chelsea,LaGuardia Airport,2263.18,4639
+Midtown South,Battery Park City,22.65,4639
+West Chelsea/Hudson Yards,Greenwich Village North,15.89,4632
+Lower East Side,Alphabet City,8.94,4631
+Sutton Place/Turtle Bay North,Lincoln Square West,17.96,4628
+SoHo,West Chelsea/Hudson Yards,16.99,4625
+Lincoln Square West,Yorkville West,17.98,4616
+Little Italy/NoLiTa,Flatiron,13.52,4605
+Clinton East,Central Harlem North,24.25,4603
+Upper West Side North,Sutton Place/Turtle Bay North,22.46,4595
+Gramercy,Financial District North,16.73,4589
+Upper East Side South,JFK Airport,54.64,4581
+Flatiron,Hudson Sq,10.94,4573
+SoHo,Greenwich Village North,7.75,4559
+Battery Park City,Meatpacking/West Village West,11.01,4556
+Upper East Side North,Central Harlem North,16.71,4553
+Garment District,Yorkville West,20.60,4551
+Bloomingdale,Lincoln Square East,14.29,4546
+Clinton East,Lower East Side,27.54,4542
+LaGuardia Airport,Forest Hills,16.86,4542
+Meatpacking/West Village West,Midtown Center,20.81,4541
+JFK Airport,Bushwick North,35.53,4508
+Central Park,Central Harlem,12.47,4501
+JFK Airport,Richmond Hill,21.47,4500
+Manhattan Valley,Yorkville West,13.80,4491
+Times Sq/Theatre District,Financial District North,28.20,4490
+East Village,Hudson Sq,12.22,4481
+JFK Airport,Central Park,53.36,4470
+Battery Park City,Midtown Center,25.27,4464
+Hudson Sq,East Village,11.90,4464
+Garment District,Battery Park City,2337.36,4460
+Morningside Heights,East Harlem North,14.49,4460
+Upper East Side North,Bloomingdale,12.81,4459
+Midtown Center,Manhattan Valley,19.46,4458
+Meatpacking/West Village West,Little Italy/NoLiTa,15.82,4457
+Battery Park City,Clinton East,23.35,4446
+Lower East Side,Midtown South,20.04,4442
+LaGuardia Airport,Morningside Heights,2356.18,4434
+Flatiron,Battery Park City,17.76,4428
+Central Park,Morningside Heights,16.73,4415
+Gramercy,Upper West Side North,24.92,4412
+East Harlem North,Central Harlem,9.82,4402
+West Village,Lenox Hill East,23.73,4388
+TriBeCa/Civic Center,Upper East Side South,27.59,4386
+Upper East Side North,Flatiron,26.23,4384
+Greenwich Village South,SoHo,7.41,4383
+Upper West Side North,Union Sq,25.97,4382
+JFK Airport,Steinway,34.10,4381
+Garment District,Meatpacking/West Village West,14.35,4378
+Greenwich Village South,Lenox Hill West,22.42,4376
+Battery Park City,West Village,13.48,4369
+LaGuardia Airport,Crown Heights North,36.21,4364
+LaGuardia Airport,Boerum Hill,34.79,4363
+LaGuardia Airport,Central Harlem North,20.33,4350
+Upper West Side South,West Village,23.46,4346
+Union Sq,Alphabet City,15.21,4345
+Upper West Side South,Gramercy,24.93,4343
+Sutton Place/Turtle Bay North,Flatiron,17.84,4334
+Kips Bay,Stuy Town/Peter Cooper Village,6.77,4331
+Lenox Hill West,West Village,25.59,4324
+JFK Airport,Saint Albans,19.52,4317
+Lincoln Square East,Kips Bay,20.00,4315
+Greenwich Village North,Lenox Hill West,20.93,4313
+Central Harlem,Upper West Side North,10.52,4309
+Greenwich Village North,UN/Turtle Bay South,16.12,4302
+Bloomingdale,Manhattan Valley,4.82,4286
+Hudson Sq,Flatiron,6.91,4286
+Greenwich Village South,Sutton Place/Turtle Bay North,17.62,4280
+Yorkville West,East Chelsea,25.36,4274
+Hudson Sq,Meatpacking/West Village West,6.42,4271
+East Harlem South,Lincoln Square East,15.45,4270
+Lincoln Square East,Washington Heights South,20.10,4266
+Hudson Sq,West Chelsea/Hudson Yards,13.74,4266
+Meatpacking/West Village West,Gramercy,14.31,4258
+Little Italy/NoLiTa,Financial District North,13.72,4256
+SoHo,Midtown South,16.38,4251
+Midtown East,Financial District South,19.63,4249
+Upper West Side South,Flatiron,20.55,4249
+Clinton East,Little Italy/NoLiTa,24.14,4243
+Lincoln Square West,Murray Hill,20.78,4229
+Little Italy/NoLiTa,Meatpacking/West Village West,13.18,4227
+Lower East Side,Penn Station/Madison Sq West,21.37,4226
+East Village,Battery Park City,17.16,4222
+Midtown Center,World Trade Center,27.93,4217
+Greenwich Village North,Lincoln Square East,23.34,4210
+Midtown Center,Hudson Sq,22.86,4208
+JFK Airport,South Jamaica,16.82,4207
+Kips Bay,Two Bridges/Seward Park,10.77,4196
+East Village,East Harlem South,21.31,4191
+JFK Airport,Bay Ridge,42.89,4177
+Lower East Side,Lenox Hill West,17.38,4177
+East Village,Chinatown,11.82,4172
+LaGuardia Airport,Brooklyn Heights,31.78,4171
+Lower East Side,Greenwich Village North,12.78,4168
+Garment District,Greenwich Village North,16.33,4166
+Murray Hill,Two Bridges/Seward Park,14.79,4166
+Lower East Side,Sutton Place/Turtle Bay North,18.64,4165
+Sutton Place/Turtle Bay North,JFK Airport,47.47,4163
+Greenwich Village South,UN/Turtle Bay South,17.42,4163
+Little Italy/NoLiTa,Clinton East,25.59,4159
+West Chelsea/Hudson Yards,Little Italy/NoLiTa,5005.37,4143
+Meatpacking/West Village West,Greenwich Village North,10.52,4143
+Greenwich Village South,Upper West Side South,25.42,4136
+Sutton Place/Turtle Bay North,West Chelsea/Hudson Yards,21.93,4122
+Upper West Side South,Central Harlem North,18.53,4118
+East Harlem South,Lenox Hill East,13.28,4110
+Central Park,Greenwich Village North,26.72,4108
+Midtown South,Financial District North,22.24,4105
+Union Sq,Two Bridges/Seward Park,17.98,4100
+JFK Airport,Crown Heights South,43.20,4097
+Yorkville East,Gramercy,16.80,4095
+Clinton East,SoHo,21.90,4095
+LaGuardia Airport,Battery Park City,39.89,4095
+Yorkville East,Kips Bay,13.14,4077
+Meatpacking/West Village West,Greenwich Village South,13.29,4077
+West Village,World Trade Center,16.18,4075
+Yorkville West,JFK Airport,45.31,4070
+Lenox Hill East,East Chelsea,24.51,4068
+Lenox Hill East,Manhattan Valley,21.71,4062
+Upper West Side South,UN/Turtle Bay South,21.36,4056
+JFK Airport,Flushing Meadows-Corona Park,21.64,4053
+Central Park,UN/Turtle Bay South,18.60,4046
+World Trade Center,East Chelsea,19.01,4046
+Meatpacking/West Village West,Lower East Side,19.31,4045
+JFK Airport,Stuy Town/Peter Cooper Village,46.30,4042
+JFK Airport,Ridgewood,33.65,4041
+JFK Airport,East Harlem North,40.20,4040
+Midtown East,Stuy Town/Peter Cooper Village,12.82,4037
+Penn Station/Madison Sq West,Alphabet City,21.59,4035
+Upper East Side North,Clinton West,18.39,4034
+LaGuardia Airport,East Harlem North,17.16,4030
+UN/Turtle Bay South,West Village,18.26,4007
+Little Italy/NoLiTa,West Chelsea/Hudson Yards,18.85,4004
+Upper West Side North,Hamilton Heights,16.98,4002
+Upper West Side South,East Village,29.02,4002
+Lower East Side,Times Sq/Theatre District,24.39,3991
+Lower East Side,SoHo,10.46,3983
+Lenox Hill West,Manhattan Valley,2611.98,3980
+Sutton Place/Turtle Bay North,Lower East Side,17.83,3979
+Penn Station/Madison Sq West,Two Bridges/Seward Park,23.03,3974
+TriBeCa/Civic Center,Upper East Side North,30.73,3974
+Lower East Side,Williamsburg (South Side),11.38,3970
+Greenwich Village South,Garment District,17.51,3958
+Greenwich Village South,Lincoln Square East,25.19,3944
+West Chelsea/Hudson Yards,Sutton Place/Turtle Bay North,21.62,3943
+Upper West Side North,JFK Airport,54.32,3942
+JFK Airport,Washington Heights North,48.66,3937
+Yorkville East,Union Sq,20.24,3936
+West Chelsea/Hudson Yards,Greenwich Village South,19.58,3936
+West Chelsea/Hudson Yards,Lenox Hill West,22.24,3934
+LaGuardia Airport,Clinton West,39.27,3915
+Midtown North,Morningside Heights,19.41,3911
+Manhattan Valley,Midtown Center,21.81,3901
+Meatpacking/West Village West,Midtown South,17.16,3900
+Lincoln Square West,Penn Station/Madison Sq West,16.27,3892
+Lenox Hill West,Greenwich Village North,21.73,3892
+Lincoln Square East,Central Harlem North,23.20,3891
+World Trade Center,Clinton East,26.86,3884
+Lower East Side,Little Italy/NoLiTa,8.53,3880
+Manhattan Valley,Lenox Hill East,23.09,3880
+Sutton Place/Turtle Bay North,Greenwich Village South,19.08,3879
+Battery Park City,Penn Station/Madison Sq West,18.95,3862
+Times Sq/Theatre District,Morningside Heights,20.74,3855
+Lenox Hill West,West Chelsea/Hudson Yards,24.07,3852
+TriBeCa/Civic Center,Upper West Side South,27.17,3851
+LaGuardia Airport,Downtown Brooklyn/MetroTech,31.85,3842
+Lenox Hill East,TriBeCa/Civic Center,23.79,3833
+UN/Turtle Bay South,Lower East Side,17.43,3829
+LaGuardia Airport,West Chelsea/Hudson Yards,38.08,3822
+Greenwich Village North,Upper West Side South,2727.57,3821
+Hudson Sq,Penn Station/Madison Sq West,11.23,3810
+East Village,World Trade Center,15.08,3798
+Midtown Center,Newark Airport,46.44,3795
+East Chelsea,Yorkville East,27.74,3792
+World Trade Center,West Chelsea/Hudson Yards,17.81,3790
+Little Italy/NoLiTa,Upper East Side South,23.81,3785
+Yorkville East,JFK Airport,44.59,3782
+Lower East Side,Yorkville West,21.72,3770
+Upper West Side South,TriBeCa/Civic Center,26.75,3766
+Central Harlem,Manhattan Valley,9.63,3765
+Lenox Hill West,JFK Airport,49.51,3763
+World Trade Center,Midtown Center,27.44,3762
+Gramercy,Clinton West,21.12,3761
+Kips Bay,Midtown North,16.63,3755
+Greenwich Village North,Alphabet City,11.99,3753
+TriBeCa/Civic Center,Lenox Hill West,26.12,3748
+Clinton West,Upper East Side South,14.30,3746
+West Village,Alphabet City,15.24,3737
+Times Sq/Theatre District,Financial District South,27.45,3735
+Upper West Side North,Penn Station/Madison Sq West,21.23,3733
+Midtown Center,Financial District South,24.47,3730
+Upper East Side North,Greenwich Village South,28.49,3726
+Bloomingdale,Morningside Heights,5.43,3724
+Lower East Side,Midtown East,17.13,3705
+Lenox Hill West,Flatiron,23.24,3704
+LaGuardia Airport,East Elmhurst,2804.23,3694
+World Trade Center,SoHo,11.20,3688
+Kips Bay,Alphabet City,9.35,3684
+UN/Turtle Bay South,Greenwich Village North,14.77,3680
+SoHo,Clinton East,22.06,3669
+Yorkville East,Penn Station/Madison Sq West,24.54,3666
+Manhattan Valley,Central Harlem North,15.88,3665
+West Village,Two Bridges/Seward Park,18.09,3662
+East Village,Williamsburg (South Side),17.81,3658
+Union Sq,World Trade Center,19.69,3656
+Union Sq,LaGuardia Airport,32.99,3653
+Greenwich Village South,Battery Park City,13.52,3650
+Clinton East,Washington Heights North,21.23,3650
+SoHo,Midtown North,26.26,3650
+Central Harlem North,Central Harlem,7.38,3645
+Lincoln Square West,Union Sq,22.35,3645
+Battery Park City,SoHo,14.24,3645
+Garment District,Little Italy/NoLiTa,22.15,3634
+Manhattan Valley,Lenox Hill West,19.71,3632
+East Village,Lincoln Square West,24.54,3631
+Central Park,West Village,26.51,3628
+JFK Airport,Hamilton Heights,46.44,3628
+Yorkville East,Times Sq/Theatre District,20.39,3612
+LaGuardia Airport,Sunnyside,2877.37,3608
+Upper West Side South,Hamilton Heights,16.52,3607
+East Chelsea,World Trade Center,23.49,3604
+TriBeCa/Civic Center,Two Bridges/Seward Park,13.72,3603
+JFK Airport,Seaport,53.27,3601
+Little Italy/NoLiTa,Greenwich Village South,7.61,3596
+Little Italy/NoLiTa,Midtown East,20.21,3587
+Penn Station/Madison Sq West,Manhattan Valley,22.37,3580
+World Trade Center,Penn Station/Madison Sq West,19.27,3580
+Central Park,Clinton West,14.13,3579
+LaGuardia Airport,Little Italy/NoLiTa,34.69,3578
+East Chelsea,Manhattan Valley,22.06,3577
+Clinton East,East Harlem North,22.73,3569
+Lower East Side,Two Bridges/Seward Park,9.63,3569
+Flatiron,Yorkville West,23.19,3567
+Little Italy/NoLiTa,Midtown North,28.09,3558
+East Harlem South,Central Harlem North,13.38,3553
+TriBeCa/Civic Center,Financial District South,10.62,3552
+Clinton East,Financial District North,26.47,3550
+East Village,JFK Airport,52.74,3548
+JFK Airport,Flushing,29.44,3546
+Financial District North,Murray Hill,16.83,3544
+Battery Park City,Union Sq,18.33,3538
+Sutton Place/Turtle Bay North,TriBeCa/Civic Center,24.85,3535
+Battery Park City,Midtown East,21.53,3535
+Lincoln Square West,Sutton Place/Turtle Bay North,16.99,3532
+Central Park,Gramercy,21.97,3527
+LaGuardia Airport,Williamsburg (South Side),21.58,3522
+Hudson Sq,Murray Hill,16.99,3521
+LaGuardia Airport,Washington Heights South,27.10,3520
+Gramercy,Lincoln Square West,24.69,3519
+Hudson Sq,Midtown Center,18.64,3514
+Lower East Side,Meatpacking/West Village West,16.22,3510
+Midtown South,East Harlem South,19.92,3503
+LaGuardia Airport,Clinton Hill,29.40,3501
+Greenwich Village South,Yorkville West,22.73,3500
+Garment District,SoHo,19.79,3492
+TriBeCa/Civic Center,UN/Turtle Bay South,21.95,3491
+JFK Airport,Carroll Gardens,51.26,3486
+SoHo,Financial District North,11.36,3462
+Midtown North,Lower East Side,28.56,3457
+Central Park,LaGuardia Airport,32.44,3450
+LaGuardia Airport,East Williamsburg,20.39,3436
+East Village,Williamsburg (North Side),22.53,3435
+Lenox Hill West,Greenwich Village South,23.80,3423
+Hudson Sq,Greenwich Village North,7.74,3414
+Clinton West,Garment District,12.69,3411
+Murray Hill,Financial District South,17.45,3410
+Lower East Side,West Chelsea/Hudson Yards,22.60,3409
+Flatiron,JFK Airport,55.69,3405
+LaGuardia Airport,Central Park,34.01,3399
+Lenox Hill West,TriBeCa/Civic Center,25.42,3397
+Midtown North,Central Harlem,18.58,3389
+JFK Airport,Kew Gardens,22.35,3389
+Upper West Side North,Manhattanville,12.87,3388
+Lincoln Square East,East Harlem North,19.15,3384
+UN/Turtle Bay South,Upper West Side South,19.73,3380
+Yorkville East,East Village,19.53,3376
+Meatpacking/West Village West,Midtown North,20.99,3376
+UN/Turtle Bay South,Greenwich Village South,16.91,3372
+Lincoln Square East,Greenwich Village South,26.57,3370
+Murray Hill,Alphabet City,15.06,3370
+Morningside Heights,Lincoln Square West,16.79,3367
+Battery Park City,East Village,16.63,3366
+Lenox Hill West,Clinton West,18.87,3364
+Sutton Place/Turtle Bay North,Clinton West,17.82,3359
+Union Sq,JFK Airport,56.07,3356
+Financial District North,Little Italy/NoLiTa,13.18,3353
+West Chelsea/Hudson Yards,Lower East Side,25.91,3353
+Lower East Side,Williamsburg (North Side),15.79,3353
+Morningside Heights,East Harlem South,14.52,3350
+TriBeCa/Civic Center,Sutton Place/Turtle Bay North,23.01,3349
+Lincoln Square East,Battery Park City,27.55,3343
+Bloomingdale,Upper East Side North,14.88,3340
+SoHo,Little Italy/NoLiTa,7.78,3340
+Lenox Hill West,Astoria,17.38,3339
+Yorkville East,Midtown South,19.36,3338
+Upper West Side South,Meatpacking/West Village West,22.60,3337
+Morningside Heights,Bloomingdale,5.54,3336
+TriBeCa/Civic Center,Lincoln Square East,23.57,3336
+Greenwich Village North,Battery Park City,16.59,3334
+Gramercy,Central Park,20.55,3332
+Clinton West,Midtown East,14.15,3328
+Clinton West,West Village,15.67,3327
+UN/Turtle Bay South,West Chelsea/Hudson Yards,21.86,3321
+JFK Airport,Alphabet City,47.51,3308
+World Trade Center,East Village,16.47,3302
+Midtown North,Newark Airport,45.03,3302
+Garment District,Greenwich Village South,17.04,3294
+Clinton East,Newark Airport,37.75,3287
+Battery Park City,Financial District North,8.45,3285
+Flatiron,Lenox Hill East,22.19,3282
+Upper West Side South,Greenwich Village North,27.59,3274
+West Chelsea/Hudson Yards,UN/Turtle Bay South,18.69,3269
+Clinton West,Union Sq,17.00,3260
+Clinton West,Upper East Side North,17.17,3259
+Upper West Side North,Midtown South,25.98,3252
+JFK Airport,Elmhurst,33.59,3252
+Kips Bay,Lincoln Square East,20.48,3251
+Lincoln Square West,East Harlem South,18.29,3244
+Midtown South,World Trade Center,22.99,3243
+East Village,Seaport,15.43,3241
+JFK Airport,Howard Beach,17.78,3241
+Murray Hill,Hudson Sq,20.33,3241
+Central Park,East Village,28.02,3235
+Morningside Heights,Washington Heights South,17.78,3229
+Midtown Center,Central Harlem,21.35,3225
+UN/Turtle Bay South,TriBeCa/Civic Center,21.98,3224
+West Village,Yorkville East,27.97,3219
+Clinton East,Bloomingdale,13.99,3212
+Greenwich Village North,Financial District North,16.98,3205
+JFK Airport,Flatlands,32.75,3205
+Greenwich Village North,Lenox Hill East,22.70,3203
+East Elmhurst,Midtown Center,35.68,3201
+Upper East Side North,Meatpacking/West Village West,30.45,3196
+Lenox Hill East,Stuy Town/Peter Cooper Village,12.94,3187
+East Harlem South,Midtown Center,17.50,3183
+Yorkville West,Garment District,22.31,3177
+Battery Park City,Murray Hill,22.38,3175
+West Chelsea/Hudson Yards,Financial District North,22.00,3165
+LaGuardia Airport,SoHo,37.75,3160
+Yorkville West,Morningside Heights,3288.87,3155
+Financial District North,Midtown East,18.81,3154
+East Harlem North,Upper East Side North,12.74,3149
+UN/Turtle Bay South,Stuy Town/Peter Cooper Village,10.18,3146
+Upper West Side North,Garment District,19.13,3141
+World Trade Center,West Village,12.13,3139
+Garment District,Lower East Side,24.52,3139
+Lenox Hill East,Greenwich Village North,22.54,3137
+Midtown East,Manhattan Valley,21.56,3136
+Upper East Side South,Lower East Side,26.64,3135
+Midtown Center,Stuy Town/Peter Cooper Village,17.05,3127
+Lincoln Square East,Hamilton Heights,19.31,3127
+Central Park,Flatiron,22.29,3124
+JFK Airport,Far Rockaway,26.56,3124
+Upper East Side South,Central Harlem North,19.18,3117
+Clinton East,Astoria,26.24,3115
+TriBeCa/Civic Center,Clinton West,21.19,3113
+JFK Airport,Financial District South,56.58,3109
+Times Sq/Theatre District,Astoria,21.17,3108
+Little Italy/NoLiTa,Garment District,21.94,3103
+LaGuardia Airport,Bushwick South,27.23,3102
+Lenox Hill East,JFK Airport,48.37,3100
+LaGuardia Airport,Hudson Sq,40.86,3099
+Lenox Hill East,Central Harlem,18.84,3099
+Bloomingdale,Central Harlem,7.43,3098
+Financial District North,Midtown Center,23.50,3092
+East Elmhurst,Clinton East,41.39,3092
+JFK Airport,Long Island City/Queens Plaza,41.71,3082
+Financial District North,Gramercy,16.49,3082
+World Trade Center,Little Italy/NoLiTa,13.43,3081
+Kips Bay,East Harlem South,18.57,3080
+Midtown Center,Morningside Heights,23.77,3078
+Greenwich Village North,Hudson Sq,9.77,3071
+Flatiron,Financial District North,19.37,3070
+TriBeCa/Civic Center,Kips Bay,20.97,3069
+Hudson Sq,Lower East Side,11.41,3068
+Little Italy/NoLiTa,Sutton Place/Turtle Bay North,22.49,3063
+Lincoln Square East,Washington Heights North,22.61,3060
+Midtown East,World Trade Center,24.51,3060
+East Harlem South,Morningside Heights,14.29,3058
+Clinton West,Midtown South,16.00,3058
+SoHo,Upper East Side South,25.31,3054
+Flatiron,Central Park,19.91,3050
+Central Park,East Harlem North,12.99,3047
+Times Sq/Theatre District,Hudson Sq,19.18,3044
+Sutton Place/Turtle Bay North,Stuy Town/Peter Cooper Village,10.88,3043
+World Trade Center,Union Sq,18.50,3038
+Greenwich Village North,Two Bridges/Seward Park,17.69,3036
+UN/Turtle Bay South,Flatiron,15.35,3035
+LaGuardia Airport,Bedford,31.42,3034
+Manhattan Valley,Times Sq/Theatre District,19.37,3030
+JFK Airport,Woodhaven,23.31,3029
+TriBeCa/Civic Center,Chinatown,11.11,3026
+JFK Airport,Old Astoria,6863.78,3023
+Yorkville West,West Chelsea/Hudson Yards,24.57,3023
+East Village,LaGuardia Airport,29.51,3021
+Morningside Heights,Upper East Side South,22.04,3020
+World Trade Center,Midtown South,23.54,3019
+Little Italy/NoLiTa,Two Bridges/Seward Park,11.08,3016
+Hudson Sq,Times Sq/Theatre District,18.33,3015
+LaGuardia Airport,Meatpacking/West Village West,39.74,3010
+Morningside Heights,Hamilton Heights,9.06,3003
+World Trade Center,JFK Airport,58.72,3001
+Garment District,Yorkville East,22.91,2999
+Midtown South,Stuy Town/Peter Cooper Village,13.12,2998
+Yorkville West,Central Harlem North,15.63,2994
+Greenwich Village South,Alphabet City,12.05,2992
+East Harlem North,Central Harlem North,12.26,2990
+Financial District North,West Village,17.52,2984
+Greenwich Village South,Clinton West,19.95,2983
+JFK Airport,Laurelton,14.96,2982
+Little Italy/NoLiTa,Kips Bay,13.65,2981
+Central Harlem,Upper West Side South,12.18,2980
+Gramercy,Battery Park City,3481.87,2980
+Clinton West,Murray Hill,17.65,2978
+Murray Hill,World Trade Center,20.57,2976
+Clinton East,World Trade Center,28.13,2972
+SoHo,Greenwich Village South,7.38,2966
+Kips Bay,TriBeCa/Civic Center,18.12,2966
+Little Italy/NoLiTa,Upper East Side North,26.81,2964
+Morningside Heights,Central Park,16.09,2962
+Financial District North,Two Bridges/Seward Park,10.09,2960
+Manhattan Valley,Washington Heights South,16.19,2958
+Clinton West,Flatiron,13.25,2958
+Kips Bay,Financial District North,13.93,2956
+Midtown East,Hudson Sq,22.09,2954
+Times Sq/Theatre District,Central Harlem North,24.33,2948
+Lincoln Square West,Garment District,14.78,2945
+LaGuardia Airport,Greenwich Village South,34.26,2944
+TriBeCa/Civic Center,Upper West Side North,27.21,2942
+Upper East Side South,Battery Park City,30.30,2941
+JFK Airport,Midwood,39.25,2940
+Garment District,East Harlem South,20.39,2936
+Lincoln Square West,Midtown South,18.33,2934
+East Harlem South,Central Park,10.91,2933
+JFK Airport,Rosedale,14.91,2929
+Lincoln Square East,SoHo,29.46,2927
+Clinton East,Hudson Sq,19.21,2927
+Lenox Hill West,Central Harlem,17.15,2925
+West Chelsea/Hudson Yards,Central Park,3552.25,2921
+JFK Airport,Cambria Heights,20.04,2919
+Gramercy,Hudson Sq,14.20,2919
+Greenwich Village South,Upper West Side North,29.81,2918
+Morningside Heights,Manhattanville,8.10,2915
+Lower East Side,Midtown Center,22.34,2908
+Union Sq,East Harlem South,24.54,2905
+Penn Station/Madison Sq West,Financial District South,23.75,2901
+Hudson Sq,Gramercy,13.50,2899
+Yorkville West,West Village,26.91,2897
+Meatpacking/West Village West,Clinton West,12.21,2885
+Financial District North,Times Sq/Theatre District,29.91,2879
+SoHo,Battery Park City,11.60,2871
+TriBeCa/Civic Center,Lincoln Square West,24.27,2871
+Meatpacking/West Village West,Financial District North,18.46,2870
+Lenox Hill West,Lower East Side,20.95,2870
+LaGuardia Airport,Washington Heights North,28.23,2869
+Upper East Side South,Bloomingdale,18.41,2868
+Little Italy/NoLiTa,UN/Turtle Bay South,17.59,2859
+JFK Airport,East Elmhurst,27.79,2858
+Central Park,JFK Airport,57.38,2857
+JFK Airport,Bloomingdale,49.94,2856
+West Chelsea/Hudson Yards,Yorkville West,23.62,2855
+Financial District North,SoHo,14.28,2852
+JFK Airport,Kew Gardens Hills,21.84,2852
+Kips Bay,Upper West Side North,26.44,2851
+TriBeCa/Civic Center,JFK Airport,59.75,2842
+Penn Station/Madison Sq West,Morningside Heights,24.35,2838
+Lower East Side,Lenox Hill East,20.04,2838
+Midtown East,Two Bridges/Seward Park,18.07,2837
+Flatiron,LaGuardia Airport,33.91,2835
+Morningside Heights,Central Harlem North,12.69,2835
+Clinton West,Meatpacking/West Village West,13.84,2826
+Midtown East,Astoria,18.89,2826
+Midtown Center,East Harlem North,17.93,2814
+Midtown South,Two Bridges/Seward Park,17.20,2814
+Meatpacking/West Village West,Upper West Side South,20.73,2807
+Little Italy/NoLiTa,World Trade Center,11.06,2807
+Meatpacking/West Village West,Hudson Sq,10.83,2804
+Lincoln Square West,Yorkville East,20.02,2802
+West Village,Central Park,23.52,2799
+Midtown Center,Two Bridges/Seward Park,20.93,2798
+LaGuardia Airport,Old Astoria,12.12,2797
+JFK Airport,Marine Park/Mill Basin,29.99,2795
+Kips Bay,Upper West Side South,23.83,2793
+Financial District North,East Chelsea,22.18,2791
+East Village,Financial District South,15.20,2790
+Little Italy/NoLiTa,Lenox Hill West,22.72,2789
+Manhattan Valley,East Chelsea,20.56,2789
+LaGuardia Airport,Long Island City/Queens Plaza,20.41,2788
+Upper East Side North,SoHo,31.08,2787
+LaGuardia Airport,Hamilton Heights,25.69,2787
+TriBeCa/Civic Center,Lenox Hill East,25.00,2785
+LaGuardia Airport,Woodside,13.56,2781
+UN/Turtle Bay South,Central Park,15.84,2779
+Financial District North,Union Sq,19.19,2777
+Financial District North,Penn Station/Madison Sq West,24.63,2775
+JFK Airport,Borough Park,54.81,2756
+Financial District North,West Chelsea/Hudson Yards,22.26,2755
+Greenwich Village South,World Trade Center,13.50,2754
+Sutton Place/Turtle Bay North,Financial District North,19.30,2754
+Yorkville East,Manhattan Valley,16.44,2749
+Sutton Place/Turtle Bay North,Little Italy/NoLiTa,21.78,2745
+West Chelsea/Hudson Yards,Hudson Sq,15.48,2741
+Meatpacking/West Village West,Lincoln Square East,17.63,2741
+Lenox Hill East,West Village,27.43,2738
+Greenwich Village North,Upper West Side North,31.34,2733
+Hudson Sq,Little Italy/NoLiTa,7.83,2731
+Kips Bay,Little Italy/NoLiTa,13.73,2730
+Greenwich Village North,Yorkville West,22.75,2726
+Hudson Sq,Midtown South,14.11,2723
+LaGuardia Airport,Fort Greene,28.88,2722
+JFK Airport,Queens Village,24.30,2721
+Central Park,TriBeCa/Civic Center,31.42,2720
+Kips Bay,West Chelsea/Hudson Yards,17.60,2715
+Hudson Sq,Battery Park City,11.28,2714
+Lincoln Square East,Little Italy/NoLiTa,30.06,2704
+East Village,Central Park,23.23,2702
+Lenox Hill East,Financial District North,17.85,2701
+Financial District South,Times Sq/Theatre District,27.56,2700
+Yorkville East,Clinton East,22.26,2698
+Yorkville East,Lincoln Square West,19.72,2692
+SoHo,Garment District,18.65,2691
+World Trade Center,Meatpacking/West Village West,14.15,2689
+Lower East Side,Upper East Side North,22.78,2689
+LaGuardia Airport,Stuy Town/Peter Cooper Village,26.21,2685
+Penn Station/Madison Sq West,Central Harlem,27.41,2669
+Battery Park City,Midtown South,24.51,2667
+Midtown North,Financial District North,27.10,2665
+Greenwich Village South,Hudson Sq,9.58,2660
+Upper East Side North,Little Italy/NoLiTa,28.81,2659
+Financial District North,JFK Airport,57.97,2655
+Midtown South,Hudson Sq,17.42,2652
+East Chelsea,East Harlem South,28.66,2648
+Greenwich Village South,Lincoln Square West,24.27,2638
+LaGuardia Airport,Prospect Heights,3952.31,2636
+Greenwich Village South,Lenox Hill East,22.11,2636
+Financial District North,Greenwich Village South,16.86,2634
+Financial District North,Battery Park City,10.02,2633
+Central Harlem,Upper East Side North,13.37,2632
+Clinton West,Lenox Hill West,16.65,2631
+World Trade Center,Lower East Side,16.98,2626
+Hudson Sq,Clinton East,17.06,2620
+Central Park,Bloomingdale,12.91,2618
+Meatpacking/West Village West,Upper East Side South,25.10,2612
+JFK Airport,Woodside,3995.09,2606
+UN/Turtle Bay South,Little Italy/NoLiTa,18.24,2606
+TriBeCa/Civic Center,Seaport,9.65,2605
+Times Sq/Theatre District,East Harlem North,23.21,2603
+Little Italy/NoLiTa,SoHo,8.52,2594
+Midtown East,Long Island City/Hunters Point,18.40,2591
+Battery Park City,Midtown North,28.36,2591
+Greenwich Village South,Two Bridges/Seward Park,12.83,2587
+Upper West Side North,Gramercy,28.49,2584
+Lincoln Square West,Bloomingdale,12.06,2583
+Financial District South,TriBeCa/Civic Center,12.58,2580
+Central Park,Meatpacking/West Village West,27.73,2579
+Manhattan Valley,Hamilton Heights,15.12,2578
+Manhattan Valley,Midtown East,22.22,2573
+Midtown East,Alphabet City,16.53,2573
+Lenox Hill West,Stuy Town/Peter Cooper Village,16.49,2570
+UN/Turtle Bay South,Upper West Side North,20.84,2568
+East Elmhurst,Midtown East,29.45,2567
+TriBeCa/Civic Center,Yorkville West,27.12,2565
+Battery Park City,Little Italy/NoLiTa,16.73,2565
+Midtown Center,Astoria,22.72,2564
+Financial District North,UN/Turtle Bay South,15.06,2563
+Midtown East,East Harlem North,17.50,2562
+West Village,Stuy Town/Peter Cooper Village,14.54,2560
+Bloomingdale,East Harlem South,13.54,2559
+Little Italy/NoLiTa,Battery Park City,13.93,2556
+Garment District,Financial District North,24.90,2548
+Upper East Side South,Astoria,19.72,2541
+Upper West Side North,UN/Turtle Bay South,24.33,2539
+Lenox Hill East,Battery Park City,20.93,2538
+Upper West Side South,Kips Bay,23.81,2538
+JFK Airport,Cypress Hills,23.51,2537
+Meatpacking/West Village West,Upper East Side North,27.73,2536
+Clinton West,TriBeCa/Civic Center,20.35,2529
+Times Sq/Theatre District,Washington Heights South,24.88,2528
+Meatpacking/West Village West,Midtown East,25.07,2521
+TriBeCa/Civic Center,Brooklyn Heights,14.86,2521
+Midtown North,Astoria,21.39,2519
+Midtown East,Newark Airport,50.49,2519
+East Elmhurst,Midtown South,33.43,2518
+Battery Park City,JFK Airport,59.46,2518
+Lincoln Square West,Flatiron,17.67,2517
+Sutton Place/Turtle Bay North,East Harlem North,14.17,2511
+UN/Turtle Bay South,East Harlem South,15.97,2510
+East Elmhurst,Midtown North,37.38,2506
+East Village,East Harlem North,24.44,2501
+LaGuardia Airport,Two Bridges/Seward Park,28.45,2501
+Union Sq,Manhattan Valley,24.95,2491
+World Trade Center,Garment District,22.46,2490
+East Chelsea,Central Harlem,24.40,2487
+Upper West Side North,Washington Heights North,17.24,2487

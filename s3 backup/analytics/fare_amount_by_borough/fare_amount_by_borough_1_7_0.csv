@@ -1,0 +1,18 @@
+PICKUP_BOROUGH,PICKUP_ZONE,AVG_FARE,AVG_DISTANCE
+Manhattan,Murray Hill,11.96,2.45
+Manhattan,Yorkville East,11.83,2.62
+Manhattan,Central Park,11.79,2.36
+Manhattan,Upper West Side North,11.68,2.49
+Manhattan,Greenwich Village North,11.68,2.91
+Manhattan,Flatiron,11.45,2.31
+Manhattan,Upper West Side South,11.44,2.44
+Manhattan,Kips Bay,11.38,2.45
+Manhattan,Union Sq,11.36,2.23
+Manhattan,Yorkville West,11.34,2.58
+Manhattan,Upper East Side North,11.31,2.23
+Manhattan,Lincoln Square East,11.26,2.36
+Manhattan,Lincoln Square West,11.18,2.33
+Manhattan,Sutton Place/Turtle Bay North,10.87,2.26
+Manhattan,Lenox Hill West,10.85,2.25
+Manhattan,Upper East Side South,10.46,2.01
+Bronx,Crotona Park,6.5,1.27

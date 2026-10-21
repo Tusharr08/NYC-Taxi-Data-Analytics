@@ -1,0 +1,6 @@
+HOUR_OF_DAY,PAYMENT_TYPE,AVG_TIP
+20,Unknown,1.33
+8,Dispute,1.26
+4,Unknown,1
+15,Dispute,0.52
+20,Dispute,0.01

@@ -1,0 +1,1965 @@
+PICKUP_ZONE,DROPOFF_ZONE,AVG_TRIP_DURATION_MINS,TRIP_COUNT
+Howard Beach,Fort Greene,38.33,3
+West Chelsea/Hudson Yards,Arrochar/Fort Wadsworth,35.00,3
+East Village,Willets Point,26.00,3
+Windsor Terrace,Upper West Side North,33.33,3
+Saint Albans,Flatlands,39.33,3
+Co-Op City,Clinton West,43.33,3
+Flatbush/Ditmas Park,DUMBO/Vinegar Hill,30.00,3
+Flushing,Upper East Side North,38.67,3
+South Ozone Park,Astoria,26.00,3
+Woodhaven,Middle Village,12.67,3
+Crotona Park East,JFK Airport,26.00,3
+Meatpacking/West Village West,Bayside,37.33,3
+Norwood,Morrisania/Melrose,19.67,3
+Little Italy/NoLiTa,Inwood Hill Park,41.67,3
+Bedford,Midtown Center,45.00,3
+Bushwick North,Little Italy/NoLiTa,20.00,3
+Highbridge,Kingsbridge Heights,11.67,3
+Borough Park,Coney Island,30.33,3
+Central Harlem North,Kew Gardens,20.67,3
+Elmhurst/Maspeth,East Chelsea,50.33,3
+Greenpoint,Mott Haven/Port Morris,31.67,3
+Cypress Hills,Prospect-Lefferts Gardens,25.67,3
+Manhattan Valley,Dyker Heights,43.33,3
+Roosevelt Island,Little Italy/NoLiTa,38.00,3
+Sutton Place/Turtle Bay North,West Brighton,48.33,3
+Brooklyn Navy Yard,East Chelsea,24.67,3
+Elmhurst,East Flushing,27.33,3
+South Williamsburg,Prospect-Lefferts Gardens,22.00,3
+Central Harlem North,Dyker Heights,34.00,3
+Clinton Hill,Mott Haven/Port Morris,50.33,3
+Financial District South,Cypress Hills,42.33,3
+Sunnyside,Williamsbridge/Olinville,44.33,3
+UN/Turtle Bay South,Douglaston,57.00,3
+Springfield Gardens South,Spuyten Duyvil/Kingsbridge,43.33,3
+Bayside,Hillcrest/Pomonok,13.67,3
+Rego Park,Old Astoria,28.00,3
+Willets Point,LaGuardia Airport,6.67,3
+Penn Station/Madison Sq West,Charleston/Tottenville,45.33,3
+Upper West Side North,Bath Beach,47.00,3
+Boerum Hill,Flushing Meadows-Corona Park,39.67,3
+Springfield Gardens South,Co-Op City,53.67,3
+Lincoln Square East,Eastchester,39.00,3
+Bensonhurst East,Hamilton Heights,77.33,3
+Long Island City/Hunters Point,Prospect-Lefferts Gardens,42.33,3
+Highbridge,Inwood,12.00,3
+Flushing,Fresh Meadows,16.00,3
+Mott Haven/Port Morris,Midtown North,26.67,3
+Co-Op City,Times Sq/Theatre District,52.67,3
+Kew Gardens,Lower East Side,39.67,3
+Springfield Gardens South,Glen Oaks,16.67,3
+TriBeCa/Civic Center,Fordham South,35.67,3
+Canarsie,Windsor Terrace,22.00,3
+Meatpacking/West Village West,Marine Park/Mill Basin,56.00,3
+Grymes Hill/Clifton,Heartland Village/Todt Hill,6.33,3
+Longwood,Woodlawn/Wakefield,21.33,3
+Douglaston,College Point,20.33,3
+Marine Park/Mill Basin,Cobble Hill,45.67,3
+Baisley Park,College Point,29.33,3
+Westchester Village/Unionport,Bronxdale,13.67,3
+Hunts Point,East Harlem South,22.33,3
+Van Cortlandt Village,East Concourse/Concourse Village,21.67,3
+Bensonhurst East,UN/Turtle Bay South,57.67,3
+Central Harlem,Jamaica Estates,40.00,3
+Bellerose,Whitestone,14.33,3
+Borough Park,Brownsville,36.00,3
+Battery Park City,North Corona,40.33,3
+Brownsville,Park Slope,34.33,3
+East Harlem South,Grymes Hill/Clifton,45.33,3
+Manhattanville,Bay Ridge,42.00,3
+Mount Hope,Co-Op City,25.67,3
+SoHo,Pelham Bay,32.33,3
+Two Bridges/Seward Park,West Farms/Bronx River,32.67,3
+Queensboro Hill,Washington Heights North,29.00,3
+Flushing Meadows-Corona Park,College Point,12.67,3
+East New York,Hudson Sq,48.33,3
+Central Harlem North,Flushing,27.67,3
+Sutton Place/Turtle Bay North,Charleston/Tottenville,49.33,3
+Central Park,East New York/Pennsylvania Avenue,57.33,3
+Inwood,Longwood,21.33,3
+Clinton West,Oakland Gardens,34.00,3
+Maspeth,Upper East Side North,22.33,3
+Gramercy,Saint Michaels Cemetery/Woodside,16.67,3
+Stuy Town/Peter Cooper Village,East Elmhurst,34.67,3
+Mott Haven/Port Morris,Co-Op City,17.33,3
+Elmhurst,Ozone Park,20.00,3
+East Chelsea,Hollis,39.00,3
+Kingsbridge Heights,Mount Hope,8.00,3
+Sunnyside,Morrisania/Melrose,32.00,3
+Carroll Gardens,Long Island City/Queens Plaza,49.67,3
+Gowanus,Midtown North,43.67,3
+Williamsbridge/Olinville,Woodlawn/Wakefield,12.00,3
+Inwood Hill Park,Hamilton Heights,22.00,3
+Prospect Heights,Canarsie,24.33,3
+Flatlands,Park Slope,36.33,3
+Jackson Heights,Hunts Point,24.67,3
+Brooklyn Heights,Saint Albans,69.67,3
+World Trade Center,Arrochar/Fort Wadsworth,27.00,3
+Bedford Park,Pelham Parkway,13.00,3
+Morningside Heights,Cambria Heights,79.00,3
+East Concourse/Concourse Village,Richmond Hill,31.00,3
+West Village,City Island,47.00,3
+Sheepshead Bay,Park Slope,33.00,3
+Prospect-Lefferts Gardens,Bronxdale,50.00,3
+Washington Heights North,Co-Op City,22.67,3
+Mount Hope,Washington Heights South,16.33,3
+Crown Heights South,Little Italy/NoLiTa,19.00,3
+Homecrest,JFK Airport,29.00,3
+Flatiron,Forest Park/Highland Park,46.00,3
+Washington Heights South,South Ozone Park,47.00,3
+Saint Michaels Cemetery/Woodside,DUMBO/Vinegar Hill,25.33,3
+Downtown Brooklyn/MetroTech,Fordham South,39.33,3
+Jamaica,Hammels/Arverne,40.33,3
+Carroll Gardens,Stuy Town/Peter Cooper Village,22.00,3
+Sunset Park West,Flatiron,40.33,3
+Spuyten Duyvil/Kingsbridge,West Concourse,26.33,3
+Jamaica,Rego Park,21.00,3
+Lincoln Square West,Gravesend,46.00,3
+Saint Albans,Van Nest/Morris Park,41.00,3
+Flatbush/Ditmas Park,Brighton Beach,23.00,3
+Forest Hills,Upper East Side North,40.00,3
+Queensboro Hill,Two Bridges/Seward Park,33.67,3
+Bedford,SoHo,26.33,3
+Middle Village,LaGuardia Airport,15.33,3
+Howard Beach,Stuyvesant Heights,21.33,3
+Crown Heights North,Gowanus,24.67,3
+Bellerose,South Ozone Park,26.00,3
+Stuyvesant Heights,Brooklyn Heights,20.33,3
+East Tremont,East Harlem South,25.33,3
+East Harlem North,Springfield Gardens North,47.00,3
+Roosevelt Island,South Ozone Park,51.67,3
+Upper West Side South,Fresh Meadows,51.00,3
+Morningside Heights,Marine Park/Mill Basin,82.67,3
+Van Nest/Morris Park,Two Bridges/Seward Park,30.33,3
+Park Slope,Cambria Heights,41.67,3
+Flushing,Briarwood/Jamaica Hills,25.00,3
+Howard Beach,Rockaway Park,18.33,3
+Little Italy/NoLiTa,Schuylerville/Edgewater Park,35.33,3
+Pelham Parkway,Belmont,12.00,3
+Hammels/Arverne,Sunnyside,52.67,3
+Bronx Park,Midtown North,42.00,3
+Ocean Hill,Bensonhurst East,29.67,3
+West Village,Oakland Gardens,44.00,3
+South Williamsburg,Stuy Town/Peter Cooper Village,19.67,3
+Carroll Gardens,East Harlem South,31.00,3
+Old Astoria,Bayside,33.67,3
+Williamsburg (South Side),Baisley Park,46.00,3
+Corona,Alphabet City,21.67,3
+Central Harlem North,Bushwick North,17.67,3
+Central Park,East Flatbush/Remsen Village,46.00,3
+Springfield Gardens South,Sheepshead Bay,28.33,3
+Newark Airport,East Chelsea,39.67,3
+East Concourse/Concourse Village,Clinton East,45.67,3
+Claremont/Bathgate,Highbridge,7.67,3
+Stuyvesant Heights,Midwood,32.33,3
+Gowanus,Little Italy/NoLiTa,19.67,3
+West Concourse,Allerton/Pelham Gardens,23.33,3
+Bushwick North,LaGuardia Airport,20.67,3
+Bushwick South,Red Hook,45.00,3
+Prospect Park,East Williamsburg,22.67,3
+Maspeth,Clinton Hill,15.00,3
+Alphabet City,Coney Island,38.67,3
+Manhattanville,Cobble Hill,37.33,3
+Richmond Hill,Garment District,36.67,3
+Brooklyn Navy Yard,Crown Heights North,18.00,3
+Gowanus,Kips Bay,28.67,3
+East Chelsea,Starrett City,64.33,3
+Flushing Meadows-Corona Park,Newark Airport,58.00,3
+Williamsburg (South Side),Brighton Beach,32.33,3
+Ocean Hill,Lenox Hill East,49.00,3
+Lincoln Square East,Laurelton,49.33,3
+Park Slope,Woodside,30.67,3
+Pelham Bay,Allerton/Pelham Gardens,10.33,3
+Brownsville,East Flatbush/Farragut,11.00,3
+South Ozone Park,Middle Village,29.00,3
+Gramercy,Country Club,41.67,3
+UN/Turtle Bay South,Rosedale,366.00,3
+Flatlands,Far Rockaway,37.33,3
+Bushwick North,Downtown Brooklyn/MetroTech,29.67,3
+West Concourse,Lincoln Square West,24.00,3
+Springfield Gardens South,Maspeth,25.67,3
+Brooklyn Navy Yard,Flatbush/Ditmas Park,22.33,3
+SoHo,Allerton/Pelham Gardens,45.33,3
+North Corona,Richmond Hill,17.00,3
+Soundview/Castle Hill,Financial District South,37.67,3
+Coney Island,Sheepshead Bay,17.33,3
+Meatpacking/West Village West,Ocean Parkway South,35.67,3
+Elmhurst,Clinton West,26.67,3
+Boerum Hill,East Elmhurst,25.33,3
+Old Astoria,Financial District South,25.67,3
+Gowanus,Lower East Side,29.33,3
+Cobble Hill,Sheepshead Bay,37.67,3
+Sunnyside,Ozone Park,30.00,3
+Flushing,Sunnyside,30.00,3
+Briarwood/Jamaica Hills,Downtown Brooklyn/MetroTech,24.67,3
+Greenwich Village North,Soundview/Castle Hill,38.67,3
+Melrose South,Penn Station/Madison Sq West,34.33,3
+Gramercy,Pelham Bay Park,47.00,3
+Morrisania/Melrose,Williamsbridge/Olinville,20.00,3
+Westchester Village/Unionport,Ridgewood,35.33,3
+Parkchester,Canarsie,41.67,3
+Bensonhurst West,Co-Op City,49.00,3
+World Trade Center,Van Cortlandt Village,38.00,3
+Upper East Side North,Rosedale,59.00,3
+Two Bridges/Seward Park,Melrose South,25.33,3
+Highbridge Park,Central Harlem North,8.67,3
+Meatpacking/West Village West,Westerleigh,32.67,3
+Elmhurst/Maspeth,Prospect Heights,26.00,3
+Central Park,Erasmus,62.33,3
+Windsor Terrace,Prospect Heights,19.33,3
+Gowanus,Lenox Hill West,25.00,3
+Two Bridges/Seward Park,Hunts Point,35.33,3
+Mount Hope,Hunts Point,21.00,3
+Greenpoint,Prospect Park,28.00,3
+Hammels/Arverne,Lenox Hill West,67.00,3
+Sunset Park West,Greenwich Village North,31.67,3
+Windsor Terrace,Penn Station/Madison Sq West,27.00,3
+Bedford,Lenox Hill West,35.00,3
+Alphabet City,Bayside,28.67,3
+Richmond Hill,World Trade Center,38.00,3
+East Flatbush/Farragut,Borough Park,499.67,3
+Lincoln Square West,Murray Hill-Queens,45.67,3
+Baisley Park,Belmont,34.33,3
+DUMBO/Vinegar Hill,Long Island City/Queens Plaza,24.67,3
+Inwood,Yorkville West,26.33,3
+Stuy Town/Peter Cooper Village,Homecrest,56.67,3
+Battery Park City,Soundview/Castle Hill,56.67,3
+Upper West Side South,Auburndale,41.33,3
+Central Park,Marine Park/Mill Basin,83.67,3
+West Chelsea/Hudson Yards,Allerton/Pelham Gardens,30.67,3
+Springfield Gardens North,Briarwood/Jamaica Hills,20.67,3
+Elmhurst,Park Slope,34.67,3
+UN/Turtle Bay South,Fordham South,39.67,3
+Midtown North,Great Kills,69.33,3
+Madison,JFK Airport,38.67,3
+Central Harlem,North Corona,29.67,3
+Ridgewood,Outside of NYC,47.67,3
+Melrose South,Midtown East,30.67,3
+Queensbridge/Ravenswood,Hammels/Arverne,49.00,3
+Garment District,Stapleton,43.67,3
+Hollis,Central Harlem,36.00,3
+Hammels/Arverne,Brooklyn Heights,70.00,3
+Glendale,North Corona,36.67,3
+Manhattan Beach,World Trade Center,42.67,3
+Clinton Hill,East Harlem North,40.33,3
+Prospect Park,West Village,34.00,3
+Prospect Park,Midtown East,40.33,3
+Van Nest/Morris Park,Prospect Heights,38.33,3
+Kips Bay,Country Club,40.33,3
+East Flatbush/Farragut,Brooklyn Heights,38.33,3
+East New York,Brooklyn Heights,44.33,3
+World Trade Center,Longwood,27.67,3
+Bensonhurst West,Two Bridges/Seward Park,36.00,3
+Laurelton,College Point,39.33,3
+Flatbush/Ditmas Park,Greenpoint,31.00,3
+Long Island City/Queens Plaza,Rosedale,39.67,3
+Forest Hills,Gramercy,31.67,3
+SoHo,Melrose South,34.67,3
+Financial District North,Claremont/Bathgate,40.33,3
+Yorkville East,Saint Albans,36.33,3
+Jamaica Estates,LaGuardia Airport,22.33,3
+Hunts Point,Van Cortlandt Park,20.00,3
+Longwood,East Harlem North,28.00,3
+Bensonhurst East,Forest Hills,63.00,3
+Kensington,Sunset Park East,11.33,3
+Flatbush/Ditmas Park,Boerum Hill,23.33,3
+Washington Heights South,Pelham Bay,26.33,3
+East Concourse/Concourse Village,Hunts Point,13.67,3
+Times Sq/Theatre District,Heartland Village/Todt Hill,46.33,3
+Brooklyn Navy Yard,Lenox Hill West,28.67,3
+Manhattanville,Williamsburg (South Side),33.33,3
+Cobble Hill,Cypress Hills,33.33,3
+Roosevelt Island,East Village,25.67,3
+Flatlands,Penn Station/Madison Sq West,69.67,3
+Garment District,Arrochar/Fort Wadsworth,44.33,3
+Williamsbridge/Olinville,Mott Haven/Port Morris,26.33,3
+Flushing Meadows-Corona Park,Queensboro Hill,4.33,3
+Queens Village,Douglaston,12.67,3
+East New York,Midtown Center,45.67,3
+East New York,Bushwick North,16.33,3
+University Heights/Morris Heights,Garment District,50.33,3
+Greenpoint,Coney Island,46.00,3
+Red Hook,East Flatbush/Remsen Village,40.67,3
+Canarsie,Brownsville,15.33,3
+Red Hook,Flatiron,36.00,3
+Windsor Terrace,East Chelsea,25.00,3
+Bushwick North,Greenwich Village North,23.33,3
+Melrose South,Yorkville East,14.33,3
+Corona,Washington Heights South,44.33,3
+Gramercy,Heartland Village/Todt Hill,44.67,3
+Crown Heights South,Canarsie,28.33,3
+Greenwich Village South,Kingsbridge Heights,63.33,3
+Marine Park/Mill Basin,Cypress Hills,30.33,3
+Kew Gardens Hills,Lenox Hill East,33.67,3
+East New York,Sheepshead Bay,20.67,3
+Two Bridges/Seward Park,Belmont,36.67,3
+Manhattan Valley,Marine Park/Mill Basin,62.00,3
+Flatiron,Auburndale,30.00,3
+Park Slope,Manhattanville,35.00,3
+Van Nest/Morris Park,Upper West Side North,49.00,3
+Manhattan Valley,Briarwood/Jamaica Hills,34.33,3
+Corona,Financial District South,41.67,3
+Garment District,Heartland Village/Todt Hill,58.33,3
+Melrose South,Inwood,16.00,3
+Outside of NYC,Jackson Heights,110.00,3
+University Heights/Morris Heights,Clinton East,30.33,3
+Williamsbridge/Olinville,East Tremont,17.33,3
+Canarsie,Manhattan Beach,18.00,3
+Marine Park/Mill Basin,Baisley Park,28.00,3
+Howard Beach,Kensington,25.00,3
+Kips Bay,Arrochar/Fort Wadsworth,27.67,3
+Baisley Park,Ozone Park,12.67,3
+Elmhurst/Maspeth,Yorkville East,29.00,3
+Soundview/Castle Hill,Central Harlem North,27.33,3
+Bensonhurst West,Canarsie,19.67,3
+Baisley Park,Marine Park/Mill Basin,35.67,3
+Highbridge,East New York,56.67,3
+Ocean Hill,Lower East Side,42.00,3
+Briarwood/Jamaica Hills,Boerum Hill,35.33,3
+Flatlands,Crown Heights South,20.00,3
+Astoria,Van Nest/Morris Park,36.33,3
+Steinway,Prospect-Lefferts Gardens,34.00,3
+Union Sq,Bloomfield/Emerson Hill,68.00,3
+Kingsbridge Heights,East Tremont,17.33,3
+Midwood,Manhattan Beach,16.33,3
+Woodside,East Flushing,27.67,3
+Mott Haven/Port Morris,Riverdale/North Riverdale/Fieldston,26.00,3
+Ridgewood,TriBeCa/Civic Center,37.67,3
+Elmhurst/Maspeth,Garment District,20.00,3
+Long Island City/Queens Plaza,Eastchester,38.33,3
+Gowanus,Kensington,12.33,3
+Jamaica Estates,Elmhurst,20.00,3
+Mott Haven/Port Morris,Pelham Parkway,31.33,3
+Upper West Side South,Glen Oaks,47.33,3
+Lincoln Square West,Baisley Park,50.67,3
+Upper West Side North,Saint Albans,46.00,3
+Highbridge Park,Newark Airport,34.00,3
+Manhattanville,Soundview/Bruckner,26.33,3
+Crown Heights North,Manhattanville,38.33,3
+Battery Park,Mott Haven/Port Morris,34.33,3
+Upper West Side South,Arden Heights,50.67,3
+Crown Heights South,Union Sq,44.33,3
+Lower East Side,Eastchester,34.67,3
+Stuy Town/Peter Cooper Village,Jamaica Estates,38.67,3
+Brownsville,Midwood,28.33,3
+Van Cortlandt Village,Melrose South,24.33,3
+Clinton Hill,Sunnyside,21.67,3
+Central Park,Pelham Bay,29.67,3
+Red Hook,Upper West Side North,33.00,3
+Schuylerville/Edgewater Park,JFK Airport,27.67,3
+Bloomingdale,Co-Op City,34.67,3
+Kew Gardens,Bayside,28.67,3
+Flatbush/Ditmas Park,Upper West Side North,45.67,3
+Seaport,Hillcrest/Pomonok,40.00,3
+Two Bridges/Seward Park,Pelham Parkway,37.33,3
+Financial District North,Eastchester,55.33,3
+Crown Heights North,Brighton Beach,38.67,3
+Williamsbridge/Olinville,Hammels/Arverne,58.33,3
+Greenwich Village North,Co-Op City,38.00,3
+West Chelsea/Hudson Yards,Fresh Meadows,37.33,3
+Central Park,Brownsville,56.00,3
+Upper East Side North,Ozone Park,58.33,3
+Bay Ridge,Borough Park,24.33,3
+College Point,Outside of NYC,58.67,3
+Cambria Heights,Mott Haven/Port Morris,46.67,3
+Astoria,Mount Hope,32.00,3
+Forest Hills,Upper East Side South,36.67,3
+Woodside,Washington Heights North,34.00,3
+Highbridge,Union Sq,31.33,3
+Brooklyn Heights,Kew Gardens,36.33,3
+Greenwich Village North,Glen Oaks,34.67,3
+East Harlem North,Briarwood/Jamaica Hills,26.00,3
+College Point,Flushing Meadows-Corona Park,5.67,3
+East Tremont,Financial District North,37.33,3
+Co-Op City,Spuyten Duyvil/Kingsbridge,32.33,3
+East Tremont,Central Harlem,30.33,3
+Chinatown,Bath Beach,29.33,3
+Prospect Heights,Brooklyn Navy Yard,14.33,3
+West Concourse,Greenwich Village North,40.00,3
+Crown Heights North,Battery Park City,35.00,3
+Steinway,East New York,37.00,3
+Bushwick South,Kew Gardens,28.67,3
+Clinton East,Great Kills,57.67,3
+Ridgewood,Greenpoint,20.00,3
+Columbia Street,DUMBO/Vinegar Hill,7.00,3
+Kensington,Carroll Gardens,16.33,3
+Steinway,Pelham Bay,24.00,3
+Briarwood/Jamaica Hills,Hamilton Heights,26.33,3
+Kew Gardens Hills,Heartland Village/Todt Hill,55.67,3
+Mott Haven/Port Morris,Greenwich Village North,36.33,3
+Bushwick North,Battery Park City,32.00,3
+Crotona Park East,Parkchester,9.00,3
+Red Hook,Upper West Side South,39.33,3
+Upper East Side North,Crotona Park,47.33,3
+Two Bridges/Seward Park,Canarsie,44.00,3
+Clinton Hill,Glendale,27.33,3
+Far Rockaway,Gramercy,59.67,3
+Bushwick North,Central Harlem,39.00,3
+Highbridge,JFK Airport,46.33,3
+Greenwich Village North,Eastchester,43.67,3
+Meatpacking/West Village West,Mariners Harbor,26.67,3
+Fort Greene,Glendale,32.33,3
+Woodhaven,Midtown South,47.33,3
+Mott Haven/Port Morris,Financial District South,24.33,3
+Saint Michaels Cemetery/Woodside,Maspeth,11.67,3
+Crown Heights North,Hunts Point,35.67,3
+Spuyten Duyvil/Kingsbridge,Outside of NYC,50.67,3
+East Chelsea,Crotona Park,32.67,3
+South Jamaica,Park Slope,57.00,3
+South Williamsburg,Sunset Park East,32.00,3
+Meatpacking/West Village West,Williamsbridge/Olinville,41.00,3
+Brooklyn Heights,Maspeth,23.33,3
+Bushwick South,East Harlem North,37.33,3
+Long Island City/Queens Plaza,Sunset Park West,40.67,3
+Belmont,Morningside Heights,30.33,3
+Kew Gardens,Financial District South,36.67,3
+Boerum Hill,Washington Heights South,43.00,3
+Jackson Heights,Williamsbridge/Olinville,32.00,3
+East Harlem North,College Point,20.00,3
+Riverdale/North Riverdale/Fieldston,Bedford Park,15.33,3
+DUMBO/Vinegar Hill,Borough Park,29.67,3
+Park Slope,Long Island City/Queens Plaza,27.67,3
+Upper West Side South,Brighton Beach,50.00,3
+Central Park,Allerton/Pelham Gardens,33.00,3
+South Ozone Park,Columbia Street,42.33,3
+Bloomingdale,Gowanus,39.33,3
+Pelham Parkway,Pelham Bay,8.67,3
+Whitestone,Lincoln Square East,55.00,3
+Fort Greene,Mott Haven/Port Morris,22.33,3
+Manhattan Valley,Jamaica,46.67,3
+Prospect-Lefferts Gardens,East Harlem North,54.33,3
+Two Bridges/Seward Park,East Tremont,54.33,3
+Woodlawn/Wakefield,TriBeCa/Civic Center,44.00,3
+Long Island City/Queens Plaza,South Jamaica,31.00,3
+Williamsburg (South Side),Woodhaven,35.67,3
+Red Hook,Dyker Heights,19.67,3
+Kew Gardens,Lincoln Square West,54.67,3
+Flatlands,Morningside Heights,77.67,3
+East Concourse/Concourse Village,JFK Airport,35.00,3
+Saint Michaels Cemetery/Woodside,Union Sq,35.00,3
+Mott Haven/Port Morris,Old Astoria,10.33,3
+Van Nest/Morris Park,Crown Heights North,56.67,3
+Coney Island,Flatbush/Ditmas Park,26.67,3
+Prospect-Lefferts Gardens,South Ozone Park,38.00,3
+Kensington,Homecrest,14.00,3
+East Concourse/Concourse Village,Garment District,39.67,3
+Long Island City/Queens Plaza,Prospect-Lefferts Gardens,40.00,3
+Yorkville East,Sheepshead Bay,63.67,3
+Prospect Park,Clinton East,43.00,3
+Greenpoint,Crown Heights South,25.33,3
+Saint Albans,Sunnyside,51.67,3
+Upper West Side North,Forest Park/Highland Park,60.67,3
+UN/Turtle Bay South,Grymes Hill/Clifton,37.67,3
+Lincoln Square West,Queensboro Hill,55.67,3
+Bay Ridge,Midtown East,48.33,3
+Sheepshead Bay,Sunset Park West,35.00,3
+Kew Gardens,Greenwich Village North,35.33,3
+Coney Island,Lenox Hill East,61.00,3
+East Concourse/Concourse Village,Manhattan Valley,27.67,3
+Marine Park/Floyd Bennett Field,Bensonhurst West,17.67,3
+Gravesend,Brighton Beach,9.67,3
+SoHo,Green-Wood Cemetery,24.33,3
+Pelham Parkway,Hunts Point,15.67,3
+Forest Hills,East Williamsburg,23.33,3
+West Chelsea/Hudson Yards,Far Rockaway,71.33,3
+Hudson Sq,Schuylerville/Edgewater Park,35.67,3
+Middle Village,Richmond Hill,9.67,3
+Central Harlem,Fresh Meadows,31.67,3
+Elmhurst,Kew Gardens,24.00,3
+Midtown South,Arrochar/Fort Wadsworth,34.33,3
+Kew Gardens Hills,East Harlem South,30.00,3
+Hamilton Heights,Ridgewood,64.00,3
+Morrisania/Melrose,Hunts Point,8.67,3
+Marble Hill,Van Nest/Morris Park,22.67,3
+Upper East Side South,Starrett City,58.33,3
+Two Bridges/Seward Park,Manhattan Beach,33.33,3
+Washington Heights North,Old Astoria,16.00,3
+UN/Turtle Bay South,Hollis,37.33,3
+Marine Park/Floyd Bennett Field,Dyker Heights,22.33,3
+Maspeth,Brooklyn Heights,21.67,3
+Prospect Heights,South Williamsburg,17.33,3
+Flushing Meadows-Corona Park,Park Slope,33.67,3
+North Corona,Forest Hills,10.33,3
+Stuy Town/Peter Cooper Village,Fordham South,31.00,3
+Richmond Hill,Midtown Center,28.67,3
+Claremont/Bathgate,Clinton East,31.67,3
+Flushing,Gramercy,32.00,3
+Queens Village,Saint Albans,14.00,3
+Springfield Gardens South,Hollis,16.67,3
+Stuyvesant Heights,Midtown East,48.00,3
+Woodlawn/Wakefield,Co-Op City,19.67,3
+East Tremont,Queensbridge/Ravenswood,28.67,3
+Brooklyn Heights,Washington Heights North,40.00,3
+Upper East Side North,Willets Point,38.33,3
+Queensboro Hill,College Point,17.67,3
+Bedford,Sunnyside,38.33,3
+Jackson Heights,Bellerose,24.67,3
+Bushwick North,SoHo,29.00,3
+Jamaica,Ridgewood,29.67,3
+South Ozone Park,SoHo,54.00,3
+Manhattan Valley,Springfield Gardens South,54.00,3
+Queensbridge/Ravenswood,Bushwick North,29.67,3
+Lower East Side,Randalls Island,21.67,3
+Red Hook,Williamsburg (North Side),36.00,3
+Clinton Hill,Meatpacking/West Village West,26.33,3
+Bensonhurst East,East Village,43.33,3
+Flushing,Elmhurst/Maspeth,24.67,3
+Co-Op City,Flatlands,49.33,3
+Randalls Island,Financial District North,23.67,3
+Bushwick North,Upper West Side North,36.33,3
+West Concourse,Woodlawn/Wakefield,19.67,3
+Rego Park,TriBeCa/Civic Center,33.33,3
+Washington Heights South,Marine Park/Mill Basin,63.33,3
+Gowanus,JFK Airport,47.67,3
+Seaport,Baisley Park,41.00,3
+Astoria,Fresh Meadows,33.33,3
+Outside of NYC,East Harlem North,29.67,3
+Roosevelt Island,Seaport,26.00,3
+Springfield Gardens South,Prospect Heights,41.33,3
+Queensbridge/Ravenswood,Longwood,21.33,3
+Pelham Parkway,Washington Heights South,33.00,3
+Gowanus,Midtown East,34.33,3
+Jamaica,Woodhaven,18.67,3
+Jamaica Estates,Queens Village,6.33,3
+Carroll Gardens,Long Island City/Hunters Point,24.67,3
+Bushwick North,Financial District North,20.33,3
+Yorkville West,East New York,40.67,3
+East Chelsea,Laurelton,55.67,3
+Battery Park,Manhattanville,28.00,3
+South Williamsburg,Murray Hill,31.33,3
+Brooklyn Heights,Inwood,46.67,3
+Fort Greene,Woodhaven,28.67,3
+Corona,Stuy Town/Peter Cooper Village,17.00,3
+Melrose South,Parkchester,26.33,3
+Morrisania/Melrose,Upper East Side South,44.00,3
+Lincoln Square West,Crotona Park East,24.00,3
+Crown Heights South,Kips Bay,38.67,3
+Washington Heights North,Alphabet City,32.67,3
+Starrett City,Park Slope,39.33,3
+Clinton East,Heartland Village/Todt Hill,46.67,3
+Greenwich Village South,Eastchester,39.00,3
+Norwood,Bronxdale,9.33,3
+Financial District North,Far Rockaway,52.33,3
+Upper West Side South,Gravesend,44.67,3
+Columbia Street,Sutton Place/Turtle Bay North,23.67,3
+Flatbush/Ditmas Park,Ocean Parkway South,8.00,3
+Central Harlem North,Prospect-Lefferts Gardens,63.67,3
+Financial District South,South Beach/Dongan Hills,24.33,3
+Washington Heights South,Flushing Meadows-Corona Park,38.00,3
+Fordham South,Parkchester,14.67,3
+Hamilton Heights,Fort Greene,44.33,3
+Pelham Parkway,East Harlem North,27.33,3
+SoHo,East Flushing,34.00,3
+UN/Turtle Bay South,Stapleton,47.33,3
+Ridgewood,Ocean Hill,10.67,3
+Upper East Side South,Oakland Gardens,44.33,3
+Baisley Park,Elmhurst/Maspeth,36.00,3
+Bronxdale,East Harlem North,26.00,3
+Battery Park,West Concourse,29.00,3
+Glen Oaks,Bellerose,6.33,3
+Williamsbridge/Olinville,Mount Hope,17.00,3
+Seaport,Hunts Point,34.67,3
+Red Hook,East Williamsburg,18.33,3
+Randalls Island,Gramercy,32.00,3
+Manhattan Valley,Bensonhurst East,56.33,3
+Little Italy/NoLiTa,Westerleigh,33.00,3
+East Chelsea,Heartland Village/Todt Hill,56.67,3
+Hunts Point,Melrose South,16.33,3
+Williamsburg (South Side),Manhattanville,32.33,3
+South Williamsburg,UN/Turtle Bay South,35.33,3
+Coney Island,Brownsville,40.00,3
+Upper West Side South,Woodhaven,36.33,3
+Outside of NYC,Highbridge,16.67,3
+Seaport,University Heights/Morris Heights,34.33,3
+Bay Ridge,Park Slope,15.33,3
+Long Island City/Hunters Point,Saint Michaels Cemetery/Woodside,16.33,3
+Richmond Hill,Springfield Gardens South,9.33,3
+Downtown Brooklyn/MetroTech,Ocean Parkway South,30.00,3
+Far Rockaway,Prospect-Lefferts Gardens,50.67,3
+Westchester Village/Unionport,JFK Airport,44.33,3
+East Williamsburg,Bloomingdale,33.33,3
+Hudson Sq,Bensonhurst West,28.67,3
+Brooklyn Heights,Rego Park,19.33,3
+Gowanus,Financial District North,16.33,3
+World Trade Center,Norwood,54.67,3
+Midtown East,West Brighton,51.00,3
+Belmont,Pelham Parkway,11.67,3
+Sunset Park West,Two Bridges/Seward Park,485.33,3
+Belmont,East Tremont,4.67,3
+Hamilton Heights,Van Cortlandt Park,25.00,3
+Elmhurst/Maspeth,Flatiron,27.67,3
+West Village,Hollis,69.33,3
+Columbia Street,Flatbush/Ditmas Park,13.00,3
+Old Astoria,World Trade Center,30.67,3
+Crotona Park East,East Harlem North,25.67,3
+Claremont/Bathgate,Hunts Point,15.67,3
+Lower East Side,Van Cortlandt Park,32.33,3
+Seaport,Inwood Hill Park,56.00,3
+Highbridge,Bedford Park,17.67,3
+Starrett City,Brooklyn Heights,55.33,3
+Cobble Hill,Ocean Parkway South,26.33,3
+Garment District,Bloomfield/Emerson Hill,57.67,3
+Long Island City/Hunters Point,Prospect Heights,25.00,3
+Upper West Side South,Forest Park/Highland Park,45.33,3
+East Village,Country Club,31.00,3
+Columbia Street,Lenox Hill West,18.00,3
+Madison,Two Bridges/Seward Park,66.00,3
+Bronx Park,Midtown Center,41.33,3
+Sunnyside,Kensington,30.67,3
+Stuyvesant Heights,Kips Bay,29.33,3
+Soundview/Castle Hill,South Ozone Park,20.33,3
+Murray Hill-Queens,Rego Park,20.33,3
+Marine Park/Mill Basin,Crown Heights North,31.33,3
+Baisley Park,Columbia Street,46.00,3
+Kew Gardens,West Village,30.33,3
+Marine Park/Mill Basin,Brighton Beach,21.67,3
+Battery Park City,West Brighton,28.67,3
+Bedford,Lenox Hill East,29.00,3
+Queensbridge/Ravenswood,Briarwood/Jamaica Hills,31.67,3
+Parkchester,Kips Bay,21.33,3
+Flushing Meadows-Corona Park,Randalls Island,16.00,3
+Fort Greene,University Heights/Morris Heights,34.33,3
+Canarsie,Fort Greene,42.33,3
+Bushwick North,Hamilton Heights,31.33,3
+Prospect-Lefferts Gardens,East Harlem South,81.33,3
+Greenwich Village North,Westchester Village/Unionport,51.00,3
+Morningside Heights,Gravesend,46.00,3
+Fresh Meadows,Auburndale,12.67,3
+Springfield Gardens South,Fort Greene,21.67,3
+Yorkville West,Marine Park/Mill Basin,49.67,3
+Outside of NYC,Spuyten Duyvil/Kingsbridge,41.67,3
+West Concourse,Longwood,10.00,3
+Homecrest,Bensonhurst East,13.67,3
+Marine Park/Mill Basin,LaGuardia Airport,56.00,3
+Alphabet City,East Tremont,29.67,3
+Hamilton Heights,Greenpoint,36.33,3
+Queens Village,Sunnyside,30.67,3
+East Harlem South,Fresh Meadows,37.67,3
+Marine Park/Mill Basin,Kips Bay,39.00,3
+Greenwich Village South,Bronxdale,491.33,3
+Meatpacking/West Village West,Gravesend,33.00,3
+Central Harlem,Ocean Hill,37.00,3
+Sunnyside,Glen Oaks,36.67,3
+Long Island City/Queens Plaza,Brooklyn Navy Yard,24.67,3
+East Flatbush/Farragut,Murray Hill,31.67,3
+Cambria Heights,Washington Heights South,58.00,3
+East New York,Central Harlem,45.67,3
+East Harlem North,Bloomfield/Emerson Hill,49.67,3
+Baisley Park,Randalls Island,25.33,3
+Springfield Gardens North,Gramercy,44.33,3
+Crown Heights South,Williamsburg (South Side),32.33,3
+Riverdale/North Riverdale/Fieldston,Clinton East,30.00,3
+Brownsville,Williamsbridge/Olinville,37.33,3
+Forest Hills,Upper West Side South,47.33,3
+Erasmus,East Harlem North,58.00,3
+Kew Gardens,Bedford Park,35.33,3
+Stuyvesant Heights,Midtown Center,32.33,3
+Greenwich Village North,Marine Park/Mill Basin,44.67,3
+East New York/Pennsylvania Avenue,Ocean Hill,12.33,3
+Briarwood/Jamaica Hills,Financial District South,32.33,3
+Springfield Gardens North,Elmhurst,35.67,3
+Lower East Side,Laurelton,37.33,3
+Woodhaven,Kips Bay,28.33,3
+Elmhurst,DUMBO/Vinegar Hill,19.00,3
+Rockaway Park,Far Rockaway,20.67,3
+Columbia Street,Financial District North,20.33,3
+Ocean Hill,Kips Bay,43.00,3
+Sutton Place/Turtle Bay North,Laurelton,46.33,3
+East Williamsburg,South Ozone Park,21.33,3
+Co-Op City,Central Harlem North,47.67,3
+Parkchester,East Concourse/Concourse Village,22.33,3
+University Heights/Morris Heights,Norwood,17.00,3
+Inwood Hill Park,East Concourse/Concourse Village,20.33,3
+Bayside,Corona,25.33,3
+Richmond Hill,Jackson Heights,31.00,3
+Saint Albans,Flushing,30.00,3
+Battery Park City,Marble Hill,40.33,3
+Crown Heights South,Two Bridges/Seward Park,30.00,3
+Garment District,Country Club,30.00,3
+Outside of NYC,Woodlawn/Wakefield,8.67,3
+Douglaston,Gowanus,30.33,3
+Prospect-Lefferts Gardens,Midwood,15.67,3
+Canarsie,Midtown East,45.33,3
+Hollis,Baisley Park,15.33,3
+Bedford,Chinatown,26.33,3
+Queens Village,Oakland Gardens,14.00,3
+Howard Beach,Cobble Hill,34.00,3
+Starrett City,Kensington,31.67,3
+Williamsbridge/Olinville,Van Cortlandt Park,3.67,3
+West Chelsea/Hudson Yards,Auburndale,40.33,3
+Dyker Heights,Bensonhurst East,12.67,3
+Eastchester,Allerton/Pelham Gardens,8.33,3
+East Harlem North,Prospect Park,60.00,3
+Chinatown,Starrett City,45.67,3
+East New York,Gowanus,23.33,3
+Eastchester,Co-Op City,7.00,3
+East Village,Rossville/Woodrow,41.00,3
+East Elmhurst,West Brighton,64.00,3
+Soundview/Castle Hill,West Farms/Bronx River,7.33,3
+Gowanus,Lenox Hill East,29.67,3
+Boerum Hill,Melrose South,36.00,3
+Roosevelt Island,Central Park,30.67,3
+Westchester Village/Unionport,Schuylerville/Edgewater Park,8.67,3
+Clinton West,Pelham Bay Park,27.00,3
+Outside of NYC,Morningside Heights,63.67,3
+Williamsburg (South Side),Sunset Park East,21.67,3
+Manhattanville,Williamsburg (North Side),37.33,3
+Briarwood/Jamaica Hills,Greenwich Village South,26.33,3
+Astoria Park,Central Harlem North,9.67,3
+Prospect Park,Two Bridges/Seward Park,35.67,3
+Clinton East,Pelham Bay Park,30.00,3
+Jackson Heights,Manhattanville,29.67,3
+Baisley Park,Prospect Heights,54.33,3
+Schuylerville/Edgewater Park,Murray Hill,31.67,3
+Greenwich Village South,Queensboro Hill,29.00,3
+Crown Heights South,Bushwick North,25.67,3
+Times Sq/Theatre District,Mariners Harbor,58.00,3
+Bedford Park,East New York,48.33,3
+Saint Michaels Cemetery/Woodside,Carroll Gardens,39.33,3
+Sutton Place/Turtle Bay North,Hollis,32.33,3
+Upper East Side South,Cambria Heights,50.00,3
+Little Italy/NoLiTa,Westchester Village/Unionport,36.00,3
+Battery Park,Crown Heights South,24.33,3
+Jackson Heights,Brownsville,27.33,3
+Glen Oaks,Saint Albans,21.33,3
+Saint Albans,Central Harlem North,37.00,3
+Fordham South,Claremont/Bathgate,9.67,3
+Midwood,JFK Airport,34.67,3
+Battery Park,Washington Heights South,36.00,3
+Williamsburg (South Side),Elmhurst,19.67,3
+Midtown North,City Island,45.67,3
+Greenwich Village North,Rockaway Park,49.00,3
+Gowanus,Washington Heights South,40.67,3
+Soundview/Bruckner,Norwood,15.33,3
+Forest Hills,East Village,33.33,3
+Mount Hope,Soundview/Bruckner,22.00,3
+Crotona Park East,Morrisania/Melrose,4.67,3
+Financial District South,College Point,53.67,3
+Elmhurst/Maspeth,Briarwood/Jamaica Hills,17.33,3
+Yorkville West,Howard Beach,44.00,3
+East Flatbush/Remsen Village,Clinton East,64.67,3
+Inwood,TriBeCa/Civic Center,36.00,3
+Red Hook,Newark Airport,51.00,3
+Lower East Side,Arrochar/Fort Wadsworth,28.33,3
+Sunset Park West,Downtown Brooklyn/MetroTech,23.33,3
+Norwood,Spuyten Duyvil/Kingsbridge,13.33,3
+Queens Village,Rockaway Park,50.67,3
+Schuylerville/Edgewater Park,Soundview/Bruckner,15.67,3
+Newark Airport,West Chelsea/Hudson Yards,45.33,3
+Van Cortlandt Village,Pelham Parkway,17.00,3
+Manhattan Valley,Glendale,40.33,3
+Jackson Heights,Stuy Town/Peter Cooper Village,25.67,3
+Norwood,East New York/Pennsylvania Avenue,63.00,3
+Oakland Gardens,Lenox Hill East,56.00,3
+Alphabet City,Canarsie,45.00,3
+Van Cortlandt Village,Belmont,9.00,3
+Bushwick South,Richmond Hill,25.67,3
+Financial District North,Crotona Park East,51.33,3
+Garment District,Oakwood,62.67,3
+Jackson Heights,West Farms/Bronx River,33.67,3
+Kingsbridge Heights,Hamilton Heights,15.67,3
+Midwood,Coney Island,19.33,3
+Riverdale/North Riverdale/Fieldston,Lenox Hill East,41.00,3
+Chinatown,Forest Park/Highland Park,35.67,3
+East Tremont,LaGuardia Airport,24.33,3
+Bensonhurst East,Homecrest,3.33,3
+Bloomfield/Emerson Hill,JFK Airport,51.00,3
+Battery Park City,Woodhaven,40.67,3
+Lincoln Square East,Bellerose,56.67,3
+Longwood,Penn Station/Madison Sq West,46.67,3
+Pelham Bay,Outside of NYC,32.00,3
+Little Italy/NoLiTa,Bellerose,40.00,3
+Ridgewood,Westchester Village/Unionport,26.00,3
+Midtown South,Forest Park/Highland Park,35.00,3
+Kew Gardens,Washington Heights South,30.00,3
+Sunset Park West,Penn Station/Madison Sq West,36.67,3
+Elmhurst/Maspeth,Upper East Side North,25.33,3
+Riverdale/North Riverdale/Fieldston,Upper West Side South,20.33,3
+Woodlawn/Wakefield,Seaport,40.67,3
+Penn Station/Madison Sq West,Saint Michaels Cemetery/Woodside,28.33,3
+Inwood,Bay Ridge,66.00,3
+Glendale,South Ozone Park,18.67,3
+Springfield Gardens North,South Ozone Park,24.67,3
+Financial District North,Bellerose,38.00,3
+Crown Heights South,DUMBO/Vinegar Hill,29.00,3
+Penn Station/Madison Sq West,South Beach/Dongan Hills,42.67,3
+Highbridge Park,East Harlem South,9.67,3
+Ridgewood,Jackson Heights,21.33,3
+Prospect-Lefferts Gardens,Clinton West,45.67,3
+Canarsie,TriBeCa/Civic Center,37.33,3
+Greenwich Village South,Van Nest/Morris Park,40.33,3
+Little Italy/NoLiTa,Oakland Gardens,26.67,3
+Roosevelt Island,Jamaica,35.67,3
+Flatbush/Ditmas Park,Central Harlem,57.00,3
+Lower East Side,Westchester Village/Unionport,36.00,3
+Downtown Brooklyn/MetroTech,Cypress Hills,30.00,3
+Springfield Gardens South,Roosevelt Island,33.33,3
+Williamsbridge/Olinville,Fordham South,15.67,3
+Claremont/Bathgate,Belmont,29.00,3
+Highbridge,Midtown South,32.33,3
+South Ozone Park,Central Harlem North,23.00,3
+East Flatbush/Farragut,East Harlem South,71.33,3
+East Concourse/Concourse Village,Morningside Heights,25.67,3
+Canarsie,Crown Heights South,19.00,3
+Seaport,Madison,34.00,3
+Elmhurst/Maspeth,Ridgewood,21.67,3
+Brooklyn Heights,Co-Op City,83.33,3
+Longwood,East Concourse/Concourse Village,11.00,3
+Bushwick North,Baisley Park,35.67,3
+Van Cortlandt Park,Woodlawn/Wakefield,8.67,3
+Gramercy,Springfield Gardens North,60.00,3
+Van Nest/Morris Park,Norwood,21.67,3
+Dyker Heights,Sunset Park East,4.67,3
+Clinton East,Douglaston,43.00,3
+Stuy Town/Peter Cooper Village,Van Nest/Morris Park,29.67,3
+Long Island City/Queens Plaza,Far Rockaway,53.33,3
+Elmhurst/Maspeth,Lenox Hill East,31.33,3
+Jackson Heights,Borough Park,50.33,3
+Steinway,Briarwood/Jamaica Hills,17.00,3
+Little Italy/NoLiTa,Rockaway Park,40.67,3
+Midtown South,East New York/Pennsylvania Avenue,32.00,3
+Seaport,Belmont,497.67,3
+Bronx Park,Bedford Park,7.00,3
+Marine Park/Floyd Bennett Field,Homecrest,12.33,3
+Fordham South,Inwood,23.33,3
+Jackson Heights,Astoria Park,9.67,3
+Central Park,West Farms/Bronx River,28.00,3
+Seaport,East Tremont,46.33,3
+Lenox Hill West,Heartland Village/Todt Hill,54.33,3
+Flushing,Bayside,13.67,3
+Richmond Hill,Financial District South,38.00,3
+Elmhurst,South Williamsburg,36.33,3
+Two Bridges/Seward Park,Soundview/Bruckner,27.67,3
+Brownsville,Manhattan Valley,44.00,3
+Erasmus,South Ozone Park,45.00,3
+Washington Heights North,West Village,29.00,3
+Financial District South,Woodhaven,46.00,3
+South Jamaica,Kew Gardens,10.67,3
+Sunset Park West,Gravesend,18.33,3
+Elmhurst,Crown Heights North,33.67,3
+Boerum Hill,Queens Village,52.00,3
+Jackson Heights,Meatpacking/West Village West,40.33,3
+Coney Island,Canarsie,19.67,3
+Morningside Heights,Richmond Hill,48.00,3
+Springfield Gardens South,Highbridge,52.33,3
+Sheepshead Bay,Murray Hill,66.67,3
+SoHo,Woodlawn/Wakefield,34.67,3
+Crown Heights South,Starrett City,22.33,3
+Rego Park,Greenwich Village North,26.67,3
+Ridgewood,Greenwich Village North,38.67,3
+Crown Heights North,Two Bridges/Seward Park,18.33,3
+Allerton/Pelham Gardens,Van Nest/Morris Park,13.67,3
+East Elmhurst,Westerleigh,40.67,3
+Parkchester,Upper West Side South,45.33,3
+Williamsburg (North Side),Corona,22.33,3
+Bushwick South,Manhattan Valley,33.33,3
+East Harlem South,Saint Michaels Cemetery/Woodside,18.67,3
+Bellerose,Midtown South,53.00,3
+Bushwick North,Steinway,23.00,3
+East Flatbush/Farragut,Prospect-Lefferts Gardens,10.00,3
+Brighton Beach,Bensonhurst West,17.33,3
+Greenwich Village North,Douglaston,49.67,3
+Murray Hill,Forest Park/Highland Park,33.67,3
+West Village,Bellerose,48.67,3
+South Jamaica,Clinton Hill,34.00,3
+Forest Hills,Boerum Hill,28.00,3
+Crotona Park East,Soundview/Bruckner,8.67,3
+Fort Greene,South Beach/Dongan Hills,34.67,3
+Windsor Terrace,Midtown Center,35.67,3
+UN/Turtle Bay South,Marble Hill,35.33,3
+Jamaica Estates,Rego Park,22.33,3
+Steinway,Woodlawn/Wakefield,30.33,3
+Queens Village,Bayside,11.00,3
+Oakland Gardens,Forest Hills,12.67,3
+Jackson Heights,Auburndale,26.00,3
+UN/Turtle Bay South,Eastchester,44.33,3
+Springfield Gardens South,Brooklyn Heights,54.33,3
+Van Nest/Morris Park,Briarwood/Jamaica Hills,24.00,3
+Jackson Heights,World Trade Center,26.33,3
+Canarsie,Times Sq/Theatre District,75.67,3
+Canarsie,Newark Airport,47.67,3
+Outside of NYC,Seaport,40.33,3
+East Tremont,Westchester Village/Unionport,13.00,3
+Corona,Williamsburg (North Side),12.33,3
+Flushing Meadows-Corona Park,Prospect Heights,25.00,3
+Queensbridge/Ravenswood,Brooklyn Navy Yard,21.00,3
+Old Astoria,Soundview/Castle Hill,27.67,3
+Clinton Hill,Yorkville East,26.67,3
+Fort Greene,East Elmhurst,21.67,3
+Clinton Hill,Cypress Hills,26.00,3
+Flatiron,Grymes Hill/Clifton,38.67,3
+Soundview/Castle Hill,Brooklyn Heights,40.33,3
+East Flatbush/Remsen Village,Borough Park,31.00,3
+Carroll Gardens,East Flatbush/Farragut,22.67,3
+Bushwick North,UN/Turtle Bay South,27.33,3
+Claremont/Bathgate,West Farms/Bronx River,13.00,3
+Seaport,Springfield Gardens North,67.00,3
+Queens Village,Glen Oaks,12.33,3
+Glendale,Gramercy,28.00,3
+Cobble Hill,East Flatbush/Farragut,33.67,3
+Forest Hills,TriBeCa/Civic Center,34.67,3
+SoHo,Kew Gardens Hills,30.33,3
+Crown Heights North,SoHo,42.67,3
+Battery Park City,Bayside,50.00,3
+Norwood,Pelham Parkway,14.67,3
+Forest Hills,Financial District North,37.33,3
+DUMBO/Vinegar Hill,Richmond Hill,32.67,3
+Kew Gardens Hills,Washington Heights South,29.33,3
+Gowanus,Financial District South,15.33,3
+Hammels/Arverne,East Chelsea,67.00,3
+Flatiron,Port Richmond,39.67,3
+Union Sq,Oakwood,48.33,3
+Outside of NYC,South Jamaica,40.67,3
+Alphabet City,Highbridge,22.67,3
+South Ozone Park,UN/Turtle Bay South,55.00,3
+Upper East Side North,South Jamaica,49.00,3
+University Heights/Morris Heights,Manhattanville,19.67,3
+Westchester Village/Unionport,West Farms/Bronx River,12.00,3
+Upper West Side South,Ozone Park,47.67,3
+Long Island City/Hunters Point,Cambria Heights,30.00,3
+Red Hook,Little Italy/NoLiTa,28.00,3
+Howard Beach,Brighton Beach,21.00,3
+Flatiron,Arrochar/Fort Wadsworth,35.67,3
+Park Slope,Jamaica,483.67,3
+Fort Greene,Inwood,47.00,3
+Ridgewood,Rego Park,10.00,3
+Clinton East,Saint Michaels Cemetery/Woodside,26.00,3
+South Williamsburg,Sunset Park West,31.00,3
+Rego Park,Steinway,21.00,3
+South Jamaica,Murray Hill-Queens,26.00,3
+Rosedale,Queens Village,9.33,3
+Greenpoint,Washington Heights North,31.00,3
+Yorkville West,Forest Park/Highland Park,32.00,3
+Middle Village,Ozone Park,24.00,3
+East New York,Woodhaven,9.00,3
+East Tremont,Cypress Hills,46.67,3
+Kensington,Times Sq/Theatre District,43.67,3
+Boerum Hill,Bensonhurst East,20.33,3
+Gowanus,Greenwich Village South,29.00,3
+Morningside Heights,Kew Gardens,37.00,3
+Carroll Gardens,Crown Heights South,19.00,3
+Glendale,Greenpoint,28.33,3
+Financial District North,Kingsbridge Heights,26.33,3
+Lenox Hill West,Far Rockaway,66.67,3
+Kew Gardens Hills,Co-Op City,28.67,3
+Flushing,Kew Gardens Hills,18.67,3
+Queensbridge/Ravenswood,Flushing Meadows-Corona Park,23.00,3
+Saint Albans,Queens Village,16.00,3
+West Village,Manhattan Beach,52.67,3
+Soundview/Castle Hill,Laurelton,34.33,3
+Saint Albans,East Harlem South,43.67,3
+Bay Ridge,Marine Park/Mill Basin,27.00,3
+Cypress Hills,Rockaway Park,28.00,3
+Crown Heights South,Lenox Hill East,54.00,3
+Parkchester,Williamsbridge/Olinville,19.00,3
+Steinway,Marine Park/Mill Basin,56.67,3
+South Jamaica,DUMBO/Vinegar Hill,49.67,3
+Brooklyn Navy Yard,Lincoln Square West,45.33,3
+Claremont/Bathgate,Co-Op City,32.33,3
+Kensington,Gramercy,32.67,3
+Stuy Town/Peter Cooper Village,Brownsville,48.33,3
+Middle Village,Woodhaven,12.00,3
+Maspeth,East Harlem South,34.00,3
+Westchester Village/Unionport,Bedford Park,20.33,3
+Bushwick North,Jackson Heights,21.00,3
+Gowanus,SoHo,17.00,3
+Prospect Park,Garment District,41.67,3
+Baisley Park,West Farms/Bronx River,28.33,3
+Briarwood/Jamaica Hills,Park Slope,33.67,3
+East Harlem North,Bayside,38.67,3
+Mott Haven/Port Morris,Lincoln Square West,20.67,3
+Soundview/Bruckner,Williamsbridge/Olinville,11.33,3
+Flatbush/Ditmas Park,Union Sq,47.33,3
+South Ozone Park,Greenwich Village South,51.00,3
+Glendale,Astoria,27.00,3
+Flushing,Midtown Center,33.00,3
+Briarwood/Jamaica Hills,Newark Airport,70.67,3
+Auburndale,JFK Airport,26.00,3
+Pelham Parkway,Williamsbridge/Olinville,15.67,3
+Upper East Side South,Arrochar/Fort Wadsworth,41.33,3
+South Jamaica,Woodlawn/Wakefield,40.00,3
+Crotona Park East,Williamsbridge/Olinville,18.67,3
+Midtown South,Willets Point,29.00,3
+Longwood,Van Cortlandt Village,18.67,3
+Randalls Island,Longwood,22.67,3
+North Corona,College Point,13.33,3
+Bronxdale,Van Nest/Morris Park,13.67,3
+Far Rockaway,Astoria,51.33,3
+Old Astoria,Flatbush/Ditmas Park,25.00,3
+Laurelton,Greenwich Village North,77.33,3
+Hudson Sq,Belmont,44.00,3
+Clinton West,Springfield Gardens North,72.33,3
+Bay Ridge,Greenpoint,31.00,3
+Bloomingdale,Ocean Hill,73.00,3
+Midtown Center,Rossville/Woodrow,52.67,3
+TriBeCa/Civic Center,West Brighton,48.67,3
+Homecrest,Williamsburg (South Side),53.00,3
+Soundview/Bruckner,Morrisania/Melrose,20.00,3
+Battery Park,Queens Village,59.33,3
+Financial District South,Westchester Village/Unionport,37.67,3
+Lower East Side,Rockaway Park,45.00,3
+Springfield Gardens North,Long Island City/Hunters Point,46.00,3
+Battery Park City,East New York,75.33,3
+Starrett City,Boerum Hill,58.33,3
+Battery Park City,Jamaica,55.33,3
+Brooklyn Navy Yard,UN/Turtle Bay South,20.67,3
+Times Sq/Theatre District,Grymes Hill/Clifton,37.00,3
+Greenwich Village South,Fresh Meadows,40.33,3
+Crown Heights North,UN/Turtle Bay South,46.00,3
+Springfield Gardens North,Central Harlem North,49.33,3
+Flushing,Flushing Meadows-Corona Park,5.33,3
+Marine Park/Mill Basin,Van Cortlandt Village,55.67,3
+Greenwich Village North,Arrochar/Fort Wadsworth,30.33,3
+Red Hook,Lenox Hill West,64.67,3
+Crown Heights North,Washington Heights South,51.33,3
+Eastchester,Woodlawn/Wakefield,9.00,3
+Downtown Brooklyn/MetroTech,Baisley Park,46.67,3
+South Williamsburg,Sunnyside,13.33,3
+Jackson Heights,Dyker Heights,48.33,3
+Maspeth,Bedford,15.00,3
+Battery Park City,Flatlands,38.00,3
+Queensbridge/Ravenswood,Downtown Brooklyn/MetroTech,30.33,3
+Central Harlem,Rego Park,30.33,3
+Midtown South,Mariners Harbor,40.33,3
+Bushwick North,Prospect Heights,26.33,3
+Clinton East,New Dorp/Midland Beach,52.33,3
+Upper West Side North,Astoria Park,45.67,3
+SoHo,Coney Island,36.00,3
+Central Harlem North,Springfield Gardens South,44.00,3
+Randalls Island,UN/Turtle Bay South,25.33,3
+Coney Island,Bay Ridge,15.33,3
+Kew Gardens,Cypress Hills,14.67,3
+Williamsbridge/Olinville,Crown Heights North,48.67,3
+Bronxdale,University Heights/Morris Heights,32.67,3
+Rego Park,Lower East Side,19.33,3
+West Concourse,Midtown East,30.67,3
+Two Bridges/Seward Park,Gravesend,41.33,3
+Borough Park,JFK Airport,46.00,3
+Inwood,Alphabet City,36.67,3
+Crown Heights North,Cypress Hills,17.33,3
+West Chelsea/Hudson Yards,West Brighton,46.00,3
+Old Astoria,Two Bridges/Seward Park,35.67,3
+Prospect Heights,Garment District,37.00,3
+Baisley Park,Sheepshead Bay,60.00,3
+Chinatown,Baisley Park,53.67,3
+Battery Park,Inwood,37.67,3
+East Village,Westerleigh,36.00,3
+Far Rockaway,East Harlem North,49.00,3
+East New York/Pennsylvania Avenue,Brownsville,9.33,3
+Columbia Street,Crown Heights North,18.67,3
+Stuy Town/Peter Cooper Village,Dyker Heights,23.67,3
+SoHo,Stapleton,29.33,3
+West Farms/Bronx River,East Harlem North,25.33,3
+Bedford,Canarsie,25.67,3
+Bushwick North,Penn Station/Madison Sq West,46.00,3
+Brooklyn Heights,Bloomingdale,32.67,3
+Bensonhurst East,Sheepshead Bay,17.67,3
+Ocean Hill,Bushwick North,10.67,3
+Rosedale,Laurelton,11.67,3
+Sunset Park East,Bensonhurst East,29.00,3
+Inwood,Van Cortlandt Park,13.67,3
+Marine Park/Mill Basin,Bensonhurst East,24.33,3
+Yorkville East,Springfield Gardens South,53.67,3
+East New York,Times Sq/Theatre District,60.00,3
+Astoria Park,Upper West Side South,17.67,3
+Crown Heights North,Bensonhurst West,36.67,3
+Central Harlem North,Crown Heights South,37.00,3
+Seaport,Van Cortlandt Village,46.00,3
+Van Cortlandt Village,Lenox Hill East,38.67,3
+Lincoln Square West,Whitestone,36.33,3
+Kingsbridge Heights,Spuyten Duyvil/Kingsbridge,9.67,3
+Allerton/Pelham Gardens,Pelham Bay,17.00,3
+Elmhurst/Maspeth,Clinton West,42.67,3
+Douglaston,Old Astoria,20.67,3
+Flushing,Elmhurst,15.67,3
+Outside of NYC,Bloomingdale,61.00,3
+East Village,West Brighton,38.00,3
+Washington Heights North,Soundview/Bruckner,24.67,3
+Windsor Terrace,Midtown East,25.67,3
+Greenwich Village North,West Brighton,45.67,3
+West Chelsea/Hudson Yards,Eltingville/Annadale/Prince's Bay,56.00,3
+East Harlem North,Prospect Heights,32.00,3
+Heartland Village/Todt Hill,Kew Gardens Hills,58.00,3
+Eastchester,Williamsbridge/Olinville,11.33,3
+Seaport,Homecrest,33.33,3
+Central Park,Flatlands,59.00,3
+Kensington,Madison,20.67,3
+Central Harlem North,Whitestone,31.67,3
+Bayside,Washington Heights South,34.00,3
+Astoria,Ozone Park,44.67,3
+Forest Hills,Mott Haven/Port Morris,26.00,3
+Crotona Park East,West Concourse,24.00,3
+Rego Park,Saint Albans,34.33,3
+Washington Heights South,East New York,41.33,3
+TriBeCa/Civic Center,East Flushing,47.00,3
+Flushing,Bensonhurst East,52.33,3
+Times Sq/Theatre District,Port Richmond,51.67,3
+Clinton Hill,Upper East Side North,34.00,3
+Bronxdale,Bedford Park,12.00,3
+Red Hook,Ocean Hill,31.00,3
+Bay Ridge,Glen Oaks,34.00,3
+Mount Hope,Times Sq/Theatre District,40.33,3
+East Chelsea,Charleston/Tottenville,74.33,3
+Columbia Street,TriBeCa/Civic Center,17.33,3
+Clinton Hill,East Flatbush/Farragut,21.00,3
+Two Bridges/Seward Park,Dyker Heights,36.00,3
+Gravesend,Sunset Park West,32.33,3
+Red Hook,East Harlem South,34.00,3
+Middle Village,North Corona,11.67,3
+Two Bridges/Seward Park,Van Nest/Morris Park,45.67,3
+South Ozone Park,Far Rockaway,21.67,3
+Carroll Gardens,Central Park,39.67,3
+Clinton West,Queensboro Hill,35.67,3
+South Ozone Park,East Harlem North,26.00,3
+Springfield Gardens South,Far Rockaway,18.33,3
+South Ozone Park,Sunset Park East,41.00,3
+Alphabet City,Dyker Heights,29.33,3
+Central Park,College Point,44.33,3
+Bushwick North,Upper East Side North,31.33,3
+Yorkville East,South Jamaica,51.00,3
+Central Park,East Flushing,40.67,3
+Springfield Gardens North,South Jamaica,8.00,3
+Springfield Gardens South,East New York/Pennsylvania Avenue,18.67,3
+Manhattan Valley,East Flatbush/Remsen Village,59.67,3
+Soundview/Bruckner,Schuylerville/Edgewater Park,4.00,3
+East New York,Lenox Hill East,62.33,3
+Roosevelt Island,Yorkville West,491.67,3
+Elmhurst/Maspeth,Woodhaven,29.33,3
+Brownsville,Clinton East,47.67,3
+Upper West Side South,West Brighton,57.33,3
+Central Harlem North,Sunset Park West,54.33,3
+Hamilton Heights,Parkchester,22.00,3
+Steinway,Hunts Point,13.00,3
+College Point,Clinton East,34.33,3
+Pelham Bay,Flatiron,32.33,3
+Meatpacking/West Village West,East New York/Pennsylvania Avenue,52.33,3
+Old Astoria,Glen Oaks,24.00,3
+Brighton Beach,Outside of NYC,78.33,3
+Richmond Hill,Saint Albans,21.00,3
+Old Astoria,Bay Terrace/Fort Totten,16.33,3
+Richmond Hill,Hollis,20.00,3
+East Harlem South,City Island,33.00,3
+Cambria Heights,Elmhurst,34.33,3
+Whitestone,Sunnyside,33.33,3
+Kew Gardens,Kips Bay,21.00,3
+World Trade Center,Crotona Park East,45.00,3
+South Ozone Park,Rego Park,23.00,3
+Lower East Side,Rosedale,32.00,3
+North Corona,Midtown South,24.67,3
+Gowanus,Gramercy,37.67,3
+Spuyten Duyvil/Kingsbridge,Lincoln Square West,20.33,3
+South Ozone Park,Woodside,30.00,3
+Soundview/Bruckner,Allerton/Pelham Gardens,13.00,3
+Kips Bay,Mariners Harbor,50.33,3
+Howard Beach,Homecrest,21.33,3
+Gramercy,Marine Park/Floyd Bennett Field,49.67,3
+Clinton Hill,Flushing Meadows-Corona Park,20.67,3
+Bensonhurst East,Brooklyn Heights,36.67,3
+Financial District South,Far Rockaway,55.67,3
+Sunnyside,Canarsie,40.33,3
+Kew Gardens Hills,LaGuardia Airport,12.00,3
+Crotona Park East,Mount Hope,18.00,3
+Brownsville,Sunset Park East,52.67,3
+Central Harlem,Carroll Gardens,36.33,3
+Bronxdale,Melrose South,20.00,3
+Crown Heights South,Clinton West,41.33,3
+Downtown Brooklyn/MetroTech,West Concourse,28.67,3
+Little Italy/NoLiTa,Bloomfield/Emerson Hill,32.67,3
+Ocean Hill,Central Harlem North,29.00,3
+Queens Village,Elmhurst,30.00,3
+Kingsbridge Heights,Pelham Parkway,14.33,3
+Morrisania/Melrose,West Chelsea/Hudson Yards,31.33,3
+Forest Park/Highland Park,Ridgewood,10.00,3
+Fort Greene,Gravesend,36.33,3
+Little Italy/NoLiTa,Fresh Meadows,46.00,3
+Elmhurst,Brownsville,33.00,3
+Greenwich Village North,Gravesend,35.67,3
+Saint Michaels Cemetery/Woodside,Williamsburg (South Side),13.33,3
+Ozone Park,Times Sq/Theatre District,47.33,3
+Hudson Sq,Van Cortlandt Park,33.67,3
+Coney Island,Manhattan Beach,9.00,3
+Ocean Parkway South,Midwood,4.67,3
+Yorkville East,Hollis,31.00,3
+Battery Park City,Mount Hope,35.33,3
+Steinway,East Williamsburg,15.67,3
+Elmhurst,Bedford,35.67,3
+Kensington,Lincoln Square West,34.00,3
+Ocean Parkway South,Marine Park/Mill Basin,29.00,3
+Red Hook,Sunset Park East,14.33,3
+Mount Hope,Spuyten Duyvil/Kingsbridge,9.00,3
+Kingsbridge Heights,JFK Airport,59.33,3
+Upper East Side South,Great Kills,70.00,3
+Whitestone,Bay Terrace/Fort Totten,6.00,3
+Financial District North,Kew Gardens Hills,32.33,3
+Gowanus,Chinatown,16.00,3
+World Trade Center,Eltingville/Annadale/Prince's Bay,44.00,3
+Richmond Hill,Union Sq,40.67,3
+Inwood Hill Park,University Heights/Morris Heights,15.33,3
+Springfield Gardens South,Borough Park,48.67,3
+Inwood Hill Park,Spuyten Duyvil/Kingsbridge,3.67,3
+Westchester Village/Unionport,Financial District South,47.00,3
+SoHo,Kingsbridge Heights,32.67,3
+Maspeth,Saint Albans,37.00,3
+Bushwick North,Long Island City/Queens Plaza,22.67,3
+Astoria,Prospect-Lefferts Gardens,38.00,3
+Bushwick North,Canarsie,25.67,3
+Hunts Point,Claremont/Bathgate,22.00,3
+Crown Heights South,Greenpoint,38.00,3
+Brooklyn Navy Yard,Long Island City/Hunters Point,16.33,3
+East Harlem South,Rosedale,70.00,3
+Kensington,Financial District North,17.67,3
+Oakland Gardens,Queens Village,8.00,3
+Seaport,Parkchester,38.00,3
+Sheepshead Bay,East Tremont,62.33,3
+Richmond Hill,Marine Park/Mill Basin,30.33,3
+Steinway,South Williamsburg,14.67,3
+Sheepshead Bay,Marine Park/Mill Basin,17.00,3
+Downtown Brooklyn/MetroTech,Crotona Park East,31.67,3
+Norwood,Forest Hills,44.67,3
+East Concourse/Concourse Village,Riverdale/North Riverdale/Fieldston,23.00,3
+Williamsburg (South Side),Roosevelt Island,20.67,3
+Norwood,Cypress Hills,41.33,3
+Central Park,Queens Village,53.33,3
+Gramercy,Arrochar/Fort Wadsworth,32.33,3
+South Jamaica,Hillcrest/Pomonok,21.67,3
+Ozone Park,Boerum Hill,42.67,3
+Stuyvesant Heights,Woodhaven,20.00,3
+Roosevelt Island,Flatiron,23.33,3
+Hudson Sq,Homecrest,34.33,3
+Bay Ridge,Flatiron,25.00,3
+University Heights/Morris Heights,Upper West Side South,28.67,3
+Clinton Hill,Central Park,32.00,2
+Bay Terrace/Fort Totten,Douglaston,1.50,2
+World Trade Center,Claremont/Bathgate,24.00,2
+West Village,Cambria Heights,46.50,2
+Clinton West,Marine Park/Floyd Bennett Field,47.50,2
+Riverdale/North Riverdale/Fieldston,Yorkville West,39.50,2
+Grymes Hill/Clifton,Bensonhurst East,18.50,2
+Laurelton,Jamaica,19.00,2
+Hamilton Heights,Bay Ridge,67.00,2
+Norwood,East New York,47.50,2
+Richmond Hill,Midtown North,43.50,2
+East Flatbush/Remsen Village,Upper East Side North,73.00,2
+Morningside Heights,East Flatbush/Farragut,54.50,2
+Bay Ridge,Laurelton,42.00,2
+Sutton Place/Turtle Bay North,Stapleton,43.00,2
+Red Hook,Prospect Heights,15.50,2
+Eastchester,Van Cortlandt Village,25.50,2
+Bloomingdale,Murray Hill-Queens,36.50,2
+Sunset Park East,LaGuardia Airport,44.50,2
+Financial District South,Pelham Bay Park,45.50,2
+Downtown Brooklyn/MetroTech,Briarwood/Jamaica Hills,31.50,2
+Stuy Town/Peter Cooper Village,Woodhaven,40.00,2
+Briarwood/Jamaica Hills,Rosedale,20.50,2
+Gramercy,City Island,32.50,2
+Bellerose,Richmond Hill,29.50,2
+Lincoln Square East,Saint Michaels Cemetery/Woodside,24.00,2
+Midtown Center,West Brighton,40.00,2
+Meatpacking/West Village West,Co-Op City,38.50,2
+Bronxdale,Westchester Village/Unionport,15.50,2
+Maspeth,Central Park,20.00,2
+Allerton/Pelham Gardens,Norwood,22.00,2
+Red Hook,Madison,36.50,2
+Steinway,Bronxdale,19.50,2
+Mount Hope,Morningside Heights,26.50,2
+Sunset Park West,Greenwich Village South,24.00,2
+Manhattan Beach,Bay Ridge,13.00,2
+Jackson Heights,City Island,39.50,2
+Dyker Heights,Borough Park,5.50,2
+Baisley Park,Brownsville,26.50,2
+Fort Greene,Bath Beach,23.00,2
+Steinway,Bensonhurst East,37.50,2
+World Trade Center,Kingsbridge Heights,62.50,2
+Douglaston,Flatiron,27.50,2
+Ocean Parkway South,Sheepshead Bay,10.50,2
+Richmond Hill,Little Italy/NoLiTa,40.50,2
+Two Bridges/Seward Park,Co-Op City,38.50,2
+Eastchester,Bronxdale,13.50,2
+Far Rockaway,Queens Village,32.50,2
+Douglaston,Cambria Heights,13.50,2
+Murray Hill,Charleston/Tottenville,48.00,2
+World Trade Center,Mariners Harbor,26.50,2
+SoHo,Soundview/Castle Hill,18.50,2
+Little Italy/NoLiTa,Breezy Point/Fort Tilden/Riis Beach,55.00,2
+Stuyvesant Heights,Van Nest/Morris Park,35.00,2
+Stuyvesant Heights,Clinton West,45.00,2
+Woodside,Midwood,27.00,2
+Pelham Parkway,Woodlawn/Wakefield,24.00,2
+Ridgewood,Baisley Park,29.50,2
+Kew Gardens,Murray Hill-Queens,45.50,2
+Bay Ridge,Bath Beach,15.50,2
+Homecrest,TriBeCa/Civic Center,23.00,2
+Inwood Hill Park,Central Harlem North,12.00,2
+Hamilton Heights,Red Hook,69.50,2
+Saint Albans,Upper East Side North,45.50,2
+Chinatown,Ozone Park,48.50,2
+East New York,Manhattan Beach,13.00,2
+Washington Heights South,Homecrest,63.00,2
+East Williamsburg,South Jamaica,31.50,2
+Greenwich Village North,Far Rockaway,54.50,2
+Far Rockaway,Baisley Park,20.00,2
+Bath Beach,Bensonhurst East,4.50,2
+Penn Station/Madison Sq West,Marine Park/Floyd Bennett Field,45.00,2
+Bath Beach,Sunset Park West,16.50,2
+Stuy Town/Peter Cooper Village,Mount Hope,36.00,2
+West Concourse,Park Slope,51.00,2
+Inwood,Gramercy,28.50,2
+DUMBO/Vinegar Hill,Bath Beach,21.00,2
+Van Cortlandt Village,Soundview/Castle Hill,23.00,2
+Laurelton,Brooklyn Heights,60.00,2
+TriBeCa/Civic Center,Eltingville/Annadale/Prince's Bay,47.50,2
+Briarwood/Jamaica Hills,Woodhaven,18.00,2
+Outside of NYC,Prospect-Lefferts Gardens,40.00,2
+Saint Albans,Union Sq,49.00,2
+Forest Hills,South Jamaica,17.50,2
+Roosevelt Island,Spuyten Duyvil/Kingsbridge,29.00,2
+Springfield Gardens North,Times Sq/Theatre District,64.00,2
+College Point,Rockaway Park,59.00,2
+Lower East Side,West Brighton,31.50,2
+Sunset Park West,Little Italy/NoLiTa,45.00,2
+DUMBO/Vinegar Hill,East Flatbush/Farragut,28.00,2
+Springfield Gardens South,Crotona Park East,37.00,2
+East New York,Elmhurst,31.00,2
+Inwood,Eastchester,26.00,2
+Yorkville East,Ocean Parkway South,46.00,2
+Jamaica,Auburndale,15.50,2
+Forest Hills,Little Italy/NoLiTa,29.00,2
+Murray Hill-Queens,Queensbridge/Ravenswood,25.00,2
+Flushing,East Harlem South,28.00,2
+Brooklyn Navy Yard,Brooklyn Heights,9.50,2
+Williamsbridge/Olinville,Lincoln Square West,37.50,2
+Baisley Park,Murray Hill-Queens,32.00,2
+Williamsbridge/Olinville,Central Harlem North,59.00,2
+Inwood Hill Park,East Chelsea,28.00,2
+Greenwich Village South,Eltingville/Annadale/Prince's Bay,56.00,2
+Jackson Heights,Flatbush/Ditmas Park,44.50,2
+TriBeCa/Civic Center,Port Richmond,37.50,2
+Soundview/Castle Hill,Kips Bay,46.50,2
+Flushing,Steinway,16.00,2
+Bath Beach,Dyker Heights,9.00,2
+Upper West Side North,Far Rockaway,68.00,2
+Elmhurst,Stuy Town/Peter Cooper Village,27.50,2
+Elmhurst/Maspeth,West Chelsea/Hudson Yards,28.50,2
+Battery Park,Flushing Meadows-Corona Park,35.00,2
+Jackson Heights,University Heights/Morris Heights,23.00,2
+Flushing Meadows-Corona Park,Sunset Park West,32.50,2
+Sunset Park West,Midtown North,45.00,2
+South Williamsburg,West Village,17.00,2
+Borough Park,Marine Park/Mill Basin,23.00,2
+Battery Park City,Far Rockaway,76.00,2
+Financial District North,Inwood Hill Park,26.00,2
+Mount Hope,Two Bridges/Seward Park,40.00,2
+Laurelton,Prospect-Lefferts Gardens,48.50,2
+East Tremont,Alphabet City,29.00,2
+Windsor Terrace,Marine Park/Mill Basin,32.50,2
+Middle Village,UN/Turtle Bay South,19.50,2
+Central Harlem North,Queens Village,37.50,2
+Belmont,Bedford,31.50,2
+Homecrest,Fort Greene,46.50,2
+Fort Greene,Manhattan Beach,32.00,2
+Parkchester,Morningside Heights,35.00,2
+Times Sq/Theatre District,Oakwood,54.00,2
+Canarsie,Downtown Brooklyn/MetroTech,51.00,2
+Lower East Side,City Island,31.00,2
+Brooklyn Navy Yard,South Williamsburg,51.00,2
+Meatpacking/West Village West,Schuylerville/Edgewater Park,30.50,2
+Bushwick South,Lenox Hill West,23.00,2
+Canarsie,Sunnyside,51.50,2
+Bedford,Upper West Side South,45.00,2
+UN/Turtle Bay South,Great Kills,52.00,2
+Midwood,Prospect-Lefferts Gardens,21.00,2
+Williamsbridge/Olinville,LaGuardia Airport,28.50,2
+University Heights/Morris Heights,Schuylerville/Edgewater Park,25.50,2
+Elmhurst,Washington Heights South,28.50,2
+Baisley Park,Douglaston,19.50,2
+Forest Hills,Stuy Town/Peter Cooper Village,30.50,2
+Kensington,Outside of NYC,78.50,2
+Van Nest/Morris Park,City Island,13.50,2
+World Trade Center,Oakland Gardens,31.00,2
+Cypress Hills,Forest Hills,21.50,2
+Inwood,Lenox Hill West,48.00,2
+Rosedale,Richmond Hill,25.50,2
+Greenpoint,Melrose South,12.50,2
+Roosevelt Island,Park Slope,62.00,2
+Battery Park City,East Concourse/Concourse Village,32.00,2
+Brownsville,East Williamsburg,27.00,2
+Van Cortlandt Village,Bronxdale,11.50,2
+Sunset Park West,Seaport,24.50,2
+Highbridge,Pelham Parkway,22.50,2
+Forest Hills,Belmont,27.00,2
+Erasmus,Queensboro Hill,60.00,2
+Richmond Hill,Flushing,40.00,2
+Clinton East,Oakwood,45.00,2
+Woodlawn/Wakefield,Allerton/Pelham Gardens,15.00,2
+West Chelsea/Hudson Yards,South Jamaica,35.50,2
+East Village,Marine Park/Floyd Bennett Field,36.00,2
+Canarsie,Yorkville East,46.00,2
+Forest Hills,Hammels/Arverne,54.50,2
+SoHo,Jamaica Estates,26.00,2
+Forest Hills,Glen Oaks,28.50,2
+Richmond Hill,North Corona,18.50,2
+SoHo,Claremont/Bathgate,72.50,2
+Bensonhurst West,UN/Turtle Bay South,47.00,2
+Claremont/Bathgate,Westchester Village/Unionport,14.00,2
+Crown Heights North,Upper West Side South,53.00,2
+Brooklyn Navy Yard,Bedford,6.50,2
+Cobble Hill,Flatlands,45.50,2
+Hudson Sq,Soundview/Bruckner,310.00,2
+Steinway,Canarsie,47.00,2
+Stuyvesant Heights,Meatpacking/West Village West,40.00,2
+Starrett City,Carroll Gardens,48.00,2
+Steinway,Pelham Parkway,23.50,2
+Midtown Center,Eltingville/Annadale/Prince's Bay,50.50,2
+South Williamsburg,Bath Beach,26.50,2
+Coney Island,Sunset Park West,42.50,2
+East Williamsburg,Inwood,39.00,2
+Kew Gardens Hills,Old Astoria,25.50,2
+Richmond Hill,Kew Gardens Hills,19.50,2
+Borough Park,Windsor Terrace,27.00,2
+Clinton West,Starrett City,75.00,2
+Prospect-Lefferts Gardens,Central Harlem North,38.50,2
+Brighton Beach,Midwood,18.00,2
+Crown Heights South,Garment District,45.50,2
+Westchester Village/Unionport,Central Harlem North,23.50,2
+South Jamaica,Fresh Meadows,17.50,2
+Battery Park City,University Heights/Morris Heights,38.50,2
+Brooklyn Heights,Bath Beach,30.00,2
+Bayside,East New York,52.00,2
+Howard Beach,Elmhurst,36.50,2
+Saint Michaels Cemetery/Woodside,Roosevelt Island,14.00,2
+Springfield Gardens North,Williamsburg (South Side),45.50,2
+East Harlem South,New Dorp/Midland Beach,53.50,2
+Erasmus,Midwood,53.00,2
+Long Island City/Queens Plaza,Glen Oaks,33.00,2
+Highbridge,Co-Op City,27.00,2
+Jamaica,Crown Heights North,35.00,2
+Highbridge Park,Manhattanville,7.50,2
+Flatiron,Heartland Village/Todt Hill,37.50,2
+Ridgewood,Fort Greene,19.00,2
+Bellerose,Bayside,10.50,2
+Brooklyn Heights,Rockaway Park,40.50,2
+Ocean Hill,Boerum Hill,31.50,2
+South Ozone Park,Hillcrest/Pomonok,19.00,2
+Inwood,Yorkville East,23.50,2
+North Corona,Murray Hill-Queens,20.50,2
+Woodhaven,Old Astoria,24.00,2
+Elmhurst,Springfield Gardens North,47.00,2
+Downtown Brooklyn/MetroTech,Willets Point,33.00,2
+Springfield Gardens North,Crown Heights North,37.00,2
+Stuyvesant Heights,Washington Heights South,45.00,2
+East Flatbush/Farragut,Far Rockaway,107.00,2
+Highbridge,Crotona Park East,11.00,2
+Spuyten Duyvil/Kingsbridge,Soundview/Castle Hill,18.00,2
+North Corona,Hillcrest/Pomonok,15.50,2
+Seaport,Douglaston,46.50,2
+Inwood,Woodlawn/Wakefield,19.00,2
+Midtown North,Stapleton,40.50,2
+Flushing,Parkchester,12.50,2
+Penn Station/Madison Sq West,Oakwood,47.50,2
+Upper West Side North,Howard Beach,68.50,2
+Randalls Island,Little Italy/NoLiTa,30.50,2
+Downtown Brooklyn/MetroTech,Van Nest/Morris Park,73.00,2
+Financial District South,Eastchester,34.00,2
+East Concourse/Concourse Village,Queensbridge/Ravenswood,36.00,2
+Allerton/Pelham Gardens,Murray Hill,49.00,2
+Kensington,East Harlem North,38.50,2
+Lower East Side,Hammels/Arverne,51.00,2
+Bedford Park,Upper West Side North,28.50,2
+College Point,East Elmhurst,14.50,2
+Cobble Hill,Manhattan Valley,29.00,2
+Prospect Park,Sunset Park East,14.00,2
+Williamsburg (North Side),Kew Gardens,23.50,2
+Marine Park/Floyd Bennett Field,Bensonhurst East,23.00,2
+Richmond Hill,Cambria Heights,34.00,2
+Boerum Hill,Woodhaven,34.00,2
+Chinatown,Auburndale,38.50,2
+Bushwick North,East New York,20.50,2
+Springfield Gardens North,Queensboro Hill,24.50,2
+Old Astoria,East Tremont,17.50,2
+College Point,Whitestone,18.50,2
+Kensington,Williamsbridge/Olinville,72.50,2
+Kew Gardens Hills,Midtown Center,34.50,2
+Crotona Park East,Springfield Gardens South,34.00,2
+Bedford,Central Park,44.00,2
+Windsor Terrace,Greenwich Village North,40.00,2
+Gravesend,Kips Bay,50.50,2
+Williamsburg (North Side),Mott Haven/Port Morris,26.00,2
+Boerum Hill,Hammels/Arverne,68.50,2
+Battery Park,Roosevelt Island,31.50,2
+Saint Albans,Flatiron,43.50,2
+East Concourse/Concourse Village,Eastchester,23.00,2
+Westchester Village/Unionport,Melrose South,29.50,2
+Richmond Hill,Brownsville,21.50,2
+Prospect-Lefferts Gardens,Lincoln Square East,49.50,2
+Hillcrest/Pomonok,Cypress Hills,19.00,2
+Financial District North,Fordham South,36.00,2
+South Jamaica,Mount Hope,31.50,2
+College Point,Prospect Heights,27.00,2
+Crown Heights North,Saint Albans,41.00,2
+Flatbush/Ditmas Park,Richmond Hill,44.00,2
+Stuyvesant Heights,East Harlem South,42.50,2
+Elmhurst/Maspeth,Westchester Village/Unionport,40.00,2
+Soundview/Bruckner,Washington Heights South,39.00,2
+Crown Heights North,Mount Hope,62.50,2
+Sutton Place/Turtle Bay North,Pelham Bay Park,25.00,2
+Inwood,Garment District,40.00,2
+Starrett City,Outside of NYC,99.50,2
+Rosedale,TriBeCa/Civic Center,61.50,2
+Cambria Heights,Clinton East,69.50,2
+Eastchester,Soundview/Castle Hill,17.00,2
+Little Italy/NoLiTa,City Island,40.50,2
+Norwood,East Harlem North,21.50,2
+Woodside,Norwood,28.00,2
+Chinatown,Stapleton,37.00,2
+Cypress Hills,East Village,33.50,2
+Greenpoint,Flushing Meadows-Corona Park,22.00,2
+Ozone Park,Midtown South,60.00,2
+Van Cortlandt Park,Riverdale/North Riverdale/Fieldston,0.00,2
+Soundview/Bruckner,Mott Haven/Port Morris,9.50,2
+Erasmus,Central Harlem,38.00,2
+Morrisania/Melrose,Highbridge,10.00,2
+Newark Airport,East Harlem North,58.00,2
+Willets Point,Flushing Meadows-Corona Park,1.00,2
+Battery Park,East Concourse/Concourse Village,40.00,2
+Newark Airport,Chinatown,42.00,2
+Old Astoria,Hunts Point,20.00,2
+Battery Park City,Ocean Hill,35.00,2
+Newark Airport,Midtown North,76.00,2
+Madison,Gravesend,17.50,2
+Outside of NYC,Auburndale,18.50,2
+Hudson Sq,Woodhaven,39.00,2
+Van Cortlandt Village,Eastchester,23.50,2
+Rosedale,Baisley Park,9.00,2
+Williamsbridge/Olinville,Outside of NYC,14.00,2
+Central Park,Bensonhurst East,49.50,2
+Inwood,Morrisania/Melrose,24.50,2
+College Point,Stuyvesant Heights,23.00,2
+Bay Ridge,Brooklyn Heights,31.50,2
+Highbridge,East Elmhurst,22.50,2
+Financial District South,Starrett City,37.50,2
+Whitestone,Eastchester,14.50,2
+Old Astoria,Briarwood/Jamaica Hills,24.50,2
+Marble Hill,East Concourse/Concourse Village,19.00,2
+Rosedale,Clinton East,94.00,2
+Alphabet City,Schuylerville/Edgewater Park,37.00,2
+Park Slope,Roosevelt Island,38.00,2
+TriBeCa/Civic Center,Mariners Harbor,43.00,2
+Glendale,Woodside,26.00,2
+West Chelsea/Hudson Yards,Grymes Hill/Clifton,34.50,2
+Seaport,Green-Wood Cemetery,20.50,2
+Downtown Brooklyn/MetroTech,Gravesend,29.50,2
+Hudson Sq,Douglaston,48.50,2
+Whitestone,Jamaica,19.50,2
+Gravesend,Brownsville,30.50,2
+Steinway,Baisley Park,37.00,2
+Norwood,Co-Op City,15.00,2
+Marine Park/Mill Basin,Gramercy,54.50,2
+Pelham Bay,Canarsie,32.50,2
+Spuyten Duyvil/Kingsbridge,UN/Turtle Bay South,35.50,2
+Washington Heights South,Windsor Terrace,44.50,2
+Queensbridge/Ravenswood,Highbridge,24.00,2
+Norwood,Manhattanville,20.00,2
+West Concourse,Ocean Hill,50.50,2
+Battery Park City,Douglaston,44.00,2
+Woodside,Gravesend,33.00,2
+Soundview/Bruckner,Washington Heights North,37.50,2
+Sheepshead Bay,Boerum Hill,34.50,2
+Brooklyn Navy Yard,Borough Park,28.50,2
+West Village,Saint Albans,44.50,2
+Williamsbridge/Olinville,Belmont,18.50,2
+Flushing,Flatbush/Ditmas Park,68.00,2
+Bronxdale,Co-Op City,14.00,2
+Manhattanville,Cypress Hills,40.50,2
+Laurelton,Baisley Park,13.50,2
+Bay Ridge,UN/Turtle Bay South,37.50,2
+Flatiron,Hollis,730.00,2
+Battery Park,Rego Park,40.50,2
+Jamaica Bay,West Village,44.00,2
+Springfield Gardens North,Richmond Hill,20.50,2
+Brooklyn Navy Yard,Financial District South,20.00,2
+Yorkville West,East New York/Pennsylvania Avenue,51.50,2
+Meatpacking/West Village West,Morrisania/Melrose,31.50,2
+East Harlem South,Queensboro Hill,22.50,2
+Coney Island,Boerum Hill,32.00,2
+East Concourse/Concourse Village,Midtown East,27.50,2
+Mount Hope,East Harlem North,17.50,2
+Prospect Park,Battery Park City,31.50,2
+East New York,Newark Airport,38.50,2
+Fort Greene,Cambria Heights,61.00,2
+Springfield Gardens North,LaGuardia Airport,26.00,2
+Bushwick South,Prospect Park,23.00,2
+Saint Albans,East Flatbush/Farragut,37.50,2
+Elmhurst,Kew Gardens Hills,18.50,2
+Astoria,Kingsbridge Heights,59.50,2
+Rosedale,Fresh Meadows,15.50,2
+Hudson Sq,Van Nest/Morris Park,42.00,2
+Flushing,UN/Turtle Bay South,32.00,2
+Greenpoint,East Harlem North,30.50,2
+Elmhurst/Maspeth,Bloomingdale,25.00,2
+Elmhurst/Maspeth,Midtown South,24.00,2
+Mount Hope,Alphabet City,22.00,2
+Soundview/Bruckner,Hillcrest/Pomonok,30.00,2
+Midwood,Crown Heights South,28.50,2
+Washington Heights South,Stuyvesant Heights,56.50,2
+Kew Gardens Hills,Astoria,19.00,2
+Kew Gardens,Chinatown,43.50,2
+Battery Park,Stuyvesant Heights,30.50,2
+East Flatbush/Farragut,Madison,19.50,2
+Sutton Place/Turtle Bay North,Saint George/New Brighton,41.50,2
+East Concourse/Concourse Village,Clinton West,29.00,2
+Bushwick North,North Corona,22.50,2
+Meatpacking/West Village West,Westchester Village/Unionport,45.50,2
+Westchester Village/Unionport,University Heights/Morris Heights,6.00,2
+Queens Village,Lenox Hill West,41.00,2
+Hammels/Arverne,Van Nest/Morris Park,63.00,2
+Starrett City,Brownsville,12.50,2
+Melrose South,Elmhurst,13.00,2
+Battery Park,East Elmhurst,46.00,2
+Flushing,Washington Heights South,40.00,2
+Briarwood/Jamaica Hills,Queensbridge/Ravenswood,23.50,2
+SoHo,Bloomfield/Emerson Hill,39.00,2
+Chinatown,Woodhaven,37.50,2
+Sheepshead Bay,Gravesend,19.00,2
+East Concourse/Concourse Village,Far Rockaway,61.50,2
+Howard Beach,World Trade Center,31.50,2
+Canarsie,Clinton East,63.50,2
+South Williamsburg,Midwood,51.50,2
+Mott Haven/Port Morris,Long Island City/Hunters Point,23.00,2
+Canarsie,World Trade Center,41.00,2
+Flushing Meadows-Corona Park,Pelham Parkway,21.00,2
+Bay Ridge,Great Kills,31.00,2
+Marine Park/Floyd Bennett Field,Flatlands,23.50,2
+East Flatbush/Farragut,Two Bridges/Seward Park,38.50,2
+Borough Park,South Williamsburg,40.00,2
+Cypress Hills,East Harlem South,45.50,2
+Pelham Bay,Melrose South,20.50,2
+Steinway,Highbridge Park,14.50,2
+East Harlem South,Glendale,68.00,2
+Crotona Park East,Westchester Village/Unionport,3.00,2
+Stuy Town/Peter Cooper Village,Hunts Point,42.50,2
+Borough Park,Two Bridges/Seward Park,29.00,2
+Woodhaven,Forest Hills,12.50,2
+Newark Airport,Murray Hill,46.00,2
+Central Harlem,Gowanus,38.00,2
+Belmont,Parkchester,22.50,2
+Inwood,Midtown East,29.50,2
+Battery Park City,Belmont,51.50,2
+South Jamaica,Springfield Gardens North,6.50,2
+Steinway,Fordham South,21.50,2
+Auburndale,Times Sq/Theatre District,28.50,2
+Van Cortlandt Park,Bronx Park,6.00,2
+Stuy Town/Peter Cooper Village,Murray Hill-Queens,735.00,2
+Prospect Park,Lenox Hill West,31.00,2
+Meatpacking/West Village West,Hillcrest/Pomonok,41.50,2
+Midwood,Canarsie,37.50,2
+East New York,Sunset Park East,31.00,2
+Columbia Street,Flatiron,30.50,2
+Dyker Heights,Midtown East,34.50,2
+Bushwick North,Bloomingdale,35.50,2
+Rego Park,Bellerose,38.50,2
+East New York,Clinton East,44.50,2
+East Tremont,Richmond Hill,25.00,2
+Kensington,Canarsie,146.50,2
+Borough Park,Williamsburg (South Side),54.00,2
+Meatpacking/West Village West,Auburndale,40.50,2
+Van Cortlandt Village,Upper West Side South,25.50,2
+Middle Village,Steinway,24.50,2
+Flatbush/Ditmas Park,Lincoln Square East,49.50,2
+Marble Hill,Parkchester,19.00,2
+Pelham Parkway,East Flushing,21.50,2
+Crown Heights South,Carroll Gardens,20.50,2
+Long Island City/Queens Plaza,Longwood,24.50,2
+Boerum Hill,Westchester Village/Unionport,49.50,2
+Ridgewood,Downtown Brooklyn/MetroTech,46.50,2
+Central Harlem North,Elmhurst/Maspeth,21.00,2
+Ocean Hill,Flatbush/Ditmas Park,27.50,2
+Ridgewood,East Chelsea,39.50,2
+Springfield Gardens North,Union Sq,54.50,2
+Longwood,West Farms/Bronx River,18.50,2
+Midwood,Cypress Hills,33.50,2
+Little Italy/NoLiTa,Soundview/Bruckner,41.00,2
+Boerum Hill,Ocean Parkway South,22.00,2
+Old Astoria,Little Italy/NoLiTa,38.50,2
+East Village,Starrett City,33.00,2
+Jackson Heights,Woodlawn/Wakefield,41.00,2
+East New York/Pennsylvania Avenue,Park Slope,27.00,2
+Bushwick North,Sunset Park West,36.50,2
+Cambria Heights,Murray Hill,48.50,2
+Cambria Heights,Bellerose,16.50,2
+Kew Gardens,Saint Albans,19.00,2
+East Flushing,Boerum Hill,65.50,2
+Coney Island,Sutton Place/Turtle Bay North,48.50,2
+Central Park,Howard Beach,56.50,2
+Canarsie,Gowanus,26.50,2
+Bronx Park,JFK Airport,43.00,2
+Ridgewood,Boerum Hill,23.00,2
+Maspeth,Lincoln Square East,25.00,2
+Woodlawn/Wakefield,Murray Hill,33.50,2
+Prospect Park,East Flatbush/Farragut,17.50,2
+Midtown South,West Brighton,40.00,2
+Downtown Brooklyn/MetroTech,Bronx Park,35.50,2
+Spuyten Duyvil/Kingsbridge,Pelham Parkway,31.00,2
+Midtown East,Saint Michaels Cemetery/Woodside,23.50,2
+Stuyvesant Heights,Long Island City/Hunters Point,21.50,2
+Soundview/Bruckner,East Concourse/Concourse Village,21.00,2
+Elmhurst/Maspeth,Park Slope,34.00,2
+Times Sq/Theatre District,Arden Heights,52.00,2
+West Chelsea/Hudson Yards,Gravesend,46.00,2
+Steinway,Windsor Terrace,39.50,2
+Laurelton,Times Sq/Theatre District,70.00,2
+Murray Hill,Marine Park/Floyd Bennett Field,75.50,2
+Saint Michaels Cemetery/Woodside,Lincoln Square West,24.50,2
+Van Nest/Morris Park,Prospect-Lefferts Gardens,53.50,2
+Soundview/Castle Hill,Clinton East,28.00,2
+Washington Heights South,Far Rockaway,84.50,2
+Elmhurst,Hammels/Arverne,40.00,2
+Van Nest/Morris Park,Crotona Park East,9.50,2
+Morningside Heights,Howard Beach,62.00,2
+Jamaica Estates,Penn Station/Madison Sq West,54.50,2
+Corona,Clinton West,23.50,2
+Old Astoria,Inwood Hill Park,35.00,2
+Parkchester,Central Harlem,18.50,2
+West Farms/Bronx River,Spuyten Duyvil/Kingsbridge,18.50,2
+Union Sq,Charleston/Tottenville,46.00,2
+Greenwich Village South,Rossville/Woodrow,42.50,2
+Bushwick North,Outside of NYC,53.00,2
+Riverdale/North Riverdale/Fieldston,Lincoln Square East,18.00,2
+Upper East Side South,Bloomfield/Emerson Hill,52.00,2
+Corona,Fresh Meadows,8.00,2
+Howard Beach,East Elmhurst,29.50,2
+Randalls Island,South Ozone Park,22.00,2
+Chinatown,Hillcrest/Pomonok,24.50,2
+Williamsburg (North Side),North Corona,25.00,2
+Long Island City/Hunters Point,Ozone Park,32.00,2
+East Concourse/Concourse Village,Parkchester,27.50,2
+Ridgewood,Old Astoria,21.50,2
+Outside of NYC,Mott Haven/Port Morris,34.50,2
+Washington Heights North,Jackson Heights,24.00,2
+Mott Haven/Port Morris,Kew Gardens,18.50,2
+Bay Ridge,South Beach/Dongan Hills,10.50,2
+Soundview/Castle Hill,Kingsbridge Heights,22.50,2
+Broad Channel,Jamaica Bay,0.00,2
+Elmhurst/Maspeth,Kips Bay,20.50,2
+Two Bridges/Seward Park,North Corona,24.50,2
+Mount Hope,Hammels/Arverne,71.00,2
+Flatlands,Springfield Gardens North,42.50,2
+East Harlem South,Bath Beach,54.50,2
+Midwood,Two Bridges/Seward Park,32.50,2
+Baisley Park,Brighton Beach,23.50,2
+Midtown South,Eltingville/Annadale/Prince's Bay,68.00,2
+Randalls Island,Battery Park City,24.00,2
+South Ozone Park,Co-Op City,30.00,2
+Manhattan Valley,Pelham Bay Park,29.00,2
+Kingsbridge Heights,Ocean Hill,78.50,2
+Woodlawn/Wakefield,Hamilton Heights,25.50,2
+Claremont/Bathgate,Garment District,54.50,2
+Battery Park City,Williamsbridge/Olinville,38.50,2
+Financial District South,Belmont,40.50,2
+East Williamsburg,Bath Beach,35.00,2
+Hamilton Heights,Flushing,29.00,2
+SoHo,Van Cortlandt Village,50.00,2
+Flushing,East Harlem North,28.00,2
+Hudson Sq,Flushing,28.50,2
+Hamilton Heights,Crown Heights South,55.50,2
+Randalls Island,Murray Hill,35.50,2
+Woodside,Ozone Park,33.00,2
+Central Park,Heartland Village/Todt Hill,52.50,2
+Central Park,Saint Albans,46.00,2
+Flatiron,West Brighton,40.00,2
+Howard Beach,Brooklyn Heights,42.00,2
+Kensington,Lenox Hill East,38.00,2
+West Chelsea/Hudson Yards,Starrett City,38.50,2
+Jamaica Estates,Midtown Center,54.00,2
+Bushwick South,Elmhurst,31.50,2
+Williamsbridge/Olinville,Soundview/Castle Hill,21.50,2
+Kensington,Little Italy/NoLiTa,20.50,2
+Saint Michaels Cemetery/Woodside,East Village,25.00,2
+Springfield Gardens South,Midwood,50.00,2
+Downtown Brooklyn/MetroTech,Kew Gardens Hills,18.00,2
+Kensington,Midtown East,26.00,2
+Saint Albans,Greenwich Village North,57.50,2
+Kew Gardens,Rosedale,12.50,2
+Jackson Heights,East Flatbush/Farragut,42.50,2
+Sunset Park West,Highbridge,44.50,2
+Hillcrest/Pomonok,Flushing Meadows-Corona Park,31.00,2
+Bronx Park,UN/Turtle Bay South,38.00,2
+Bedford,Borough Park,25.50,2
+Columbia Street,Gramercy,32.00,2
+Sunnyside,Howard Beach,33.50,2
+Ozone Park,TriBeCa/Civic Center,59.00,2
+Marine Park/Floyd Bennett Field,TriBeCa/Civic Center,30.50,2
+Midwood,East Harlem South,47.50,2
+Murray Hill-Queens,Hillcrest/Pomonok,19.00,2
+Greenpoint,Roosevelt Island,19.00,2
+Park Slope,Ozone Park,30.00,2
+Douglaston,LaGuardia Airport,22.00,2
+East Concourse/Concourse Village,Murray Hill,43.00,2
+Prospect-Lefferts Gardens,Bensonhurst East,17.00,2
+Elmhurst/Maspeth,Downtown Brooklyn/MetroTech,23.00,2
+World Trade Center,Kew Gardens Hills,34.00,2
+Queensbridge/Ravenswood,Far Rockaway,93.00,2
+Ridgewood,Central Park,38.50,2
+Clinton West,Country Club,25.50,2
+Mott Haven/Port Morris,Bronx Park,22.50,2
+Hammels/Arverne,Chinatown,47.50,2
+Forest Park/Highland Park,Lincoln Square East,56.00,2
+Corona,Upper West Side North,33.50,2
+Outside of NYC,Inwood,386.50,2
+Green-Wood Cemetery,Borough Park,20.50,2
+Borough Park,Manhattan Beach,19.00,2
+Financial District South,Bronxdale,59.50,2
+Meatpacking/West Village West,Fresh Meadows,44.50,2
+Midwood,Financial District North,39.00,2
+Fordham South,North Corona,40.50,2
+Woodhaven,Baisley Park,26.00,2
+Carroll Gardens,Borough Park,17.50,2
+University Heights/Morris Heights,Van Cortlandt Park,13.00,2
+Westchester Village/Unionport,West Concourse,16.50,2
+Corona,Astoria,25.50,2
+Richmond Hill,Bensonhurst West,36.50,2
+Hollis,Lenox Hill East,54.50,2
+Manhattanville,Queens Village,31.50,2
+Kew Gardens Hills,Elmhurst,13.00,2
+Financial District North,College Point,39.00,2
+East New York/Pennsylvania Avenue,East Flatbush/Farragut,22.00,2
+Briarwood/Jamaica Hills,Brownsville,34.00,2
+East Elmhurst,South Beach/Dongan Hills,55.00,2
+Bayside,Flushing Meadows-Corona Park,17.00,2
+Stuyvesant Heights,Murray Hill,48.50,2
+Crown Heights North,Co-Op City,36.00,2
+Manhattanville,Eastchester,27.00,2
+East New York/Pennsylvania Avenue,Central Harlem North,47.50,2
+East Tremont,Stuyvesant Heights,46.00,2
+Coney Island,World Trade Center,47.50,2
+Financial District North,Westerleigh,24.00,2
+Union Sq,Eltingville/Annadale/Prince's Bay,49.50,2
+Saint Albans,Clinton Hill,48.00,2
+Belmont,East Harlem South,28.50,2
+Woodside,Howard Beach,44.50,2
+Richmond Hill,Starrett City,30.50,2
+East Williamsburg,Woodhaven,23.00,2
+Crown Heights South,Richmond Hill,42.50,2
+SoHo,Bayside,40.00,2
+Jackson Heights,East Flatbush/Remsen Village,39.50,2
+Roosevelt Island,Midtown South,26.50,2
+Co-Op City,Long Island City/Hunters Point,31.50,2
+Hamilton Heights,South Jamaica,38.00,2
+Soundview/Bruckner,Sunnyside,26.00,2
+Bay Ridge,Brighton Beach,12.50,2
+Yorkville West,Cambria Heights,36.00,2
+Red Hook,Flatlands,41.00,2
+Brooklyn Heights,Briarwood/Jamaica Hills,30.50,2
+Prospect Park,Sutton Place/Turtle Bay North,36.00,2
+Outside of NYC,West Farms/Bronx River,27.00,2
+Battery Park,East Flushing,52.00,2
+Flatlands,Gowanus,25.00,2
+Long Island City/Queens Plaza,Williamsbridge/Olinville,31.50,2
+North Corona,Auburndale,18.50,2
+Crown Heights North,Sheepshead Bay,35.50,2
+Jamaica,Laurelton,19.00,2
+Morrisania/Melrose,Bushwick South,42.00,2
+Maspeth,East New York,24.50,2
+Randalls Island,Flatiron,25.50,2
+Ozone Park,Middle Village,17.00,2
+Gowanus,South Williamsburg,26.50,2
+East Tremont,Kingsbridge Heights,33.50,2
+East Chelsea,Pelham Bay Park,50.00,2
+Central Park,East New York,54.00,2
+Queensboro Hill,Jamaica,17.50,2
+Norwood,Morningside Heights,22.50,2
+Crown Heights North,Ocean Parkway South,29.00,2
+South Jamaica,South Williamsburg,26.50,2
+Ridgewood,Clinton Hill,19.50,2
+Windsor Terrace,Murray Hill,26.50,2
+Saint Michaels Cemetery/Woodside,Sutton Place/Turtle Bay North,17.00,2
+Greenwich Village North,Westerleigh,37.00,2
+Washington Heights South,Eastchester,32.50,2
+Rego Park,Financial District South,30.50,2
+East Harlem North,Madison,67.50,2
+Kew Gardens,Jamaica Estates,12.50,2
+Financial District South,Bronx Park,33.00,2
+Fordham South,Hunts Point,17.00,2
+DUMBO/Vinegar Hill,Middle Village,26.50,2
+Red Hook,South Williamsburg,25.00,2
+Crown Heights North,Homecrest,36.00,2
+Battery Park City,Governor's Island/Ellis Island/Liberty Island,7.00,2
+Midtown Center,Pelham Bay Park,43.50,2
+Gowanus,Two Bridges/Seward Park,28.00,2
+Brownsville,Financial District North,56.00,2
+Kensington,Flatlands,23.50,2
+Briarwood/Jamaica Hills,Bellerose,14.00,2
+Red Hook,Yorkville West,49.50,2
+Bensonhurst East,South Jamaica,57.50,2
+Morrisania/Melrose,Belmont,17.00,2
+Soundview/Bruckner,LaGuardia Airport,19.50,2
+Manhattan Valley,Whitestone,29.00,2
+Canarsie,Seaport,54.00,2
+Spuyten Duyvil/Kingsbridge,Soundview/Bruckner,21.00,2
+Flushing,East New York,33.50,2
+Williamsburg (North Side),Briarwood/Jamaica Hills,28.00,2
+Outside of NYC,Ozone Park,34.50,2
+Queensbridge/Ravenswood,Woodhaven,37.50,2
+SoHo,Williamsbridge/Olinville,123.50,2
+Pelham Bay,Yorkville West,20.00,2
+Springfield Gardens South,Grymes Hill/Clifton,33.00,2
+Williamsburg (South Side),East Flatbush/Farragut,23.50,2
+Hudson Sq,Cambria Heights,54.50,2
+East Flatbush/Farragut,Crown Heights South,16.50,2
+Springfield Gardens South,Rego Park,26.00,2
+Corona,Lenox Hill East,26.50,2
+Mott Haven/Port Morris,Queens Village,34.50,2
+Brighton Beach,Park Slope,43.50,2
+Chinatown,Queensboro Hill,30.50,2
+Crown Heights North,Central Park,44.00,2
+Co-Op City,Whitestone,15.50,2
+East Village,Grymes Hill/Clifton,31.00,2
+East New York,Mount Hope,57.50,2
+East Flushing,Upper West Side South,56.50,2
+Park Slope,Kew Gardens Hills,28.50,2
+Steinway,Longwood,11.50,2
+Forest Hills,Queensbridge/Ravenswood,26.50,2
+Prospect Heights,East Harlem South,29.00,2
+Kew Gardens Hills,Richmond Hill,24.50,2
+Homecrest,Lenox Hill West,59.50,2
+Laurelton,Hollis,14.50,2
+Long Island City/Hunters Point,Bayside,24.00,2
+West Farms/Bronx River,Central Harlem North,27.50,2
+Hunts Point,Bronx Park,11.00,2
+Erasmus,Springfield Gardens North,42.00,2
+Williamsburg (South Side),Queensbridge/Ravenswood,26.50,2
+Far Rockaway,Clinton Hill,59.00,2
+Washington Heights North,Chinatown,31.50,2
+Kingsbridge Heights,Soundview/Castle Hill,13.50,2
+Melrose South,Kingsbridge Heights,20.50,2
+Prospect-Lefferts Gardens,Queensbridge/Ravenswood,41.50,2
+Flatbush/Ditmas Park,Times Sq/Theatre District,56.50,2
+Oakland Gardens,Bayside,22.50,2
+Seaport,Auburndale,27.00,2
+Middle Village,Corona,8.00,2
+Bedford,Mott Haven/Port Morris,32.00,2
+West Chelsea/Hudson Yards,Pelham Bay Park,41.00,2
+South Ozone Park,Ocean Parkway South,36.50,2
+Norwood,LaGuardia Airport,47.50,2
+Bushwick South,TriBeCa/Civic Center,29.00,2
+West Concourse,SoHo,40.00,2
+Dyker Heights,Bensonhurst West,8.50,2
+Alphabet City,Homecrest,45.00,2
+Prospect Park,Bloomingdale,41.50,2
+Old Astoria,Alphabet City,41.00,2
+Springfield Gardens South,Kew Gardens Hills,17.00,2
+Prospect-Lefferts Gardens,Gramercy,41.50,2
+Kew Gardens,Howard Beach,26.00,2
+Clinton Hill,Sunset Park East,20.50,2
+Morningside Heights,Maspeth,48.50,2
+South Ozone Park,Corona,27.50,2
+Saint Michaels Cemetery/Woodside,Lincoln Square East,28.00,2
+West Concourse,Meatpacking/West Village West,34.50,2
+Springfield Gardens North,Jamaica Estates,20.00,2
+Brooklyn Heights,Charleston/Tottenville,44.50,2
+Brighton Beach,Gravesend,14.50,2
+Carroll Gardens,Manhattanville,38.00,2
+Homecrest,Flatlands,17.00,2
+Jamaica Estates,Sunnyside,25.00,2
+Roosevelt Island,Canarsie,38.50,2
+Fort Greene,Highbridge,34.00,2

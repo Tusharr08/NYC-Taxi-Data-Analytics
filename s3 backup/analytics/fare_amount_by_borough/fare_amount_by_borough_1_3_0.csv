@@ -1,0 +1,18 @@
+PICKUP_BOROUGH,PICKUP_ZONE,AVG_FARE,AVG_DISTANCE
+Manhattan,Governor's Island/Ellis Island/Liberty Island,18.6,5.38
+Brooklyn,Columbia Street,18.59,4.5
+Bronx,East Concourse/Concourse Village,18.57,3.08
+Brooklyn,Park Slope,18.49,4.32
+Brooklyn,Williamsburg (South Side),18.42,4.04
+Manhattan,Battery Park,18.28,4.64
+Brooklyn,South Williamsburg,18.14,3.47
+Brooklyn,Cobble Hill,18.03,4.38
+Brooklyn,Brooklyn Navy Yard,18,4.05
+Manhattan,World Trade Center,17.95,4.49
+Manhattan,Battery Park City,17.88,4.64
+Brooklyn,Greenpoint,17.82,4.26
+Manhattan,Washington Heights South,17.82,4.49
+Manhattan,Financial District North,17.79,4.64
+Brooklyn,Williamsburg (North Side),17.66,4.14
+Brooklyn,Carroll Gardens,17.41,4.23
+Brooklyn,Bedford,17.33,2.48
